@@ -1,0 +1,16 @@
+
+bsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(Şàà·şÿÿÿÿ
+Dsquid:S1604"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+]squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(İè€¼
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á›—£
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(‚£Ó½
+T
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÙÚÊÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚Œ•ıÿÿÿÿ
+gsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(°Ù§üüÿÿÿÿ

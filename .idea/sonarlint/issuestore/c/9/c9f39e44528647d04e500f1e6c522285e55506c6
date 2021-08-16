@@ -1,0 +1,5 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8¡Ü¦½¦/
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(‰ÁŽëøÿÿÿÿ8—«å½¦/
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùãær8•¯¥½¦/

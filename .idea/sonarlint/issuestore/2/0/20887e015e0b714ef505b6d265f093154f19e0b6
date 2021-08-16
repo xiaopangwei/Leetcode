@@ -1,0 +1,8 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8Èç£ã£/
+U
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Şã98²„¤/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(—¼øÉ8“ì‚¤/
+V
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÈŞİĞ8ÓÖÿŒ¤/
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8£ØÚŒ¤/

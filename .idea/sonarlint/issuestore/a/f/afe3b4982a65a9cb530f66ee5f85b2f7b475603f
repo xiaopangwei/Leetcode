@@ -1,0 +1,10 @@
+
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ƒÃ¿÷8í³èØ³/
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(Ý¿â¦8í³èØ³/
+U
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ü„ê!8í³èØ³/
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ë³›åýÿÿÿÿ8í³èØ³/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ç‘çÔ8ç ®Ø³/

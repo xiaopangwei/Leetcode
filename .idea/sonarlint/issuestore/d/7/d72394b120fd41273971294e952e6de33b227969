@@ -1,0 +1,16 @@
+
+Nsquid:S1172"+Remove this unused method parameter "nums".(æÊÙŞşÿÿÿÿ8¿¤È÷ú.
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ8œ¹˜øú.
+Ksquid:S1604-"(Make this anonymous inner class a lambda(ç¼ÓŠùÿÿÿÿ8ËŠ»øú.
+©%squid:RedundantThrowsDeclarationCheck&"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ï‰­øú.
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(û‡£Ëúÿÿÿÿ8ıÛ¶øú.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¯ıçÌ8ï‰­øú.
+Nsquid:S1481'"0Remove this unused "solution134" local variable.(×‰°Ô8ˆÊÇ÷ú.
+]squid:S1854'"?Remove this useless assignment to local variable "solution134".(×‰°Ô8ˆÊÇ÷ú.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(½½Ì—şÿÿÿÿ8º¼øú.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ê§à±şÿÿÿÿ8ï‰­øú.

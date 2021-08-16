@@ -1,0 +1,12 @@
+
+nsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(°©ÿÊþÿÿÿÿ8¸¬…¤/
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¹©Öùÿÿÿÿ8“í„¤/
+\
+squid:S106„"9Replace this use of System.out or System.err by a logger.(Ø¹©Öùÿÿÿÿ8“í„¤/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(úòž†8´›îœ¤/
+wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•›ìø8×¼Æœ¤/
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(Ø¹©Öùÿÿÿÿ8“í„¤/
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Ø¹©Öùÿÿÿÿ8»´ôœ¤/

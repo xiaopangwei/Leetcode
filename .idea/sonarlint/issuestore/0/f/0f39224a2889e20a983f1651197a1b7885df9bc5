@@ -1,0 +1,12 @@
+
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÇúªÓþÿÿÿÿ8“Ãôƒ¥/
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(‘“Æïûÿÿÿÿ8á¤ƒ„¥/
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ÛõÈ‰úÿÿÿÿ8³×ïƒ¥/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(·ÔÅèùÿÿÿÿ8¤ýóƒ¥/
+Ksquid:S1172"(Remove this unused method parameter "k".(îþÓýùÿÿÿÿ8³×ïƒ¥/
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¨¨¹åþÿÿÿÿ8á¶ßƒ¥/
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(§«Ï‹8³×ïƒ¥/
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8—Àƒ¥/

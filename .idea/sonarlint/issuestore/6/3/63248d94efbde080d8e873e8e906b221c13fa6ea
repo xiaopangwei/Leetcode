@@ -1,0 +1,14 @@
+
+?squid:S1604~"(Make this anonymous inner class a lambda(Л╦их
+@squid:S1148Д"#Use a logger to log this exception.(А╔╘Е¤    
+]squid:S2142x"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А
+Г"squid:ClassVariableVisibilityCheck&"PMake flag a static final constant or non-public and provide accessors if needed.(Г╬л╛■    
+^squid:S2142П"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А
+^squid:S2142Г"FEither re-interrupt this method or rethrow the "InterruptedException".(фа╣А
+@squid:S1604К"(Make this anonymous inner class a lambda(Л╦их
+@squid:S1148Р"#Use a logger to log this exception.(А╔╘Е¤    
+O
+squid:S106m"9Replace this use of System.out or System.err by a logger.(Ё╙ъ√
+?squid:S1148y"#Use a logger to log this exception.(А╔╘Е¤    
+?squid:S1604j"(Make this anonymous inner class a lambda(┬Ё╞╙
+?squid:S1604s"(Make this anonymous inner class a lambda(Л╦их

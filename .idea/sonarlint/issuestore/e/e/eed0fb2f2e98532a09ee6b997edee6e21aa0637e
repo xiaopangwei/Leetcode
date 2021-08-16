@@ -1,0 +1,8 @@
+
+^squid:S1126"AReplace this if-then-else statement by a single return statement.(²Çïz8‰°ÄÀ¯/
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(öñÚÿÿÿÿÿ8¿¾¦À¯/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(½§ÿ¢ıÿÿÿÿ8ÉÖİ¿¯/
+U
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ü„ê!8ı„ÒÀ¯/
+V
+squid:S106M"9Replace this use of System.out or System.err by a logger.(İ¿â¦8•‹Á¯/

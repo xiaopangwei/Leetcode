@@ -1,0 +1,9 @@
+
+[
+squid:S106i"9Replace this use of System.out or System.err by a logger.(¦°¦êÿÿÿÿÿ8¸ƒî¡û.
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Ì«ÏÀýÿÿÿÿ8·Ï  û.
+dsquid:UselessImportCheck"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ8þ½‡û.
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(Þ‚»€8ÊÓë¡û.
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(þœá“þÿÿÿÿ8Øºî¡û.
+dsquid:S1126C"AReplace this if-then-else statement by a single return statement.(‘ØâÀüÿÿÿÿ8‰×Ï¡û.

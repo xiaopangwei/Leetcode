@@ -1,0 +1,17 @@
+
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(žš×8ÁíÜšý.
+Jsquid:S1481K"'Remove this unused "p1" local variable.(Ê¿ˆÆøÿÿÿÿ8ãˆï›ý.
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¹¾þ·8ØÆž›ý.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îîÕæ8™¦››ý.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ãÚºéýÿÿÿÿ8»‰Ú˜ý.
+~squid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(š˜ñÄùÿÿÿÿ8™¦››ý.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(³ŒÀ²ÿÿÿÿÿ8ç…ž›ý.
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¼À½Áþÿÿÿÿ8ñÃ¸šý.
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¿¢ÉÅ8ñÃ¸šý.
+Csquid:S1659K" Declare "p2" on a separate line.(Ê¿ˆÆøÿÿÿÿ8¶¤ð›ý.
+Fsquid:S1172"(Remove this unused method parameter "k".(Ç‘ØÈ8ñÃ¸šý.
+nsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ãÎêóüÿÿÿÿ8Ö¾»›ý.

@@ -1,0 +1,6 @@
+
+Fsquid:S1604"(Make this anonymous inner class a lambda(…‰Á°8Œ¦Ÿâ¬/
+wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(è Ö8‹™œâ¬/
+[
+squid:S106V"9Replace this use of System.out or System.err by a logger.(Øå¡îúÿÿÿÿ8Ä²¦â¬/
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(‘×­´ûÿÿÿÿ8ÿİÒå¬/

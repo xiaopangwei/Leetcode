@@ -1,0 +1,8 @@
+
+isquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(åáŠÃ8ªæïªø.
+isquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ºéª¼8ªæïªø.
+Ksquid:S1604"(Make this anonymous inner class a lambda(œ†Á®ûÿÿÿÿ8Ž˜ø¤ø.
+Lsquid:S1481)")Remove this unused "flag" local variable.(ŸÿáÑÿÿÿÿÿ8Ì·Ýªø.
+Dsquid:S1168&"&Return an empty array instead of null.(¥¹ï8‡þ™¥ø.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(»ŽÛüÿÿÿÿ8š¨‚¦ø.

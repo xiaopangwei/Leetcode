@@ -1,0 +1,8 @@
+
+nsquid:S1764C"KCorrect one of the identical sub-expressions on both sides of operator "&&"(ÔÌàôùÿÿÿÿ8“ˆƒÜ®/
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾â–ä8Ú¯Ù®/
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(í‚»Şüÿÿÿÿ8‰…ÇÛ®/
+U
+squid:S106r"9Replace this use of System.out or System.err by a logger.(ü„ê!8››÷Û®/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İå¸Éûÿÿÿÿ8šëÿÛ®/
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÆ—Äúÿÿÿÿ8¶ãÙ®/

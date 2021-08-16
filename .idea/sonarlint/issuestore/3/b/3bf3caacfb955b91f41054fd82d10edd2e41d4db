@@ -1,0 +1,17 @@
+
+zsquid:S1488("\Immediately return this expression instead of assigning it to the temporary variable "root".(Ã‰ı×8šøìŞ¯/
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(å¹ä“ıÿÿÿÿ8ú¡¥Ş¯/
+…"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(ó÷ÔÄ8ãÇ˜İ¯/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈ×óşÿÿÿÿ8ãÇ˜İ¯/
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(×ŸÛ8¨ß÷Ş¯/
+„"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8ãÇ˜İ¯/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈ×óşÿÿÿÿ8ãÇ˜İ¯/
+lsquid:UselessImportCheck"ARemove this unused import 'com.sun.tools.corba.se.idl.StringGen'.(×ŸÛ8¨ß÷Ş¯/
+[
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¾Å†êÿÿÿÿÿ8†ØŞ¯/
+†"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(Ö¢è¥8ãÇ˜İ¯/
+Š"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ8ãÇ˜İ¯/
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛÀ¼8ãÇ˜İ¯/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈ×óşÿÿÿÿ8ãÇ˜İ¯/
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÈ×óşÿÿÿÿ8ãÇ˜İ¯/

@@ -1,0 +1,7 @@
+
+Ysquid:S1854"6Remove this useless assignment to local variable "dp".(ô¢ˆŞûÿÿÿÿ8­Ù¢è¡/
+Dsquid:S1168"&Return an empty array instead of null.(¥¹ï8­Ù¢è¡/
+Jsquid:S1481"'Remove this unused "dp" local variable.(ô¢ˆŞûÿÿÿÿ8­Ù¢è¡/
+Isquid:S1172"&Remove these unused method parameters.(ÒœÂÓüÿÿÿÿ8­Ù¢è¡/
+asquid:UnusedPrivateMethod"0Remove this unused private "isAllMatrix" method.(ÒœÂÓüÿÿÿÿ8­Ù¢è¡/
+`squid:UnusedPrivateMethod"/Remove this unused private "isAllBlack" method.(¦îíüÿÿÿÿ8­Ù¢è¡/

@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Ÿ¼§ñ8ß¨¡–¥/
+=squid:S2097"Add a type test to this method.(ÜÑã8Ô‡“¥/
+nsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(”ý·öùÿÿÿÿ8ñÈ›–¥/
+jsquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(¢¬òÚ8ã¼´¥/
+ƒ"squid:ClassVariableVisibilityCheck"NMake c2 a static final constant or non-public and provide accessors if needed.(Žãéš8¼ªŽ¥/
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(Øþ…ôøÿÿÿÿ8³ƒµ¥/
+usquid:S3776/"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(–ÖþŸùÿÿÿÿ8µ½í¥/
+ƒ"squid:ClassVariableVisibilityCheck"NMake c1 a static final constant or non-public and provide accessors if needed.(è‹×†8¼ªŽ¥/

@@ -1,0 +1,16 @@
+
+osquid:S1871]"LThis branch's code block is the same as the block for the branch on line 89.(Ô¤ÆÄùÿÿÿÿ8æ±®à±/
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õî×Îıÿÿÿÿ8âîà±/
+osquid:S1871["LThis branch's code block is the same as the block for the branch on line 89.(Í¦Œüÿÿÿÿ8æ±®à±/
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.( ®ù8ï«ïà±/
+jsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(³×•—8âîà±/
+jsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(Œï¡8âîà±/
+…"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8‹Ë‚Õ±/
+jsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œï¡8ã¬à±/
+jsquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Œï¡8…¿îß±/
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õî×Îıÿÿÿÿ8ã¬à±/
+ˆ"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8‹Ë‚Õ±/
+osquid:CommentedOutCodeLine‰"<This block of commented-out lines of code should be removed.(õî×Îıÿÿÿÿ8…¿îß±/
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Òà´Ç8ç…Ö±/

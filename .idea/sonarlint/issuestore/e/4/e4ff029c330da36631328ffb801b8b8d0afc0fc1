@@ -1,0 +1,7 @@
+
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(µœ¶úÿÿÿÿ8¼®…¥/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğë¡ˆşÿÿÿÿ8ÃÛ£¥/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(È¬´›8ãË¬¥/
+Zsquid:S1854"7Remove this useless assignment to local variable "end".(²ï„Áıÿÿÿÿ8ˆşéŒ¥/

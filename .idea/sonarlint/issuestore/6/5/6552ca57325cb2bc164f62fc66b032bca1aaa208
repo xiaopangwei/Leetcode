@@ -1,0 +1,9 @@
+
+Rsquid:S1066"/Merge this if statement with the enclosing one.(‡ª¦ğùÿÿÿÿ8Şº³¯/
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ8Å¢Ï³¯/
+isquid:S2184/"FCast one of the operands of this multiplication operation to a "long".(öêöÿÿÿÿÿ8è³¯/
+hsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(Û’à8Å¢Ï³¯/
+Msquid:S1066$"/Merge this if statement with the enclosing one.(ñ²Ñ¦8Ûö½³¯/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(ªù¨óıÿÿÿÿ8Şº³¯/
+dsquid:S21840"FCast one of the operands of this multiplication operation to a "long".(ğÙôâ8Å¿é³¯/

@@ -1,0 +1,17 @@
+
+Rsquid:S1481*"/Remove this unused "kthElement" local variable.(Ü¤üÀüÿÿÿÿ8áëŒÔ§/
+Hsquid:S1659"%Declare "length2" on a separate line.( øâ¾øÿÿÿÿ8áëŒÔ§/
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(„íÑíüÿÿÿÿ8ÆææÔ§/
+Jsquid:S1659"'Declare "midIndex2" on a separate line.(¤œ€¿üÿÿÿÿ8áëŒÔ§/
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(¢¬Ï²şÿÿÿÿ8åóåÔ§/
+Bsquid:S1659)"$Declare "index2" on a separate line.(ÍéÜ8áëŒÔ§/
+Bsquid:S1659A"$Declare "pivot2" on a separate line.(±½òò8ù†èÔ§/
+U
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¢á@8©×ßÔ§/
+|squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "median".(´¼8áëŒÔ§/
+squid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "median".(ÎÅôØùÿÿÿÿ8áëŒÔ§/
+V
+squid:S106@"9Replace this use of System.out or System.err by a logger.(Ã¤‰£8ËùëÔ§/
+Hsquid:S1659("%Declare "length2" on a separate line.( øâ¾øÿÿÿÿ8áëŒÔ§/

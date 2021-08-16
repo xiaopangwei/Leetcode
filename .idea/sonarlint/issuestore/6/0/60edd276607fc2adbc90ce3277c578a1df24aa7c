@@ -1,0 +1,8 @@
+
+dsquid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8äÉÇ…ÿ.
+ squid:ForLoopCounterChangedCheck*"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘¦ä’ÿÿÿÿÿ8™¼Ö…ÿ.
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8æØÏ…ÿ.
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(·Ûëİ8¬ÅÃ…ÿ.
+Ksquid:S1604'"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ8öÀÅ…ÿ.
+Fsquid:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8äÉÇ…ÿ.

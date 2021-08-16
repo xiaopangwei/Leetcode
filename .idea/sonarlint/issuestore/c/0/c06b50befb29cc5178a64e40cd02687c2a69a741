@@ -1,0 +1,13 @@
+
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(¦œß®8­ç¨á¬/
+V
+squid:S106u"9Replace this use of System.out or System.err by a logger.(÷â€å8­ç¨á¬/
+nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(À Ôœúÿÿÿÿ8­ç¨á¬/
+dsquid:S1126X"AReplace this if-then-else statement by a single return statement.(¼Ø”Éûÿÿÿÿ8§Ä¨á¬/
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(÷â€å8­ç¨á¬/
+{
+squid:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(°ÜÐŒüÿÿÿÿ8§Ä¨á¬/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ç¡ž€øÿÿÿÿ8§Ä¨á¬/
+_squid:S1126_"AReplace this if-then-else statement by a single return statement.(‹èû…8§Ä¨á¬/

@@ -1,0 +1,13 @@
+
+Fsquid:S1604A"(Make this anonymous inner class a lambda(ÂğÆÓ8°È¼¢ù.
+dsquid:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÂòÅ¢ù.
+Fsquid:S1604J"(Make this anonymous inner class a lambda(‹Ë¨å8»•Å¢ù.
+dsquid:S2142f"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÂòÅ¢ù.
+Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹¹Å¢ù.
+Fsquid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂòÅ¢ù.
+Fsquid:S1604U"(Make this anonymous inner class a lambda(‹Ë¨å8ÂòÅ¢ù.
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ğÓêû8°È¼¢ù.
+dsquid:S2142O"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¹¹Å¢ù.
+Fsquid:S1604a"(Make this anonymous inner class a lambda(‹Ë¨å8ÂòÅ¢ù.
+Fsquid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂòÅ¢ù.

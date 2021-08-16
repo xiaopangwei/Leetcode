@@ -1,0 +1,14 @@
+
+dsquid:S1126C"AReplace this if-then-else statement by a single return statement.(ªÜ÷Şùÿÿÿÿ8î·õ®ø.
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Æ­ß¿8Ÿ…¯ø.
+U
+squid:S106P"9Replace this use of System.out or System.err by a logger.(¶ÌÇ,8İŸ¡¯ø.
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¼…‘ûÿÿÿÿ8Ÿ…¯ø.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ı›ùÃÿÿÿÿÿ8¬Ê´¯ø.
+V
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ÂçÇÜ8„‹¡¯ø.
+V
+squid:S106J"9Replace this use of System.out or System.err by a logger.(Ó´Ò8ï„¯ø.

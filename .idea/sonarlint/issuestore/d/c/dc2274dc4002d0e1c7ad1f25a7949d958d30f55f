@@ -1,0 +1,7 @@
+
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8€®ıü.
+Lsquid:S54130")Verify that "remove()" is used correctly.(ç“—”şÿÿÿÿ8ÿÇÏıü.
+N
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ü„ê!
+isquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(“§Áê8í½²şü.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(Â‚ÖÔùÿÿÿÿ8À§²şü.

@@ -1,0 +1,12 @@
+
+9squid:S3626A"Remove this redundant jump.(ÉŠ©ƒ8³±ñÊû.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÿºÓÄûÿÿÿÿ8¼÷ÄÊû.
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(£Îô°üÿÿÿÿ8¢‚ÄÊû.
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(€×åÿÿÿÿÿ8‹¶Êû.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(ï–õ8Ç›Êû.
+U
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ü„ê!8ÖóéÉû.
+Psquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8âŒŸÉû.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÖÊû.

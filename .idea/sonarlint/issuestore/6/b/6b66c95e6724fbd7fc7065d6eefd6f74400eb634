@@ -1,0 +1,22 @@
+
+jsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+jsquid:S2975 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+Ysquid:HiddenFieldCheck#"7Rename "bag" which hides the field declared at line 30.(ÊğÒƒ
+T
+squid:S106^"9Replace this use of System.out or System.err by a logger.(û‡£Ëúÿÿÿÿ
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(’œšşÿÿÿÿ
+asquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Äó•U
+bsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(óÂä·
+`squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(®÷7
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(©åÏÈûÿÿÿÿ
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ãá–êùÿÿÿÿ
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(¨¾ ì
+bsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(õ“ˆä
+bsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ÂÇØ‚
+gsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(ÊõˆŒúÿÿÿÿ
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(ó†ÿçÿÿÿÿÿ
+bsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(¨¾ ì
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ü’Âãøÿÿÿÿ
+bsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(õ“ˆä
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ó†ÿçÿÿÿÿÿ

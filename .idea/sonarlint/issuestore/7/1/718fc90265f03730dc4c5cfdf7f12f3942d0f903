@@ -1,0 +1,24 @@
+
+Usquid:S4973N"9Use the "equals" method if value comparison was intended.(«ç¤Âÿÿÿÿÿ
+Zsquid:S2166"CRename this class to remove "Exception" or correct its inheritance.(ÔƒÜç
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¶´›§þÿÿÿÿ
+7squid:S2129K" Remove this "String" constructor(°å¯õ
+7squid:S2129K" Remove this "String" constructor(°å¯õ
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉÌÏÃøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áíüÈùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡ÃŠ¯þÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þ¾ûãýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”É‚îüÿÿÿÿ
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.( Ùø‚ùÿÿÿÿ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Êˆ’ïøÿÿÿÿ
+asquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.( ‹š
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(þëžðøÿÿÿÿ
+gsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(Ý±»Áÿÿÿÿÿ
+gsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ÿ¿ƒÛùÿÿÿÿ
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(”´·®ýÿÿÿÿ
+bsquid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(¦–¶–
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(¿ÀÃúÿÿÿÿ

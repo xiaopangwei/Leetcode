@@ -1,0 +1,16 @@
+
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ž®ñúÿÿÿÿ8æÑÖ’°/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÄ¸Á8šëÖ’°/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ð¥¥Õúÿÿÿÿ8º´Ú’°/
+msquid:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(Ð¥¥Õúÿÿÿÿ8º´Ú’°/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ä­ïúÿÿÿÿ8‚ÑÚ’°/
+msquid:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(å¤¢†ùÿÿÿÿ8ü”Û’°/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(üù×ì8Æ‹Ú’°/
+bsquid:S1854"?Remove this useless assignment to local variable "solution136".(‚á¬ìþÿÿÿÿ8æÑÖ’°/
+hsquid:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(üù×ì8Æ‹Ú’°/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(å¤¢†ùÿÿÿÿ8ÞèÚ’°/
+Ssquid:S1481"0Remove this unused "solution136" local variable.(‚á¬ìþÿÿÿÿ8æÑÖ’°/

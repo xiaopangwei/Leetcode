@@ -1,0 +1,12 @@
+
+Ά%squid:RedundantThrowsDeclarationCheck "lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ΩΨ¤ήύÿÿÿÿ
+O
+squid:S106$"9Replace this use of System.out or System.err by a logger.(Α΅
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(κ½
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(±ωρΦ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(χ‰Ελώÿÿÿÿ
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ζ™©

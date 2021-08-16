@@ -1,0 +1,6 @@
+
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8¹¥õ§/
+u
+squid:S135""YReduce the total number of break and continue statements in this loop to use at most one.(…‘ò/8öúå§/
+„"squid:ClassVariableVisibilityCheck"OMake ans a static final constant or non-public and provide accessors if needed.(Õ€±Ç8ŞÍó§/

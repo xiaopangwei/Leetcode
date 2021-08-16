@@ -1,0 +1,10 @@
+
+nsquid:CommentedOutCodeLine<"<This block of commented-out lines of code should be removed.(‹ñÁÜùÿÿÿÿ8‹çÞ²¯/
+{
+squid:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ýÖ±¯/
+osquid:S1871"LThis branch's code block is the same as the block for the branch on line 21.(®“ÿûÿÿÿÿ8Äÿ²¯/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¥¾›¤8ñÜâ²¯/
+dsquid:S3027^"FPut single-quotes around '.' to use the faster "indexOf(char)" method.( •ˆ8ìþ³¯/
+U
+squid:S106t"9Replace this use of System.out or System.err by a logger.(ü„ê!8žõÞ±¯/
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(­½‘¾8‹çÞ²¯/

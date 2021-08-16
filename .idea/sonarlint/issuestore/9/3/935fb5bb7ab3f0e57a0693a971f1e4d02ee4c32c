@@ -1,0 +1,10 @@
+
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‰Øšæøÿÿÿÿ8«¸›³/
+\squid:S22596"?A "NullPointerException" could be thrown; "b" is nullable here.(¹îÊ8 Ï®›³/
+Bsquid:S1659"Declare "b" on a separate line.(Ôó·éùÿÿÿÿ8¡â‰›³/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(†¦æ‰ÿÿÿÿÿ8¼Ó–›³/
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(‰ıàÿÿÿÿÿ8Ö•°›³/
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ŠÈİà8Àœš³/
+bsquid:S22595"?A "NullPointerException" could be thrown; "a" is nullable here.(…ö™Öıÿÿÿÿ8 Ï®›³/
+tsquid:UselessImportCheck"IRemove this unused import 'org.omg.PortableInterceptor.SYSTEM_EXCEPTION'.(öØÁ8ŞÙ·›³/

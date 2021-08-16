@@ -1,0 +1,10 @@
+
+Nsquid:S1481#"+Remove this unused "apple1" local variable.(ƒ©œºúÿÿÿÿ8³÷’Ëú.
+Isquid:S1481$"+Remove this unused "fruit1" local variable.(µçæ²8èÞ“Ëú.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8˜ï™Çú.
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Field'.(„‡Áú8˜ï™Çú.
+esquid:S2094"BRemove this empty class, write its code or make it an "interface".(“¥º¶þÿÿÿÿ8œÅüÊú.
+]squid:S1854#":Remove this useless assignment to local variable "apple1".(ƒ©œºúÿÿÿÿ8³÷’Ëú.
+psquid:UselessImportCheck"@Remove this unused import 'java.lang.reflect.ParameterizedType'.(ÎÏ˜™ÿÿÿÿÿ8˜ï™Çú.
+csquid:UselessImportCheck"3Remove this unused import 'leetcode.p20210214.Son'.(•’ˆÒøÿÿÿÿ8˜ï™Çú.
+Xsquid:S1854$":Remove this useless assignment to local variable "fruit1".(µçæ²8èÞ“Ëú.

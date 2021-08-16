@@ -1,0 +1,11 @@
+
+Ksquid:S1604G"(Make this anonymous inner class a lambda(»ý˜µüÿÿÿÿ8’–¾Ìú.
+nsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(Ì’¥Âûÿÿÿÿ8èÒ×Ìú.
+Zsquid:S3655G"7Call "Optional#isPresent()" before accessing the value.(»ý˜µüÿÿÿÿ8ˆ¤ßÍú.
+Rsquid:EmptyStatementUsageCheckM"Remove this empty statement.(ôŸŽìúÿÿÿÿ8Ú–ãÍú.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åËþ©8­ÂÕÍú.
+©%squid:RedundantThrowsDeclarationCheck]"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8é ÓÌú.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²‰è›8¤†ÕÍú.
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(›½Î‹þÿÿÿÿ8©“ÖÌú.
+_squid:S1126U"AReplace this if-then-else statement by a single return statement.(»ñ°8ç©ŠÌú.

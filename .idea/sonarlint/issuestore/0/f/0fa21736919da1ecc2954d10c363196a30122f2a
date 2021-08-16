@@ -1,0 +1,16 @@
+
+]squid:S2142^"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+]squid:S2142M"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1604T"(Make this anonymous inner class a lambda(‚œè¯
+O
+squid:S106<"9Replace this use of System.out or System.err by a logger.(÷“—È
+fsquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öšã´
+¢%squid:RedundantThrowsDeclarationCheck?"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Dsquid:S1604X"(Make this anonymous inner class a lambda(ï¢§¯ûÿÿÿÿ
+?squid:S1148N"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Öšã´
+?squid:S1604B"(Make this anonymous inner class a lambda(ôö‘
+fsquid:S00100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷“—È
+Dsquid:S1604G"(Make this anonymous inner class a lambda(Ú„ÔÞøÿÿÿÿ

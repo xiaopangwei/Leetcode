@@ -1,0 +1,20 @@
+
+Gsquid:S1444"+Make this "public static CONST" field final(Úæ¨¹ÿÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck"QMake CONST a static final constant or non-public and provide accessors if needed.(Úæ¨¹ÿÿÿÿÿ
+lsquid:S3008"PRename this field "CONST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úæ¨¹ÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(’Ù©Ê
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶Ä²àùÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ø
+usquid:S1171#"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ƒÅÜü
+Osquid:S1854."8Remove this useless assignment to local variable "son2".(„…µÈ
+Tsquid:S1854-"8Remove this useless assignment to local variable "son1".(ö’óêûÿÿÿÿ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÑÁ´Ê
+Esquid:S1481-")Remove this unused "son1" local variable.(ö’óêûÿÿÿÿ
+@squid:S1481.")Remove this unused "son2" local variable.(„…µÈ

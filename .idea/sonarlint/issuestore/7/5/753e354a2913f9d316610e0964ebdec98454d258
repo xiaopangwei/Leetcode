@@ -1,0 +1,15 @@
+
+Ksquid:S1604+"(Make this anonymous inner class a lambda(ñÜØ½ùÿÿÿÿ8¬ÂÃ¹°/
+=squid:S2097"Add a type test to this method.(ÜÑã8”ç¬º°/
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(«ÇÈì8­¼Àº°/
+U
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ü„ê!8‘İÿ¹°/
+"squid:ClassVariableVisibilityCheck"TMake distance a static final constant or non-public and provide accessors if needed.(»‡¼´ÿÿÿÿÿ8«Éªº°/
+fsquid:S2259"CA "NullPointerException" could be thrown; "biKey" is nullable here.(şêÓˆûÿÿÿÿ8¨¯º°/
+nsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8’æªº°/
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(şêÓˆûÿÿÿÿ8¨¯º°/
+ˆ"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8«Éªº°/
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ßúšáúÿÿÿÿ8éÊ˜º°/
+psquid:S3776!"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ığŸæ8î¦¿¹°/

@@ -1,0 +1,5 @@
+
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(”Øò¨8ÔÅ„Ô‚/
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8€Ø²Ó‚/
+Ksquid:S1604"(Make this anonymous inner class a lambda(Ìì¯˜ùÿÿÿÿ8—Ö·Ó‚/

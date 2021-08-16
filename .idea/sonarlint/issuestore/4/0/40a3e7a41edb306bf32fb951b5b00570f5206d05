@@ -1,0 +1,11 @@
+
+9squid:S3626("Remove this redundant jump.(ÉŠ©ƒ8¬°©‹¥/
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‘È¾8ˆğ®‹¥/
+Fsquid:S1604"(Make this anonymous inner class a lambda(ûÓÆ—8¡ÜŠ¥/
+{
+squid:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(†ãŠœûÿÿÿÿ8¬°©‹¥/
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(û¼âüÿÿÿÿ8÷Ô­‹¥/
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(‘Ü¿íøÿÿÿÿ8ˆğ®‹¥/

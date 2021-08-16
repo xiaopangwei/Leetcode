@@ -1,0 +1,6 @@
+
+U
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ò„§H8Š­™—¯/
+isquid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(Õ•£ì8š‹¯—¯/
+hsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(«Þ›K8åÐ¯—¯/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÙÛþþÿÿÿÿ8ãÁ€—¯/

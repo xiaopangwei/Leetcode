@@ -1,0 +1,9 @@
+
+‡"squid:ClassVariableVisibilityCheck"MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿ8å“ç·£/
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8¨‘‚º£/
+jsquid:S1871X"LThis branch's code block is the same as the block for the branch on line 85.(ğşœô8å“ç·£/
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8„®º£/
+Lsquid:S5413H")Verify that "remove()" is used correctly.(Ãæäúøÿÿÿÿ8ƒ×ï·£/
+‡"squid:ClassVariableVisibilityCheck"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛşÿÿÿÿ8å“ç·£/
+U
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ü„ê!8ßÊ‘º£/

@@ -1,0 +1,5 @@
+
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ό„κ!8΄Ι–―/
+Fsquid:S1125"(Remove the literal "true" boolean value.(γηƒ¶8φϊκ•―/
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ζ²’§8ϋΤ²–―/

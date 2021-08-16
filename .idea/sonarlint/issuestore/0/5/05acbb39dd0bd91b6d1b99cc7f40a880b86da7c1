@@ -1,0 +1,12 @@
+
+Rsquid:S1066I"/Merge this if statement with the enclosing one.(±Şøûÿÿÿÿ8ıìÙ°©/
+Msquid:S10667"/Merge this if statement with the enclosing one.( ÊÊ½8»°Ù°©/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñ¤²öüÿÿÿÿ8¸¯¹°©/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄØÊ8ùá³°©/
+dsquid:S1126R"AReplace this if-then-else statement by a single return statement.(Óö¦´øÿÿÿÿ8¸àÔ°©/
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(¬ùıÿÿÿÿ8œĞé°©/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤ãçù8”Ş²°©/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(§æÜ­øÿÿÿÿ8ùá³°©/
+Rsquid:S1066="/Merge this if statement with the enclosing one.(˜–ÿıÿÿÿÿ8ıìÙ°©/
+Msquid:S1066C"/Merge this if statement with the enclosing one.(îù¹‚8ıìÙ°©/

@@ -1,0 +1,15 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠÎÛşÿÿÿÿ8úõ©±ú.
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(»ıòÈ
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(†Õ¯
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ƒé²
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¬©ƒˆ8²ú.
+isquid:CommentedOutCodeLinej"<This block of commented-out lines of code should be removed.(ÍÍ8ÈáÏ²ú.
+u
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78úõ©±ú.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8­­¢²ú.

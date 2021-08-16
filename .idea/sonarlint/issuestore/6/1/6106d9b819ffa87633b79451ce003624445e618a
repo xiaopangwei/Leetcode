@@ -1,0 +1,11 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(£ς¥ϊ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(ΪΠρ
+?squid:S1068J"(Remove this unused "name" private field.(Λ¥Ό
+Csquid:S1068K"'Remove this unused "age" private field.(Ζ†΄¦ώÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Γΐ›
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(δ‘°Ϊϋÿÿÿÿ
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ύ‹π
+bsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ι¨ηΨ

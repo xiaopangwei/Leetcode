@@ -1,0 +1,45 @@
+
+gsquid:S11927"KDefine a constant instead of duplicating this literal "Successor " 3 times.(ìã×Áùÿÿÿÿ
+hsquid:S1192"LDefine a constant instead of duplicating this literal "Motherland " 3 times.(›¤•ùÿÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¡ÛÚíùÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‡¸Úíøÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Òğ‚á
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹çŒÈùÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(şœ§üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›¤•ùÿÿÿÿÿ
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(úĞ¯_
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(“¥İ
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(ù›‹ìøÿÿÿÿ
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ìã×Áùÿÿÿÿ
+usquid:S1171;"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+T
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ÍšØ›ûÿÿÿÿ
+N
+squid:S106="9Replace this use of System.out or System.err by a logger.(œ‘’f
+N
+squid:S106>"9Replace this use of System.out or System.err by a logger.(É‚Û
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ìÄ…ê
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¹âº±
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(®ÖÕ®
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Î•Äœ
+O
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(”óÆ
+N
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Ú¶í_
+T
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ı×¨Íúÿÿÿÿ
+N
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ú¶í_
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(±à¨Šüÿÿÿÿ

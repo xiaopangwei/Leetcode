@@ -1,0 +1,9 @@
+
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(­¶»êøÿÿÿÿ8¨£ï»£/
+isquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(”áÕš8§£ï»£/
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(òëªáþÿÿÿÿ8¨£ï»£/
+Asquid:S1659"#Declare "right" on a separate line.(£ÊÇç8¡’Ã»£/
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ŸƒÂŠ8 ²®»£/
+^squid:UnusedPrivateMethod)"2Remove this unused private "isGreaterThan" method.(Ÿ‹´8ø¸Ñ½£/
+nsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(ëžäçúÿÿÿÿ8Ð©Ø»£/

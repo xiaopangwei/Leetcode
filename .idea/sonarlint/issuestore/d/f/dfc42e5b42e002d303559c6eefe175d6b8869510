@@ -1,0 +1,7 @@
+
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ñ òçùÿÿÿÿ8¸×ªƒ°/
+Bsquid:S1659"Declare "q" on a separate line.(©ï¢ßüÿÿÿÿ8ğØ—ƒ°/
+[squid:S1854("8Remove this useless assignment to local variable "root".(±öŒŸıÿÿÿÿ8›æ¯ƒ°/
+Bsquid:S1659"Declare "r" on a separate line.(©ï¢ßüÿÿÿÿ8ğšƒ°/
+Lsquid:S1481(")Remove this unused "root" local variable.(±öŒŸıÿÿÿÿ8›æ¯ƒ°/

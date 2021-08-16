@@ -1,0 +1,22 @@
+
+Fsquid:S1148p"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8œ…ù.
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8ú”ûÿø.
+U
+squid:S106F"9Replace this use of System.out or System.err by a logger.(¸ØïU8ÉÅİ€ù.
+Fsquid:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à…ù.
+Fsquid:S1148|"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒß“ù.
+©%squid:RedundantThrowsDeclarationCheckA"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8üëş€ù.
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ºÙ„½8»‰Ş€ù.
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÎÂÃ8ú”ûÿø.
+dsquid:S2142o"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8œ…ù.
+dsquid:S2142{"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ƒß“ù.
+Fsquid:S1604v"(Make this anonymous inner class a lambda(Ç—Œ‹8ƒß“ù.
+Ksquid:S1604J"(Make this anonymous inner class a lambda(’¯Ì¢ùÿÿÿÿ8»‰Ş€ù.
+[
+squid:S106M"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ8»‰Ş€ù.
+Fsquid:S1604C"(Make this anonymous inner class a lambda(ÚØ•¹8ÉÅİ€ù.
+Ksquid:S1604Q"(Make this anonymous inner class a lambda(â™½Àıÿÿÿÿ8»‰Ş€ù.
+Fsquid:S1604^"(Make this anonymous inner class a lambda(Ç—Œ‹8à…ù.
+Fsquid:S1604i"(Make this anonymous inner class a lambda(Ç—Œ‹8œ…ù.
+dsquid:S2142c"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8à…ù.

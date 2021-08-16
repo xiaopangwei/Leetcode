@@ -1,0 +1,12 @@
+
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(þ¹èøüÿÿÿÿ8ìþ¯Ù¯/
+fsquid:S2583;"CChange this condition so that it does not always evaluate to "true"(É±±˜ÿÿÿÿÿ8ìþ¯Ù¯/
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ÐÎÛÂ8ìþ¯Ù¯/
+nsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ò‡­ìþÿÿÿÿ8ìþ¯Ù¯/
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(¤ªÑÉÿÿÿÿÿ8ìþ¯Ù¯/
+isquid:CommentedOutCodeLinef"<This block of commented-out lines of code should be removed.(™¯¢Ç8ìþ¯Ù¯/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Š¼âõýÿÿÿÿ8ìþ¯Ù¯/
+isquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(¿Ëµ­8ìþ¯Ù¯/
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(ÿ™êþ8îßí¡/

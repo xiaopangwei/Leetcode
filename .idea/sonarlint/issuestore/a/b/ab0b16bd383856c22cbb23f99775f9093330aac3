@@ -1,0 +1,12 @@
+
+osquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.CyclicBarrier'.(œè—ùÿÿÿÿ8¤•¶òş.
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8Î³·òş.
+Fsquid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ş‰¼òş.
+esquid:S00112*"FDefine and throw a dedicated exception instead of using a generic one.(óşÙ¿8áãòş.
+Fsquid:S16042"(Make this anonymous inner class a lambda(™ÉÒ½8ó’Üòş.
+ squid:ForLoopCounterChangedCheck!"XRefactor the code in order to not assign to this loop counter from within the loop body.(Å‚ÉÎúÿÿÿÿ8òÌòş.
+ssquid:UselessImportCheck"HRemove this unused import 'java.util.concurrent.BrokenBarrierException'.(§ø€ÿ8¤•¶òş.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÕÁá8éŞòş.
+Ksquid:S1604"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ8Ş‰¼òş.

@@ -1,0 +1,7 @@
+
+lsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÐ²¿
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ñù£–
+Xsquid:S1126D"AReplace this if-then-else statement by a single return statement.(«ÂÁÙ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬Ý’»ýÿÿÿÿ

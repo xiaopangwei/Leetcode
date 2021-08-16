@@ -1,0 +1,20 @@
+
+©%squid:RedundantThrowsDeclarationCheck8"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8´ü‚ù.
+dsquid:S2142W"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8×Ÿü‚ù.
+Hsquid:S00108+")Either remove or fill this block of code.(¾İ”8’Õ·‚ù.
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ä“èÕ8ğ£‚ù.
+Ksquid:S1604Q"(Make this anonymous inner class a lambda(ï¢§¯ûÿÿÿÿ8×Ÿü‚ù.
+Gsquid:S00108")Either remove or fill this block of code.(°¨8Ù´¼‚ù.
+Fsquid:S1604;"(Make this anonymous inner class a lambda(ôö‘8â¢÷‚ù.
+¯%squid:RedundantThrowsDeclarationCheck("wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…©–×8ğ£‚ù.
+msquid:S001004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öšã´8¼Öõ‚ù.
+Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8×Ÿü‚ù.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Öšã´8•ê›‚ù.
+msquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷“—È8¼Öõ‚ù.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(÷“—È8÷§œ‚ù.
+Ksquid:S1604@"(Make this anonymous inner class a lambda(Ú„ÔŞøÿÿÿÿ8ëìû‚ù.
+Fsquid:S1604M"(Make this anonymous inner class a lambda(‚œè¯8æ²ø‚ù.
+dsquid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ëìû‚ù.
+Fsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëìû‚ù.

@@ -1,0 +1,7 @@
+
+Usquid:S1854""7Remove this useless assignment to local variable "max".(ò°ğ©8ÎìÉÆ¡/
+Esquid:S1604"(Make this anonymous inner class a lambda(´ ö$8«¾Æ¡/
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(‰Áëøÿÿÿÿ8èåÓÆ¡/
+9squid:S3626 "Remove this redundant jump.(ÉŠ©ƒ8¸‰ÄÆ¡/
+Fsquid:S1481""(Remove this unused "max" local variable.(ò°ğ©8ÎìÉÆ¡/

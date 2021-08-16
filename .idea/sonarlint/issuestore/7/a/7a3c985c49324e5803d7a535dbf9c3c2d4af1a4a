@@ -1,0 +1,11 @@
+
+dsquid:S1126T"AReplace this if-then-else statement by a single return statement.(ßÙ™äøÿÿÿÿ8˜òë®¥/
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(•ÒÀøÿÿÿÿ8Ïÿ÷±¥/
+usquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(†ıçœıÿÿÿÿ8¢¤ß®¥/
+dsquid:S1126\"AReplace this if-then-else statement by a single return statement.(ßÙ™äøÿÿÿÿ8˜•ì®¥/
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ùñğ‚8­”ø±¥/
+osquid:S1871Z"LThis branch's code block is the same as the block for the branch on line 82.(ÚğŞ±ûÿÿÿÿ8ğÑì®¥/
+dsquid:S1126j"AReplace this if-then-else statement by a single return statement.(ØÙ ìşÿÿÿÿ8ÊÅç®¥/
+dsquid:S1126d"AReplace this if-then-else statement by a single return statement.(ØÙ ìşÿÿÿÿ8ÊÅç®¥/
+U
+squid:S106y"9Replace this use of System.out or System.err by a logger.(ü„ê!8æŸ„˜¥/

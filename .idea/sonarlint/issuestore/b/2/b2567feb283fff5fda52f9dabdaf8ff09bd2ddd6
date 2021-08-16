@@ -1,0 +1,10 @@
+
+U
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ü„ê!8ÛÛ—­³/
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(–ßí™þÿÿÿÿ8ÊÚ§­³/
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ÈÃŸ‡ùÿÿÿÿ8ÊÚ§­³/
+|squid:S3012)"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(›ÐË“þÿÿÿÿ8¨òî¬³/
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(–ÊÊªþÿÿÿÿ8ÊÚ§­³/
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(ÎŸê½8ÊÚ§­³/
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ú››€ûÿÿÿÿ8ÊÚ§­³/
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(–€Çýÿÿÿÿ8ÊÚ§­³/

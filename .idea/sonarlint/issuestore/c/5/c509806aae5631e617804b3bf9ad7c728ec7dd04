@@ -1,0 +1,19 @@
+
+{
+squid:S1350"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¾ÅèÙ¤/
+v
+squid:S135L"YReduce the total number of break and continue statements in this loop to use at most one.(¢³¨8¾ÅèÙ¤/
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(¨¹®œ8ã‘÷Ú¤/
+V
+squid:S106¿"9Replace this use of System.out or System.err by a logger.(ü„ê!8äîğÙ¤/
+U
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ış·48œ…Û¤/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(“ğ‘äúÿÿÿÿ8¾ÅèÙ¤/
+Fsquid:S1604w"(Make this anonymous inner class a lambda(§ÖÅÚ8¾ÅèÙ¤/
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûö¼,8¥Ÿ“Û¤/
+Fsquid:S1604l"(Make this anonymous inner class a lambda(§ÖÅÚ8¾ÅèÙ¤/
+V
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ŠåÆ‹8©ÆËÛ¤/
+esquid:S2259*"BA "NullPointerException" could be thrown; "node" is nullable here.(Ñ­•¤ûÿÿÿÿ8¾ÅèÙ¤/

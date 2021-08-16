@@ -1,0 +1,6 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(®¥øæşÿÿÿÿ8ÏÕ’ï¡/
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Öæ¯íüÿÿÿÿ8ÿ¨†ï¡/
+Wsquid:S3400#"9Remove this method and declare a constant for this value.(”·³›8ÊÌï¡/
+:squid:S1700"Rename field "minStack"(®¥øæşÿÿÿÿ8Å¡ï¡/
+Osquid:S1068",Remove this unused "minStack" private field.(®¥øæşÿÿÿÿ8Å¡ï¡/

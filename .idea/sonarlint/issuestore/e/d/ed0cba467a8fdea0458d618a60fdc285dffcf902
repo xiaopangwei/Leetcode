@@ -1,0 +1,19 @@
+
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(¯Æ¡Øøÿÿÿÿ8ºæ´ò­/
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8É¿¥ò­/
+W
+squid:S106¼"9Replace this use of System.out or System.err by a logger.(Ò‰»8Ş¡¤ò­/
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ù¤Èÿ8Ó„Ôò­/
+qsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 155 to the 15 allowed.(ü–œã8‡¿ÛÇ­/
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ä ¥ò­/
+\
+squid:S106±"9Replace this use of System.out or System.err by a logger.(®Ğ•Öúÿÿÿÿ8åìÔò­/
+W
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(å«Äñ8ŒºÔò­/
+W
+squid:S106–"9Replace this use of System.out or System.err by a logger.(üÕå8ÆÍÔò­/
+hsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(âò¡%8ºæ´ò­/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Œ¡ù8¶»Õò­/
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(òïÂn8ı•Ôò­/

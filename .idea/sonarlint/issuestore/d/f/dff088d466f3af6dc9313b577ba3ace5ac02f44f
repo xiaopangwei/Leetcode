@@ -1,0 +1,5 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(γΣονωÿÿÿÿ8•Εφ‚/
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(‰―ªώÿÿÿÿ8€—―ω‚/
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ή¥έΝ8 ξυ‚/

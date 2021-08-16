@@ -1,0 +1,5 @@
+
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8Ùû˜Çû.
+dsquid:S1126&"AReplace this if-then-else statement by a single return statement.(“ÅÈòúÿÿÿÿ8Ü´±†¦/
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(íƒë•üÿÿÿÿ8éÀ±Æû.

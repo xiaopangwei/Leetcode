@@ -1,0 +1,31 @@
+
+nsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(³¼•ƒøÿÿÿÿ8„è¬ù.
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8±¥›òþ.
+Fsquid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àœÝ¨ù.
+Ksquid:S1604"(Make this anonymous inner class a lambda(ÓÖ³Åùÿÿÿÿ8ö„çñþ.
+qsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8íÚÛ¨ù.
+gsquid:S2147?"DCombine this catch with the one at line 61, which has the same body.(†«”Ïüÿÿÿÿ8±¥›òþ.
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8àœÝ¨ù.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(Þ¶²â8™è‰¬ù.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ø«µ¶8ê¨¦òþ.
+gsquid:S2147$"DCombine this catch with the one at line 34, which has the same body.(†«”Ïüÿÿÿÿ8àœÝ¨ù.
+Fsquid:S16046"(Make this anonymous inner class a lambda(ÉãÃ®8±¥›òþ.
+dsquid:S2142="FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8±¥›òþ.
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8±¥›òþ.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Þ¶²â8øí©òþ.
+nsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(³¼•ƒøÿÿÿÿ8Ñ‹éñþ.
+hsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ãÌÒd8©Çóñþ.
+dsquid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àœÝ¨ù.
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(³¼•ƒøÿÿÿÿ8Äó¶¬ù.
+Ksquid:S1604"(Make this anonymous inner class a lambda(€á€‹þÿÿÿÿ8àœÝ¨ù.
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Í‰Õ‰ýÿÿÿÿ8ÕÎ¦òþ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(™œ¥Êÿÿÿÿÿ8àœÝ¨ù.
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(«Ü“úÿÿÿÿ8½™æ¬ù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÅÞ¸õûÿÿÿÿ8ö„çñþ.

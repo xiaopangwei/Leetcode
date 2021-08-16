@@ -1,0 +1,7 @@
+
+_squid:S11266"AReplace this if-then-else statement by a single return statement.(ˆìé8í¯Ø¥/
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ªÿñÏøÿÿÿÿ8©Øœ×¥/
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Õàíüÿÿÿÿ8ƒşÚ¥/
+[squid:S18541"=Remove this useless assignment to local variable "isCanGoOn".(¶ÍÜæ8Œ¡ÊÜ¥/
+Usquid:S25896"7Remove this expression which always evaluates to "true"(ˆìé8æÛŒØ¥/

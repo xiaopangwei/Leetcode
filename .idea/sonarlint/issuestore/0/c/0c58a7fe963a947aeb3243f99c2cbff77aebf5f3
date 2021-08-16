@@ -1,0 +1,17 @@
+
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ô›¨½8€øÏÜù.
+Usquid:S18542"7Remove this useless assignment to local variable "len".(ù¤µ”8“€ËÜù.
+Esquid:S16047"(Make this anonymous inner class a lambda(£·®8“€ËÜù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßµÜõıÿÿÿÿ8–’ÎÜù.
+Fsquid:S1148="#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“€ËÜù.
+dsquid:S2142<"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“€ËÜù.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(öø–»üÿÿÿÿ8‹„ÙÜù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞôÖşÿÿÿÿ8ÅÊ³Üù.
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ê¯î£8“€ËÜù.
+Fsquid:S14812"(Remove this unused "len" local variable.(ù¤µ”8“€ËÜù.
+Fsquid:S1604B"(Make this anonymous inner class a lambda(ÿïŞß8“€ËÜù.

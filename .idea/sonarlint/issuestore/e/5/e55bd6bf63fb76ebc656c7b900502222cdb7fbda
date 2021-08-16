@@ -1,0 +1,9 @@
+
+hsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(˜±Ù>8µÄÊÿ‚/
+nsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(è•úŽøÿÿÿÿ8µÄÊÿ‚/
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ8ÃÓÍÿ‚/
+Tsquid:S2589"7Remove this expression which always evaluates to "true"(–úùJ8œÄÝÿ‚/
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¹¯Þý‚/
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(¿ïó 8µÄÊÿ‚/
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ8‰»Ûý‚/

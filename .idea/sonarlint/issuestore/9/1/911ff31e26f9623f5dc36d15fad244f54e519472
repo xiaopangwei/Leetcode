@@ -1,0 +1,12 @@
+
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Õâûš8çÛöÙ©/
+Lsquid:S1068")Remove this unused "black" private field.(”³¥ÿøÿÿÿÿ8¿ô¤Ù©/
+Hsquid:S00108G")Either remove or fill this block of code.(å¥ž‡8ý¹àÙ©/
+Wsquid:S3400"9Remove this method and declare a constant for this value.(”·³›8®±÷Ù©/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—®„üÿÿÿÿ8Ô‘÷Ù©/
+dsquid:UnusedPrivateMethod4"3Remove this unused private "isColsAllBlack" method.(çÔùšúÿÿÿÿ8•†çÙ©/
+Tsquid:UnusedPrivateMethod="(Remove this unused private "dfs" method.(×§å¯8ß¦ÐÙ©/
+~squid:S3923E"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÖÙ¾©ùÿÿÿÿ8ý¹àÙ©/
+Msquid:S00108E")Either remove or fill this block of code.(ÖÙ¾©ùÿÿÿÿ8ÁóÞÙ©/
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(Õâûš8çÛöÙ©/
+Csquid:S1172"&Remove these unused method parameters.(Žý„r8®±÷Ù©/

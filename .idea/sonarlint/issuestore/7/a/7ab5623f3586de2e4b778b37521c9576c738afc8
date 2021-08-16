@@ -1,0 +1,20 @@
+
+¯%squid:RedundantThrowsDeclarationCheck/"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¢»ïİ8»Æí§ù.
+?squid:S1604L"(Make this anonymous inner class a lambda(ÂğÆÓ
+?squid:S1604U"(Make this anonymous inner class a lambda(‹Ë¨å
+dsquid:S3078+"AUse an "AtomicBoolean" for this field; its operations are atomic.(šôÛ×ûÿÿÿÿ8æÖı§ù.
+?squid:S1604`"(Make this anonymous inner class a lambda(‹Ë¨å
+dsquid:S30787"AUse an "AtomicBoolean" for this field; its operations are atomic.(êä’‚ùÿÿÿÿ8ŒŸı§ù.
+?squid:S1148f"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+fsquid:UselessImportCheck";Remove this unused import 'java.util.concurrent.Semaphore'.(î¸Îú8èâ½§ù.
+_squid:S3078E"AUse an "AtomicBoolean" for this field; its operations are atomic.(¶àû”8ïÀ¨ù.
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ğÓêû
+]squid:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1604l"(Make this anonymous inner class a lambda(‹Ë¨å
+?squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2142q"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148["#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2142e"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+´%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(§¥…Ûşÿÿÿÿ8Œ§Ã§ù.
+´%squid:RedundantThrowsDeclarationCheck<"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(îœÄúÿÿÿÿ8ä‘õ§ù.

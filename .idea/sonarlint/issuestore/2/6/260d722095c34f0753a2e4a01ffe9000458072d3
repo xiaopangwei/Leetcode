@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheck"PMake next a static final constant or non-public and provide accessors if needed.(±±èÃøÿÿÿÿ8³›Ï¦ª/
+nsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(äù—óþÿÿÿÿ8Õæ‰§ª/
+‹"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8³›Ï¦ª/
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8´š‰§ª/

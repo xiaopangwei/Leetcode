@@ -1,0 +1,24 @@
+
+dsquid:S2142j"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†Èõ©ù.
+U
+squid:S106;"9Replace this use of System.out or System.err by a logger.(æĞ{8äßü©ù.
+Ksquid:S1604H"(Make this anonymous inner class a lambda(şı¾ûıÿÿÿÿ8äúì©ù.
+Ksquid:S1604N"(Make this anonymous inner class a lambda(Óü¾¶şÿÿÿÿ8äúì©ù.
+Fsquid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†Èõ©ù.
+Ksquid:S1604d"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ8†Èõ©ù.
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ë¢‚´úÿÿÿÿ8äúì©ù.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¸çúÁşÿÿÿÿ8äúì©ù.
+Ksquid:S1604T"(Make this anonymous inner class a lambda(¥—×ûÿÿÿÿ8äúì©ù.
+U
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¹­¥p8äúì©ù.
+V
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ñ—Éæ8Ó€î©ù.
+¯%squid:RedundantThrowsDeclarationCheck%"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¾Á¯Ö8ÔÊı©ù.
+osquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.CyclicBarrier'.(œè—ùÿÿÿÿ8†¿»©ù.
+Fsquid:S1604Z"(Make this anonymous inner class a lambda(÷º¸À8°ãí©ù.
+U
+squid:S106K"9Replace this use of System.out or System.err by a logger.(£§øw8äúì©ù.
+Ksquid:S1604B"(Make this anonymous inner class a lambda(éıÎ¹ùÿÿÿÿ8äúì©ù.
+ssquid:UselessImportCheck"HRemove this unused import 'java.util.concurrent.BrokenBarrierException'.(§ø€ÿ8†¿»©ù.

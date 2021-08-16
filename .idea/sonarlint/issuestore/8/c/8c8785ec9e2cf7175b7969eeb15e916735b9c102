@@ -1,0 +1,14 @@
+
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÍìÖğÿÿÿÿÿ8™øôå¦/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(´â…“ÿÿÿÿÿ8éĞõå¦/
+‡"squid:ClassVariableVisibilityCheck"SMake stateID a static final constant or non-public and provide accessors if needed.(ô±Õd8¶õöå¦/
+Msquid:S1066V"/Merge this if statement with the enclosing one.(İÍ§í8´Ê»æ¦/
+;squid:S2386"Make this member "protected".(åª’8Æõİæ¦/
+‹"squid:ClassVariableVisibilityCheck"QMake isEnd a static final constant or non-public and provide accessors if needed.(ˆàğüÿÿÿÿ8††óå¦/
+Lsquid:S1068")Remove this unused "count" private field.(°©ºµÿÿÿÿÿ8Æõİæ¦/
+"squid:ClassVariableVisibilityCheck"UMake nextState a static final constant or non-public and provide accessors if needed.(Ÿ¬”êøÿÿÿÿ8×½úå¦/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Å–¦í8§‰æ¦/
+bsquid:UnusedPrivateMethod8"6Remove this unused private "buildStateMachine" method.(ü°Û”8ùÄƒæ¦/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(“Âÿ8Æ¼öå¦/
+Isquid:S1172e"&Remove these unused method parameters.(½§ÿ¢ıÿÿÿÿ8Ïôñå¦/
+psquid:S37768"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ü°Û”8Ç¦Èæ¦/

@@ -1,0 +1,13 @@
+
+osquid:S1192"SDefine a constant instead of duplicating this literal "demo.szse.Example1" 3 times.(šÆžÎùÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Vsquid:S1118	":Add a private constructor to hide the implicit public one.(Š°äùúÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÇÙ÷ƒýÿÿÿÿ
+[squid:S2147"DCombine this catch with the one at line 24, which has the same body.(ï­£Ä
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºÕÚ‚
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ý‡Í¯
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ä…¸ˆ

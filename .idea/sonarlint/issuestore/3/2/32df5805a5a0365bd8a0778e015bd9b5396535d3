@@ -1,0 +1,25 @@
+
+¢%squid:RedundantThrowsDeclarationCheck2"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+?squid:S1604e"(Make this anonymous inner class a lambda(Ç—Œ‹
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›Ôşÿÿÿÿ
+]squid:S2142j"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8™Éïù.
+?squid:S1604X"(Make this anonymous inner class a lambda(Ç—Œ‹
+?squid:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¸ØïU
+O
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ºÙ„½
+qsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.locks.Condition'.(ğÍÄ°øÿÿÿÿ8™Éïù.
+Dsquid:S1604B"(Make this anonymous inner class a lambda(â™½Àıÿÿÿÿ
+]squid:S2142R"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8—®„‚ù.
+?squid:S16044"(Make this anonymous inner class a lambda(ÚØ•¹
+Dsquid:S1604;"(Make this anonymous inner class a lambda(’¯Ì¢ùÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+gsquid:UselessImportCheck"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8™Éïù.
+?squid:S1604M"(Make this anonymous inner class a lambda(Ç—Œ‹
+]squid:S2142^"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+T
+squid:S106>"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ

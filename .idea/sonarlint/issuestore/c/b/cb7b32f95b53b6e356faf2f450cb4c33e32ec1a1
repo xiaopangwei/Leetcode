@@ -1,0 +1,39 @@
+
+´%squid:RedundantThrowsDeclarationCheck "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(«¥—Şøÿÿÿÿ8Ğ­Ã«ù.
+Lsquid:S1604•"(Make this anonymous inner class a lambda(ûè¿°şÿÿÿÿ8àç«ù.
+gsquid:UselessImportCheck"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8Ÿİ®ªù.
+©%squid:RedundantThrowsDeclarationCheck_"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ô¿ÿªù.
+¯%squid:RedundantThrowsDeclarationCheckC"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Á¾‡œ8ô®Æ«ù.
+Gsquid:S1604‹"(Make this anonymous inner class a lambda(ÿïŞß8àç«ù.
+Fsquid:S1604p"(Make this anonymous inner class a lambda(Ú‘ó8 Öõªù.
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ÿİ®ªù.
+Fsquid:S1604h"(Make this anonymous inner class a lambda(¾¨Š8¾™ôªù.
+Gsquid:S1148¥"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àç«ù.
+Fsquid:S1604x"(Make this anonymous inner class a lambda(ãÆ“Ä8îÈ÷ªù.
+U
+squid:S106k"9Replace this use of System.out or System.err by a logger.(œñ8¾™ôªù.
+esquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àç«ù.
+Gsquid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àç«ù.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãœŞÿÿÿÿÿ8ìÏÆªù.
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(©÷Ûáÿÿÿÿÿ8ìÏÆªù.
+V
+squid:S106s"9Replace this use of System.out or System.err by a logger.(ÂúÓÿ8 Öõªù.
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(´ÔéÀıÿÿÿÿ8€Œìªù.
+Fsquid:S1604"(Make this anonymous inner class a lambda(£·®8àç«ù.
+Lsquid:S1604Ÿ"(Make this anonymous inner class a lambda(ôÆĞÆüÿÿÿÿ8Ää‚«ù.
+esquid:S2142†"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àç«ù.
+Gsquid:S1148‡"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àç«ù.
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(‡¾´èıÿÿÿÿ8ìÏÆªù.
+esquid:S2142¤"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àç«ù.
+¯%squid:RedundantThrowsDeclarationCheck-"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(È»¦š8ëöÄ«ù.
+]squid:HiddenFieldCheckO"5Rename "n" which hides the field declared at line 20.(€8²˜åªù.
+¯%squid:RedundantThrowsDeclarationCheck8"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ùŠ’ó8Î–Å«ù.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8Ÿİ®ªù.
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8Ÿİ®ªù.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8îÈ÷ªù.
+nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(çœËğüÿÿÿÿ8ìÏÆªù.
+esquid:S2142š"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8àç«ù.
+Gsquid:S1148‘"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àç«ù.
+Fsquid:S1604a"(Make this anonymous inner class a lambda(¡ıœ©8€Œìªù.

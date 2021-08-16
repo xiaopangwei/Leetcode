@@ -1,0 +1,23 @@
+
+fsquid:S001003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷“—È
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(÷“—È
+]squid:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+¢%squid:RedundantThrowsDeclarationCheck6"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+^squid:HiddenFieldCheck*"5Rename "i" which hides the field declared at line 23.(»³½‹8†œ¥‡ù.
+Dsquid:S1604O"(Make this anonymous inner class a lambda(ï¢§¯ûÿÿÿÿ
+?squid:S1148V"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Öšã´
+?squid:S16049"(Make this anonymous inner class a lambda(ôö‘
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Î™¶Þ8¸›´‡ù.
+Dsquid:S1604>"(Make this anonymous inner class a lambda(Ú„ÔÞøÿÿÿÿ
+Hsquid:S1068"%Remove this unused "i" private field.(Ðê¹¹ÿÿÿÿÿ8†œ¥‡ù.
+fsquid:S001002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öšã´
+?squid:S1148E"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+]squid:S2142U"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1604K"(Make this anonymous inner class a lambda(‚œè¯
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ÄÁ›8éî³‡ù.
+^squid:HiddenFieldCheck"5Rename "i" which hides the field declared at line 23.(»³½‹8†œ¥‡ù.

@@ -1,0 +1,12 @@
+
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(éÚ·áþÿÿÿÿ8°¯ž¨¢/
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(éÚ·áþÿÿÿÿ8Îàœ¨¢/
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(™¢÷Ä8°¯ž¨¢/
+psquid:S001177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÒ§é8…£œ¨¢/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ðÏŽÛ8ÖÚß¨¢/
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ8ðç¿¨¢/
+‹"squid:ClassVariableVisibilityCheck"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìýÿÿÿÿ8Ïöß§¢/
+‹"squid:ClassVariableVisibilityCheck"QMake index a static final constant or non-public and provide accessors if needed.(×´úÕúÿÿÿÿ8Ïöß§¢/

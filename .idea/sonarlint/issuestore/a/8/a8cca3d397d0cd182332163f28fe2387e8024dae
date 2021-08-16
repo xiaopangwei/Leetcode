@@ -1,0 +1,13 @@
+
+Gsquid:S3077"$Use an "AtomicIntegerArray" instead.(ˆ–Ğèøÿÿÿÿ8ÕÙªÓù.
+…"squid:ClassVariableVisibilityCheck"PMake tail a static final constant or non-public and provide accessors if needed.(­½„ê8èË¥Óù.
+‹"squid:ClassVariableVisibilityCheck"QMake array a static final constant or non-public and provide accessors if needed.(ˆ–Ğèøÿÿÿÿ8õçõÓù.
+Fsquid:S1604T"(Make this anonymous inner class a lambda(ÿïŞß8ÔäãÓù.
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(÷ƒ³ôşÿÿÿÿ8–ƒÔù.
+Esquid:S1604H"(Make this anonymous inner class a lambda(£·®8õÈâÓù.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(˜ùõ8ÛºÔù.
+…"squid:ClassVariableVisibilityCheck"PMake head a static final constant or non-public and provide accessors if needed.(ÈøĞ†8èË¥Óù.
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Ÿ·µ8»ÓşÓù.
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(Ùæñ—ûÿÿÿÿ8âºƒÔù.

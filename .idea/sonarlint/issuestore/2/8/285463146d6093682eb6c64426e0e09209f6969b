@@ -1,0 +1,7 @@
+
+]squid:UnusedPrivateMethodR",Remove this unused private "isCover" method.(åøøíûÿÿÿÿ8³·¾é¬/
+Rsquid:S2864]"4Iterate over the "entrySet" instead of the "keySet".(²ı¯·8³·¾é¬/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(áÇ«úÿÿÿÿ8şŠ“é¬/
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(®€©ä8³·¾é¬/
+ysquid:S1488N"[Immediately return this expression instead of assigning it to the temporary variable "res".(äÃ¾8³·¾é¬/

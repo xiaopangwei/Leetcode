@@ -1,0 +1,6 @@
+
+:squid:S1643"Use a StringBuilder instead.(ÚÙŞÓ8Ÿ“÷ş/
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ö™–÷ûÿÿÿÿ8Ø¿•ÿ/
+:squid:S1643"Use a StringBuilder instead.(»¨ºˆ8Ÿ“÷ş/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨ò‚ûÿÿÿÿ8¼µ”ÿ/

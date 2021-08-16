@@ -1,0 +1,7 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÚÊÀÞþÿÿÿÿ8£Ú×µ®/
+osquid:S1871""LThis branch's code block is the same as the block for the branch on line 31.(Òö×—ýÿÿÿÿ8Ä Úµ®/
+{
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ˆ­º”ýÿÿÿÿ8Ä Úµ®/
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ÙØšÚúÿÿÿÿ8ÿœœµ®/

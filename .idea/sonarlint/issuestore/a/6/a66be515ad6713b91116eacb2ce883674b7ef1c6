@@ -1,0 +1,15 @@
+
+nsquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(»‹¼Ÿøÿÿÿÿ8 Ä¾Ê³/
+osquid:CommentedOutCodeLine†"<This block of commented-out lines of code should be removed.(éý÷åùÿÿÿÿ8ÞâšÈ³/
+dsquid:S1126}"AReplace this if-then-else statement by a single return statement.(‰Ö°ùýÿÿÿÿ8Ë­åÇ³/
+psquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ç¥þ²8ªœ„È³/
+‡"squid:ClassVariableVisibilityCheck"MMake x a static final constant or non-public and provide accessors if needed.(±Šõ¶ûÿÿÿÿ8—÷Ê³/
+‡"squid:ClassVariableVisibilityCheck"MMake y a static final constant or non-public and provide accessors if needed.(ÔçÛþÿÿÿÿ8—÷Ê³/
+V
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(ü„ê!8¶¨–È³/
+V
+squid:S106k"9Replace this use of System.out or System.err by a logger.(œŽ‡8ßÈõÊ³/
+U
+squid:S106m"9Replace this use of System.out or System.err by a logger.(ƒä®a8ßÈõÊ³/
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(’€áðùÿÿÿÿ8ßÈõÊ³/

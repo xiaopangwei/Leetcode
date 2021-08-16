@@ -1,0 +1,8 @@
+
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ï•ÔÔ‚/
+nsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(¯ûë¢ùÿÿÿÿ8ÍÝ—Õ‚/
+U
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ü„ê!8Ô‡Õ‚/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾‰°Ûûÿÿÿÿ8–æ•Õ‚/
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(¬Ÿê³þÿÿÿÿ8ÞöýÔ‚/
+squid:UselessImportCheck"ORemove this unused import 'com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ'.(¬Ÿê³þÿÿÿÿ8ÞöýÔ‚/

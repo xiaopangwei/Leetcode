@@ -1,0 +1,17 @@
+
+ysquid:S00115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÿ®•©8’¢žä¤/
+isquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ÒÁÃ8™Ïôä¤/
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(«…¡úüÿÿÿÿ8åÛ½ã¤/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(±ˆ”üÿÿÿÿ8’¢žä¤/
+ˆ"squid:ClassVariableVisibilityCheck"NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ8Œ†ñâ¤/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÀëÅÂúÿÿÿÿ8’¢žä¤/
+Ž"squid:ClassVariableVisibilityCheck#"TMake stateMap a static final constant or non-public and provide accessors if needed.(ÏÁÖ¹ûÿÿÿÿ8’¢žä¤/
+dsquid:S11265"AReplace this if-then-else statement by a single return statement.(ÜÖƒ“ýÿÿÿÿ8¸“ÿä¤/
+‹"squid:ClassVariableVisibilityCheck"QMake isEnd a static final constant or non-public and provide accessors if needed.(ˆàðüÿÿÿÿ8’¢žä¤/
+Isquid:S1444"+Make this "public static count" field final(˜“ÿ±8’¢žä¤/
+†"squid:ClassVariableVisibilityCheck"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8’¢žä¤/
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ñà¨šúÿÿÿÿ8’¢žä¤/
+‘"squid:ClassVariableVisibilityCheck"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ðÿÿÿÿÿ8’¢žä¤/
+ysquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ã¹é¤8’¢žä¤/
+nsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(â²ïÓûÿÿÿÿ8¨í¬ã¤/

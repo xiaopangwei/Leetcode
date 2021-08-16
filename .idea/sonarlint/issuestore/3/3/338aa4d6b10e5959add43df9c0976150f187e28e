@@ -1,0 +1,9 @@
+
+‹"squid:ClassVariableVisibilityCheck"QMake peer2 a static final constant or non-public and provide accessors if needed.(Õ‰äŞùÿÿÿÿ8³Óæ­/
+[
+squid:S106c"9Replace this use of System.out or System.err by a logger.(‰Áëøÿÿÿÿ8÷†Û­/
+‹"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ÒÊæ­/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(’¯®8éÉüæ­/
+Dsquid:S1168?"&Return an empty array instead of null.(¥¹ï8—àõæ­/
+isquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(­Ÿ‡ø8‰€–ç­/
+‹"squid:ClassVariableVisibilityCheck"QMake peer1 a static final constant or non-public and provide accessors if needed.(‹ë¤˜ıÿÿÿÿ8³Óæ­/

@@ -1,0 +1,23 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ¨†İ8ı§ê³ú.
+Osquid:S1612)",Replace this lambda with a method reference.(ØÙı«şÿÿÿÿ8ì™Š´ú.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(²±´m8±‘´ú.
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÕìÙÔüÿÿÿÿ8î÷ó³ú.
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8ì™Š´ú.
+Isquid:S1612",Replace this lambda with a method reference.(²±´m8±‘´ú.
+[squid:UselessImportCheck	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÊÉá³ú.
+_squid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8±‘´ú.
+csquid:UselessImportCheck"3Remove this unused import 'java.lang.reflect.Type'.(‰ûÕñıÿÿÿÿ8ì™Š´ú.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÊÉá³ú.
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ó‡ğ…8ïûê³ú.
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ØÙı«şÿÿÿÿ8ì™Š´ú.
+Zsquid:UselessImportCheck
+"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ÊÉá³ú.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÊÉá³ú.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(å×§ÿÿÿÿÿ8î÷ó³ú.

@@ -1,0 +1,26 @@
+
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(óÄ“¥8Ò‰â§ú.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ŠÎÛşÿÿÿÿ8ĞÉä¦ú.
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ï™‘ôù.
+V
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ƒé²8È¦°ú.
+usquid:S3776J"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Òê§¥øÿÿÿÿ8µ­¯ú.
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ï™‘ôù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Õ¯8Ò‰â§ú.
+osquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(ñìéøüÿÿÿÿ8ÕÆ¯¯ú.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ï™‘ôù.
+Xsquid:S1854x":Remove this useless assignment to local variable "txtStr".(ÉêŞ¡8ÕÆ¯¯ú.
+u
+squid:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(¤èÄ78âÙë¦ú.
+Bsquid:S1659K"Declare "j" on a separate line.(ı²ïºÿÿÿÿÿ8Ë˜‰§ú.
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(âıñæøÿÿÿÿ8…³®¯ú.
+Isquid:S1481x"+Remove this unused "txtStr" local variable.(ÉêŞ¡8ÕÆ¯¯ú.
+Rsquid:S1066O"/Merge this if statement with the enclosing one.(ù¤ Ñûÿÿÿÿ8Ì‘®¯ú.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(Ø®º‚úÿÿÿÿ8ÀÆö§ú.
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ï™‘ôù.
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(»ıòÈ8áØ§°ú.

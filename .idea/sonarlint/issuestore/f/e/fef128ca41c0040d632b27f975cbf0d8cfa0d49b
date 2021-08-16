@@ -1,0 +1,9 @@
+
+W
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Ö‡¨ğ8üø…»¤/
+|squid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¡³ùªÿÿÿÿÿ8Û›Ÿº¤/
+fsquid:S22590"CA "NullPointerException" could be thrown; "state" is nullable here.(î¥æŸşÿÿÿÿ8ƒù‹º¤/
+Œ"squid:ClassVariableVisibilityCheck"RMake matrix a static final constant or non-public and provide accessors if needed.(¹Ô¤Ğøÿÿÿÿ8¾›ò¹¤/
+=squid:S2097,"Add a type test to this method.(ÜÑã8ƒù‹º¤/
+psquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(æò¼ä8è‚Öº¤/
+_squid:S1126;"AReplace this if-then-else statement by a single return statement.(œ¯¡à8æİ°º¤/

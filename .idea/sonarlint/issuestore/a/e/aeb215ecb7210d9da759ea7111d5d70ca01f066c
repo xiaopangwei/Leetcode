@@ -1,0 +1,10 @@
+
+Osquid:S2589m"8Remove this expression which always evaluates to "false"(âÖı
+Osquid:S2589Z"8Remove this expression which always evaluates to "false"(‘¾ºš
+Tsquid:S2589d"8Remove this expression which always evaluates to "false"(äº˜ãÿÿÿÿÿ
+Tsquid:S2589P"8Remove this expression which always evaluates to "false"(à­‹´ùÿÿÿÿ
+O
+squid:S106""9Replace this use of System.out or System.err by a logger.(¾Ù™ø
+isquid:S3776A"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(¹ÑÒÅ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÄÖ¦Úøÿÿÿÿ
+gsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(öß­¤şÿÿÿÿ

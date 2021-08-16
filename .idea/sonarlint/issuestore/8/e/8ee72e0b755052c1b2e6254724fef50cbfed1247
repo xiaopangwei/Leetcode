@@ -1,0 +1,9 @@
+
+"squid:ClassVariableVisibilityCheck"UMake nextNodes a static final constant or non-public and provide accessors if needed.(¼Å××üÿÿÿÿ8Š†Ş¢û.
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(Ïÿ¦ç8õŸÈÉû.
+isquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(×À³ğ8õŸÈÉû.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§ÒÅ£û.
+‡"squid:ClassVariableVisibilityCheck"RMake parent a static final constant or non-public and provide accessors if needed.(İ´Å8É˜¥û.
+Usquid:S2589N"7Remove this expression which always evaluates to "true"(Ò—‰„8Â€£¥û.
+‰"squid:ClassVariableVisibilityCheck"OMake val a static final constant or non-public and provide accessors if needed.(ªÉ´ıÿÿÿÿ8Š†Ş¢û.

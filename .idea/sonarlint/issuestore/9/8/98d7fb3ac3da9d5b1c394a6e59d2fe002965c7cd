@@ -1,0 +1,17 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(–Ñô½üÿÿÿÿ8Üã–Ìû.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÅÁ€ûÿÿÿÿ8ÚĞËÎû.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ãŒ¦ıÿÿÿÿ8ó¢‘Ìû.
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÍˆëÄ8—ÃÎû.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶±ûÌ8ÆˆÍÎû.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ºÙÌû.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(âŠ£•úÿÿÿÿ8›€—Ìû.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ÍˆëÄ8˜ÿÎû.
+©%squid:RedundantThrowsDeclarationCheck$"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ò„ŒÎû.

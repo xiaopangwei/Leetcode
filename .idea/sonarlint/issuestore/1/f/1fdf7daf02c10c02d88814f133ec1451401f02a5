@@ -1,0 +1,19 @@
+
+isquid:UselessImportCheck"?Remove this unused import 'com.sun.tools.javac.code.Attribute'.(ãŸ˜|8µ™‘³ú.
+Rsquid:S1191"5Use classes from the Java API instead of Sun classes.(ãŸ˜|8µ™‘³ú.
+nsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Ë“»ÿÿÿÿÿ8Î°‰ôþ.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Àº©ÿÿÿÿÿ8¹Í±³ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8Çþ³ú.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8Çþ³ú.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8Çþ³ú.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(…Á¹Ý8¢÷µ³ú.
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(ô•¶•8¹í–³ú.
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(±Ñ‚8«Ž’³ú.
+nsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(û»ö€ûÿÿÿÿ8ˆƒŠôþ.

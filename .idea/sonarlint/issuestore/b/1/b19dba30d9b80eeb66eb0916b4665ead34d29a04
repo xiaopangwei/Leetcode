@@ -1,0 +1,14 @@
+
+=squid:S2097$"Add a type test to this method.(ÜÑã8¥Ä½¤§/
+Fsquid:S1604+"(Make this anonymous inner class a lambda(Õâ¿ñ8‰Î—¥§/
+\
+squid:S106–"9Replace this use of System.out or System.err by a logger.(Ÿ“üÿÿÿÿ8Å¢Ø©§/
+v
+squid:S135W"YReduce the total number of break and continue statements in this loop to use at most one.(°àÿ8¾êë¨§/
+esquid:S2259&"BA "NullPointerException" could be thrown; "pair" is nullable here.(‚ëã”ÿÿÿÿÿ8¥Ä½¤§/
+Wsquid:S2130m"9Use "Integer.parseInt" for this string-to-int conversion.(ğ› Á8‘é­©§/
+Š"squid:ClassVariableVisibilityCheck"PMake freq a static final constant or non-public and provide accessors if needed.(Şº·ˆıÿÿÿÿ8¥Ä½¤§/
+nsquid:S11492"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ó°ß•8ÉÌ‘¥§/
+jsquid:CommentedOutCodeLine—"<This block of commented-out lines of code should be removed.(Ş‡Å8ĞñØ©§/
+psquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(÷¶êÎ8Ï¾ß¤§/
+‚"squid:ClassVariableVisibilityCheck"NMake ch a static final constant or non-public and provide accessors if needed.(Ï­ÃX8¥Ä½¤§/

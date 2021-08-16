@@ -1,0 +1,22 @@
+
+Xsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(Šä8€÷ş°ù.
+Xsquid:S2274'":Remove this call to "wait" or move it into a "while" loop.(Šä8äå‚±ù.
+Esquid:S16042"(Make this anonymous inner class a lambda(£·®8ëºˆ±ù.
+dsquid:S21428"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8’Ë‰±ù.
+psquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8¿Âó°ù.
+isquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(¾„ñÍ8ÌŒ±ù.
+dsquid:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8à¿Œ±ù.
+Fsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8’Ë‰±ù.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëí«Ÿÿÿÿÿÿ8ÄÕ…±ù.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ç°³ıúÿÿÿÿ8¿ş„±ù.
+gsquid:UselessImportCheck"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8¿Âó°ù.
+©%squid:RedundantThrowsDeclarationCheck0"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ıå—±ù.
+Fsquid:S1604@"(Make this anonymous inner class a lambda(ÿïŞß8ïãˆ±ù.
+qsquid:UselessImportCheck"ARemove this unused import 'java.util.concurrent.locks.Condition'.(ğÍÄ°øÿÿÿÿ8¿Âó°ù.
+Fsquid:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8à¿Œ±ù.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(”–êışÿÿÿÿ8³€†±ù.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ä†˜¬8ÌŒ±ù.
+asquid:S1155%">Use isEmpty() to check whether the collection is empty or not.(Ùı’ıÿÿÿÿ8ù‚±ù.

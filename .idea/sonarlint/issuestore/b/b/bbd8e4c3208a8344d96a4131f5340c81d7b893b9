@@ -1,0 +1,5 @@
+
+_squid:S1126&"AReplace this if-then-else statement by a single return statement.(‚Å½ˆ8×Æ€¹¤/
+hsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(âã08˜ªô¸¤/
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(“‰Š¾8êþª¹¤/

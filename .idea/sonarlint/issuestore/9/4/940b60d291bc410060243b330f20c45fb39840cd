@@ -1,0 +1,8 @@
+
+Lsquid:S1066!"/Merge this if statement with the enclosing one.(’Òì{8Ö¸©Ž®/
+isquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(ÈµÔË8ýø½Ž®/
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(½€ˆ8ÏÒ¬Ž®/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¼¸ÐÎþÿÿÿÿ8Ö¸©Ž®/
+V
+squid:S106I"9Replace this use of System.out or System.err by a logger.(’üì©8Û´¹Ž®/

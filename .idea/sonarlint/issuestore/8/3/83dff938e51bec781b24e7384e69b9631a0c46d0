@@ -1,0 +1,8 @@
+
+Xsquid:S11264"AReplace this if-then-else statement by a single return statement.(á”Ö™
+O
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‚Û›
+]squid:S1126V"AReplace this if-then-else statement by a single return statement.(ºÒ©øÿÿÿÿ
+N
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ü„ê!
+@squid:S1481<")Remove this unused "flag" local variable.(Ö°š·

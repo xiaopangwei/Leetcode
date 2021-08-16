@@ -1,0 +1,24 @@
+
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(³Š«É8ÂşŸù.
+?squid:S1604Z"(Make this anonymous inner class a lambda(Ç—Œ‹
+T
+squid:S106@"9Replace this use of System.out or System.err by a logger.(İè¬øÿÿÿÿ
+]squid:S2142`"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+˜squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(âŞìØ
+?squid:S16046"(Make this anonymous inner class a lambda(ÚØ•¹
+?squid:S1148m"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Dsquid:S1604D"(Make this anonymous inner class a lambda(â™½Àıÿÿÿÿ
+¢%squid:RedundantThrowsDeclarationCheck4"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ºÙ„½
+´%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ù¯ ûÿÿÿÿ8ìšù.
+]squid:S2142T"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1604O"(Make this anonymous inner class a lambda(Ç—Œ‹
+?squid:S1148U"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¸ØïU
+?squid:S1604g"(Make this anonymous inner class a lambda(Ç—Œ‹
+Dsquid:S1604="(Make this anonymous inner class a lambda(’¯Ì¢ùÿÿÿÿ
+´%squid:RedundantThrowsDeclarationCheck*"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(ËÁ²şÿÿÿÿ8€–ù.
+]squid:S2142l"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

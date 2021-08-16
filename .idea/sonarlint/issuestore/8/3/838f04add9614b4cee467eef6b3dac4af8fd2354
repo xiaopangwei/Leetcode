@@ -1,0 +1,5 @@
+
+dsquid:S1126R"AReplace this if-then-else statement by a single return statement.(‡ÿÚÿÿÿÿÿ8ù•Œö²/
+_squid:S1126K"AReplace this if-then-else statement by a single return statement.(ßÔÇè8³£‡ö²/
+msquid:S00100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ­›…8ëÛÂõ²/
+msquid:S001005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„àÀ–8ëÛÂõ²/

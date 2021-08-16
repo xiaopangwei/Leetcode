@@ -1,0 +1,21 @@
+
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(´¬‰ùÿÿÿÿ8éå÷Úù.
+Ssquid:S1854="5Remove this useless assignment to local variable "j".(ÇÎı¿8‹ûÜù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÅ€ª8ùééÛù.
+dsquid:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8é—‹Üù.
+Dsquid:S1481="&Remove this unused "j" local variable.(ÇÎı¿8‹ûÜù.
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ëÑ³–8£ÚÂÚù.
+Ksquid:S1604>"(Make this anonymous inner class a lambda(€á€‹şÿÿÿÿ8ùâÙù.
+nsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(¨”‡üÿÿÿÿ8²‚Ùù.
+Fsquid:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8é—‹Üù.
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(“ŒÒâşÿÿÿÿ8İ›½Ûù.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‹Ä™•8¹ˆûÚù.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åü½­8ÿ–üÛù.
+isquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(íÍŸ8‹ûÜù.
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(å…«Û8‹•çÛù.
