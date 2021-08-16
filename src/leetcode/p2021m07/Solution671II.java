@@ -1,9 +1,6 @@
 package leetcode.p2021m07;
 
-import example.TreeNode;
-
-import java.util.ArrayList;
-import java.util.List;
+import common.TreeNode;
 
 /**
  * <p>Description: </p>

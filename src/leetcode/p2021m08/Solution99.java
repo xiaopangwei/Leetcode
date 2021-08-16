@@ -1,7 +1,6 @@
 package leetcode.p2021m08;
 
-import example.TreeNode;
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+import common.TreeNode;
 
 import java.util.Stack;
 

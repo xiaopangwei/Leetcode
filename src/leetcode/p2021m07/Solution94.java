@@ -1,6 +1,6 @@
 package leetcode.p2021m07;
 
-import example.TreeNode;
+import common.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

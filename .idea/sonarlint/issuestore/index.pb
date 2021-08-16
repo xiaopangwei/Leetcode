@@ -829,3 +829,14 @@ V
 -src/leetcode/p2021m08/AutocompleteSystem.java,3/3/330f64cb10a78d67ae1f246c1a45aaf3eac494a9
 V
 &src/leetcode/p2021m08/Solution516.java,a/f/afe3b4982a65a9cb530f66ee5f85b2f7b475603f
+V
+&src/leetcode/p2021m08/Solution526.java,9/5/95c8e6e90a84886f4fb3de751f25d3ff6d39bd78
+V
+&src/leetcode/p2021m08/Solution669.java,6/6/66e5f45ade5448f3202acd12da0a5230ce36f1a2
+V
+&src/leetcode/p2021m08/Solution430.java,7/9/793ff80d978e8b16ef5ea4f38473378f08047f41
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

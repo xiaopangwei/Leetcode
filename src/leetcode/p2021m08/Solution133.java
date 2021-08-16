@@ -1,6 +1,6 @@
 package leetcode.p2021m08;
 
-import example.Node;
+import common.Node;
 
 import java.util.Arrays;
 import java.util.HashMap;

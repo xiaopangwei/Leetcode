@@ -1,657 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6855f4be-d962-4b58-81c6-e8916000befe" name="Default" comment="Save">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/completition/Solution1790.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/completition/Solution1791.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/completition/Solution1792$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/completition/Solution1792.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lamba/TestConsumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lamba/TestStream$Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lamba/TestStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lcs/SolutionLCS01$BiKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lcs/SolutionLCS01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lcs/SolutionLCS02$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lcs/SolutionLCS02.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/lcs/SolutionLCS03.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/practice202103/GCTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassInitTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassInitTest$Motherland.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassInitTest$Successor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassInitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassLoaderTest$MyClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassLoaderTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/ClassLoaderTest2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/Example1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/Example2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InheritantTest$Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InheritantTest$Grand.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InheritantTest$Son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InheritantTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InstanceInitBlockTest$Son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/InstanceInitBlockTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/LinkedHashMapTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/StaticBlockTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/StaticBlockTest$InnerClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/StaticBlockTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/TemplateTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/kmp/TestKmp.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main139.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main46.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main78$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main78.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Main79.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Solution46.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Test01.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201123/Test2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201125/Main297$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/test20201125/Main297.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/szse/total/Initializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/LRUCache$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/LRUCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/QuickSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution1030.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution105.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution129.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution187.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution415.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution746.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/Solution92.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestAdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestClonable$Bag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestClonable$Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestClonable$Son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestClonable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestExternalizable$Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestExternalizable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestSerializable$Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestSerializable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TestTryCatchFinally.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/test20210120/TreeNode1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/theme/BinarySearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestFuture$MyCallable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestFuture.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestInterrupted$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestInterrupted.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestMultiThreadAdd$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/demo/thread/TestMultiThreadAdd.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/example/ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/example/Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/example/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/example/TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/Solution202.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/Solution269.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20200219/RandomTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution148.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution300.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/Solution54.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210209/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210210/SelfDefinedHeap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210210/Solution215$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210210/Solution215.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210210/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/IntConsumerTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/IntConsumerTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1114Copy3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy1$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy1$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy2$1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy2$2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/Solution1115Copy2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210211/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/BoundedBlockingQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/NotifyAndWaitTest$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/NotifyAndWaitTest$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/NotifyAndWaitTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy2$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy2$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy3$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy3$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy3$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1116Copy3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1117.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1195.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/Solution1226.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain1$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210212/TemplateMain1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/SpinLock$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/SpinLock.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic1$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic2$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic2$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomic2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomicStampedRef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestAtomicStampedRef.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestBoundedQueue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestBoundedQueue$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210213/TestBoundedQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/KmpSolution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/Solution28.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/Son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210214/TestJavaClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/Father.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/MyInterface1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/Son.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/TemplateMain$Apple.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/TemplateMain$Fruit.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/TemplateMain$Jonathan.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/TemplateMain$Orange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210215/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210216/Solution283.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210216/Solution329$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210216/Solution329.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210216/Solution49.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210216/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210217/Solution134.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210217/Solution179$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210217/Solution179$MyComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210217/Solution179.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210217/Solution34.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/DFS.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/DeepCopy$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/DeepCopy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Palindrome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/PartitionSort.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Solution131$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Solution131.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Solution207.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Solution38.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Solution91.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Trie$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/Trie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/WordTranslation$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210218/WordTranslation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210221/NestedInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210221/NestedIterator$MyNestedInt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210221/NestedIterator$MyNestedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210221/NestedIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210221/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Solution131.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Solution216.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Solution39.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Solution698.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Solution77.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210223/Template.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210224/QuickSortDemo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210224/Template.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210225/Template.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210226/Template$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210226/Template.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/ReversePairs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution162.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution199$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution199.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution239$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution239.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution315.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/Solution64.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210312/TemplateMain.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/MinStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/ReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution160.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution1619.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution171.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution1714$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution1714.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution1723.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/Solution55.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210614/SolutionWater.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/LRUCache$LRUNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/LRUCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution124$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution124.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution14I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution14II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution1626.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution1650$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution1650.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution1793.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution221.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution240.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution51$Coordinate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution51.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution62.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution84$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution84.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/Solution85.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/StockSpanner$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210619/StockSpanner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution$PartternNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution$TestPattern$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution$TestPattern$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution$TestPattern.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution127.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution223.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution46.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution47.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution57I.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution57II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution61.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution752.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution773$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/Solution773.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210626/StateMachine.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/DFSExample.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution1213.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution1712$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution1712.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution393$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution393.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution65$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution65.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution653$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution653.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution71.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution815.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/Solution909.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210627/SolutionLCP06.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Reader4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution12$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution157.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution218.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution351.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution365$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210628/Solution365.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution100$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution100.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution112$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution112.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution34.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution433.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution594.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution628$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/Solution628.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210629/SolutionLCP22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/MyStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution108$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution108.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution117$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution117.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution13Offer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution1691$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution1691.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution1716.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution225.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution35.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution36.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution37.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/Solution93.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210630/TestList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution169.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution297$Codec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution297$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution297.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution456.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution679.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution739.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution746.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution8$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210701/Solution907.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution10$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution29.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution63.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution645.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210703/Solution69.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/LCP09.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/LCP22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution1418$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution1418$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution1418.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution1711.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution274.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution275.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution40.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution45.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution5808.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution5809.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution5810$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution5810.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution5811.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/Solution90.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/TimeMap$CompondValue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210708/TimeMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210714/Solution$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210714/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p20210714/Solution1818.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/LongestIncreasingSubString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/MedianFinder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/MedianFinder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/RandomizedSet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution101.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution102.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution103.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution104.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1104.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1143.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution116$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution116.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution117$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution117.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution118.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution121.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution122.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution128.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution130.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution132.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution141.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution142.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1458.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution149.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution150.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution152.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution163.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution166.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1713.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1736.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1743$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1743.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution179$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution179.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1818.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1838.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1846.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1877.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution189.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution1893.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution198.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution200.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution206.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution210.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution212.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution217.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution224.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution226.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution227.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution234.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution236.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution238.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution252$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution252.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution253$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution253$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution253.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution26.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution279.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution313.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution322.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution324.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution328.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution33.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution334.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution340.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution376.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution378$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution378.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution384.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution412.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution43.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution44.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution48.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution50.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution53.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution557.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution617.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution66.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution671.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution671II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution69.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution70.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution73.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution76.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution80.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution81.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution860.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution863.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution88.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution930.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution94.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution98.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution987$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution987$Coordinate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Solution987.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m07/Vector2D.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/AutocompleteSystem$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/AutocompleteSystem$Trie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/AutocompleteSystem.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/BSTIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Codec.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/LFUCache$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/LFUCache$BiEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/LFUCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MinStack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MyCircularQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MyHashMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MyLinkedList$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MyLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/MyQueue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/NumMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Relation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1027.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution110.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution114.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1239.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution133.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1334.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1337$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1337$Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1337.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution136.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution143.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1448.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution151.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution153.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1583.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1647.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution165.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution167.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution168.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution1822.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution186.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution213.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution23.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution230.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution233.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution235.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution24.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution259.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution268.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution277.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution285.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution287.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution302.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution31.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution315.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution332.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution347$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution347.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution354$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution354.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution394.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution395.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution41.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution413.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution426$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution426.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution430$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution430.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution442.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution443.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution450.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution457.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution46.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution516.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution526.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution543.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution545.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution547.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution572.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution576$Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution576.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution581.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution581II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution59.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution61.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution611.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution621$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution621$Item.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution621.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution636.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution669.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution692$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution692.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution72.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution721.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution722$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution722.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution724.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution74.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution743.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution743II$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution743II$BiKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution743II.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution802.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution83.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution86.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution876.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution96.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution977.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution99.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution994$BiKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/Solution994.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/p2021m08/TicTacToe.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SearchLeafNodeInBiTree$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SearchLeafNodeInBiTree.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/Solution726$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/Solution726$Pair.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/Solution726.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SolutionBucket.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SolutionComputeString.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SolutionReverseLinkedList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SolutionRomeNumer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/SolutionTransform.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LeetCode-Practice/leetcode/shopee/TemplateMain.class" afterPath="" />
+    <list default="true" id="6855f4be-d962-4b58-81c6-e8916000befe" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/ListNode.java" afterPath="$PROJECT_DIR$/src/common/ListNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/Node.java" afterPath="$PROJECT_DIR$/src/common/Node.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/Solution.java" afterPath="$PROJECT_DIR$/src/common/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/TreeNode.java" afterPath="$PROJECT_DIR$/src/common/TreeNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/Solution202.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/Solution202.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/Solution269.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/Solution269.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20200219/RandomTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20200219/RandomTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution148.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution148.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution19.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution19.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution22.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution300.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution300.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution54.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution54.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/SelfDefinedHeap.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/SelfDefinedHeap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/Solution215.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/Solution215.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/IntConsumerTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/IntConsumerTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy3.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/BoundedBlockingQueue.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/BoundedBlockingQueue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/NotifyAndWaitTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/NotifyAndWaitTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy3.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1117.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1117.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1195.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1195.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1226.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1226.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/TemplateMain1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/TemplateMain1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/SpinLock.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/SpinLock.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomicStampedRef.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomicStampedRef.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestBoundedQueue.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestBoundedQueue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Father.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Father.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/KmpSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/KmpSolution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Solution28.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Solution28.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Son.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Son.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/TestJavaClass.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/TestJavaClass.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/Father.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/Father.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/MyInterface1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/MyInterface1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/Son.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/Son.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution283.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution283.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution329.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution329.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution49.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution49.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/TemplateMain.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution134.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution134.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution179.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution179.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution34.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution34.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/DFS.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DFS.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/DeepCopy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DeepCopy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Palindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Palindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/PartitionSort.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/PartitionSort.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Permutation.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Permutation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution131.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution131.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution207.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution207.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution38.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution38.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution91.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution91.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Trie.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Trie.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/WordTranslation.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/WordTranslation.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210221/NestedIterator.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210221/NestedIterator.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210221/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210221/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution131.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution131.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution216.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution216.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution39.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution39.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution698.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution698.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution77.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution77.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Template.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210224/QuickSortDemo.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210224/QuickSortDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210224/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210224/Template.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210225/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210225/Template.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210226/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210226/Template.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/MinStack.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/MinStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/ReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/ReverseLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution13.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution13.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution14.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution14.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution160.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution160.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1619.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1619.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution171.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution171.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1714.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1714.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1723.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1723.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution55.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution55.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/SolutionWater.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/SolutionWater.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/LRUCache.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/LRUCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution124.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution124.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution14I.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution14I.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution14II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution14II.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1626.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1626.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1650.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1650.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1793.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1793.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution221.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution221.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution240.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution240.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution51.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution51.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution62.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution62.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution84.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution84.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution85.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution85.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/StockSpanner.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/StockSpanner.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution10.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution127.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution127.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution223.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution223.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution46.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution46.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution47.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution47.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution57I.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution57I.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution57II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution57II.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution61.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution61.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution752.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution752.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution773.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution773.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/StateMachine.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/StateMachine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/DFSExample.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/DFSExample.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution1213.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution1213.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution1712.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution1712.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution393.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution393.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution65.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution65.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution653.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution653.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution71.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution71.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution815.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution815.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution909.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution909.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/SolutionLCP06.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/SolutionLCP06.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Reader4.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Reader4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution12.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution12.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution157.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution157.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution16.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution16.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution218.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution218.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution351.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution351.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution365.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution365.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution100.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution100.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution112.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution112.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution34.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution34.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution433.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution433.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution594.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution594.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution6.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution6.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution628.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution628.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/SolutionLCP22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/SolutionLCP22.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/MyStack.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/MyStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution108.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution108.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution117.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution117.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution13Offer.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution13Offer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution15.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution15.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution1691.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution1691.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution17.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution17.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution1716.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution1716.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution18.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution18.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution225.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution225.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution35.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution35.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution36.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution36.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution37.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution37.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution93.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution93.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/TestList.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/TestList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution169.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution169.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution297.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution297.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution456.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution456.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution679.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution679.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution739.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution739.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution746.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution746.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution8.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution8.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution907.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution907.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution10.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution10.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution29.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution29.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution4.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution4.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution63.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution63.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution645.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution645.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution69.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution69.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/LCP09.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/LCP09.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/LCP22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/LCP22.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution1418.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution1418.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution1711.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution1711.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution274.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution274.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution275.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution275.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution40.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution40.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution45.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution45.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5808.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5808.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5809.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5809.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5810.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5810.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5811.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5811.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution90.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution90.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/TimeMap.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/TimeMap.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210714/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210714/Solution.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210714/Solution1818.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210714/Solution1818.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SearchLeafNodeInBiTree.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SearchLeafNodeInBiTree.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/Solution726.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/Solution726.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionBucket.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionBucket.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionComputeString.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionComputeString.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionReverseLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionRomeNumer.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionRomeNumer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionTransform.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionTransform.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/TemplateMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/test20210120/Solution92.java" afterPath="$PROJECT_DIR$/src/demo/test20210120/Solution92.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p20210312/Solution199.java" afterPath="$PROJECT_DIR$/src/leetcode/p20210312/Solution199.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution101.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution101.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution102.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution102.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution103.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution103.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution104.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution104.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution141.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution141.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution142.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution142.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution206.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution206.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution21.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution21.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution226.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution226.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution234.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution234.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution236.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution236.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution328.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution328.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution617.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution617.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671II.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution863.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution863.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution94.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution94.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution98.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution98.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution987.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution987.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/BSTIterator.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/BSTIterator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution110.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution110.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution114.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution114.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution133.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution133.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution143.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution143.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution1448.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution1448.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution230.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution230.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution235.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution235.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution24.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution24.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution285.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution285.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution450.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution450.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution543.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution543.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution545.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution545.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution572.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution572.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution61.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution61.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution669.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution669.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution83.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution83.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution86.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution86.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution876.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution876.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution99.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution99.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -684,7 +281,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -727,6 +324,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -737,7 +335,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution1822.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution72.java" />
         <option value="$PROJECT_DIR$/src/example/ListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" />
@@ -788,6 +385,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution526.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/leetcode/unknown/Solution269.java" />
       </list>
     </option>
   </component>
@@ -803,9 +401,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="600" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="87" />
+    <option name="y" value="38" />
     <option name="width" value="1845" />
     <option name="height" value="1057" />
   </component>
@@ -825,10 +423,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -836,17 +432,24 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="SearchEverywhereHistoryKey" value="TreeN&#9;PSI&#9;JAVA://example.TreeNode&#10;Node&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/example/Node.java&#10;Auto&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/leetcode/p2021m08/AutocompleteSystem.java&#10;Aut&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/leetcode/p2021m08/AutocompleteSystem.java&#10;Solution10&#9;PSI&#9;JAVA://leetcode.p20210626.Solution10&#10;ListNode&#9;PSI&#9;JAVA://leetcode.shopee.SolutionReverseLinkedList.ListNode&#10;ListNod&#9;PSI&#9;JAVA://leetcode.p20210614.Solution160.ListNode&#10;ListN&#9;PSI&#9;JAVA://demo.test20210120.Solution92.ListNode&#10;Solution679&#9;PSI&#9;JAVA://leetcode.p20210701.Solution679&#10;java.lang.String&#9;PSI&#9;JAVA://java.lang.String&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/String.class&#10;ObjectOut&#9;PSI&#9;JAVA://java.io.ObjectOutputStream&#10;LinkedHas&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/cn/szse/LinkedHashMapTest.java&#10;Long&#9;PSI&#9;JAVA://java.lang.Long&#10;Solution815&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/leetcode/p20210627/Solution815.java&#10;Solution71&#9;PSI&#9;JAVA://leetcode.p20210627.Solution71&#10;allCellsDistOrder&#9;PSI&#9;JAVA://test20210120.Solution1030#allCellsDistOrder&#10;Solution55&#9;PSI&#9;JAVA://leetcode.p20210614.Solution55&#10;BiFunct&#9;PSI&#9;JAVA://java.util.function.BiFunction&#10;ladderLength&#9;PSI&#9;JAVA://leetcode.p20210218.WordTranslation#ladderLength&#10;Solution14&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/leetcode/p20210614/Solution14.java&#10;Solution1&#9;FILE&#9;file:///Users/weihuang/LeetCode-Practice/src/completition/Solution1792.java&#10;Deque&#9;PSI&#9;JAVA://java.util.Deque&#10;Linked&#9;PSI&#9;JAVA://cn.szse.LinkedHashMapTest&#10;LRU&#9;PSI&#9;JAVA://test20210120.LRUCache&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Chara&#9;PSI&#9;JAVA://java.lang.Character&#10;Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Reen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Class&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Class.java&#10;Fu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/function/Function.java&#10;Consumer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar!/java/util/function/Consumer.class&#10;@FunctionI&#9;PSI&#9;JAVA://java.lang.FunctionalInterface&#10;BitSet&#9;PSI&#9;JAVA://java.util.BitSet&#10;Hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;AtomicInte&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;StringB&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;StringTa&#9;PSI&#9;JAVA://sun.jvm.hotspot.memory.StringTable&#10;Externa&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/Externalizable.java&#10;Objec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/io/ObjectOutputStream.java&#10;Externaliz&#9;PSI&#9;JAVA://java.io.Externalizable&#10;Ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;BigInte&#9;PSI&#9;JAVA://java.math.BigInteger&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;Comparat&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Comparators.java&#10;Collections&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1096,7 +699,8 @@
       <workItem from="1628508700686" duration="48391000" />
       <workItem from="1628674701803" duration="29899000" />
       <workItem from="1628818954074" duration="71670000" />
-      <workItem from="1629084318693" duration="158000" />
+      <workItem from="1629084318693" duration="1967000" />
+      <workItem from="1629100855243" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="Save">
       <created>1625623474425</created>
@@ -1245,11 +849,25 @@
       <option name="project" value="LOCAL" />
       <updated>1629041193855</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="clean">
+      <created>1629084506762</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629084506763</updated>
+    </task>
+    <task id="LOCAL-00023" summary="remove">
+      <created>1629100974699</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629100974700</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1195650000" />
+    <option name="totallyTimeSpent" value="1197909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1261,7 +879,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="23" width="1845" height="1057" extended-state="6" />
+    <frame x="87" y="38" width="1845" height="1057" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49574015" order="7" side_tool="false" content_ui="tabs" />
@@ -1280,13 +898,13 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.4659212" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6144835" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937294" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.594438" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19467553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.4659212" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54419595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19689406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1339,7 +957,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Save" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save" />
+    <MESSAGE value="clean" />
+    <MESSAGE value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1375,26 +995,26 @@
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210209/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution.java</url>
           <line>32</line>
           <properties />
           <option name="timeStamp" value="126" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210209/Solution148.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution148.java</url>
           <line>100</line>
           <properties />
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210209/Solution19.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution19.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210212/Solution1117.java</url>
-          <line>104</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1117.java</url>
+          <line>103</line>
           <properties />
           <option name="timeStamp" value="189" />
         </line-breakpoint>
@@ -1411,13 +1031,13 @@
           <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210214/TestJavaClass.java</url>
-          <line>51</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/TestJavaClass.java</url>
+          <line>48</line>
           <properties />
           <option name="timeStamp" value="250" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210216/Solution329.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution329.java</url>
           <line>99</line>
           <properties />
           <option name="timeStamp" value="257" />
@@ -1429,38 +1049,38 @@
           <option name="timeStamp" value="270" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/WordTranslation.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/WordTranslation.java</url>
           <line>73</line>
           <properties />
           <option name="timeStamp" value="311" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/WordTranslation.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/WordTranslation.java</url>
           <line>86</line>
           <properties />
           <option name="timeStamp" value="312" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/Trie.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Trie.java</url>
           <line>92</line>
           <properties />
           <option name="timeStamp" value="313" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/DeepCopy.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DeepCopy.java</url>
           <line>93</line>
           <properties />
           <option name="timeStamp" value="338" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/DeepCopy.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DeepCopy.java</url>
           <line>63</line>
           <properties />
           <option name="timeStamp" value="340" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20200219/RandomTest.java</url>
-          <line>73</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20200219/RandomTest.java</url>
+          <line>70</line>
           <properties />
           <option name="timeStamp" value="359" />
         </line-breakpoint>
@@ -1495,7 +1115,7 @@
           <option name="timeStamp" value="383" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210224/QuickSortDemo.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210224/QuickSortDemo.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="447" />
@@ -1531,14 +1151,14 @@
           <option name="timeStamp" value="506" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210209/TemplateMain.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/TemplateMain.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="510" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210212/TemplateMain.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/TemplateMain.java</url>
+          <line>18</line>
           <properties />
           <option name="timeStamp" value="511" />
         </line-breakpoint>
@@ -1633,284 +1253,284 @@
           <option name="timeStamp" value="560" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SolutionComputeString.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionComputeString.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="565" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SearchLeafNodeInBiTree.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SearchLeafNodeInBiTree.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="567" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SearchLeafNodeInBiTree.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SearchLeafNodeInBiTree.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="570" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SolutionBucket.java</url>
-          <line>31</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionBucket.java</url>
+          <line>29</line>
           <properties />
           <option name="timeStamp" value="572" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SolutionReverseLinkedList.java</url>
-          <line>75</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionReverseLinkedList.java</url>
+          <line>71</line>
           <properties />
           <option name="timeStamp" value="576" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/shopee/SolutionReverseLinkedList.java</url>
-          <line>84</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionReverseLinkedList.java</url>
+          <line>80</line>
           <properties />
           <option name="timeStamp" value="577" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210614/Solution14.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution14.java</url>
           <line>37</line>
           <properties />
           <option name="timeStamp" value="579" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210614/Solution14.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution14.java</url>
           <line>43</line>
           <properties />
           <option name="timeStamp" value="580" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210614/Solution160.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution160.java</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="593" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/Solution84.java</url>
-          <line>61</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution84.java</url>
+          <line>60</line>
           <properties />
           <option name="timeStamp" value="603" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/Solution62.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution62.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="612" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/LRUCache.java</url>
-          <line>60</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/LRUCache.java</url>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="616" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/LRUCache.java</url>
-          <line>67</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/LRUCache.java</url>
+          <line>66</line>
           <properties />
           <option name="timeStamp" value="617" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/LRUCache.java</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/LRUCache.java</url>
+          <line>45</line>
           <properties />
           <option name="timeStamp" value="620" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/Solution1650.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1650.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="638" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/Solution51.java</url>
-          <line>60</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution51.java</url>
+          <line>58</line>
           <properties />
           <option name="timeStamp" value="639" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210619/Solution51.java</url>
-          <line>77</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution51.java</url>
+          <line>75</line>
           <properties />
           <option name="timeStamp" value="641" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution61.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution61.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="746" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution773.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution773.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="750" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java</url>
           <line>20</line>
           <properties />
           <option name="timeStamp" value="760" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="761" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java</url>
           <line>110</line>
           <properties />
           <option name="timeStamp" value="763" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210627/Solution393.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution393.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="780" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210627/Solution393.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution393.java</url>
           <line>59</line>
           <properties />
           <option name="timeStamp" value="781" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210627/Solution653.java</url>
-          <line>66</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution653.java</url>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="806" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210627/Solution1712.java</url>
-          <line>63</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution1712.java</url>
+          <line>62</line>
           <properties />
           <option name="timeStamp" value="811" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
           <condition expression="index==" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210628/Solution12.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution12.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="816" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210628/Solution351.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution351.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="848" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210629/Solution433.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution433.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="855" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210629/Solution34.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution34.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="863" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210629/Solution34.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution34.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="864" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210630/Solution13Offer.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution13Offer.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="874" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210630/Solution108.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution108.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="876" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210630/Solution18.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution18.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="884" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/Palindrome.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Palindrome.java</url>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="889" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/Palindrome.java</url>
-          <line>20</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Palindrome.java</url>
+          <line>17</line>
           <properties />
           <option name="timeStamp" value="890" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210218/Palindrome.java</url>
-          <line>29</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Palindrome.java</url>
+          <line>26</line>
           <properties />
           <option name="timeStamp" value="891" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210701/Solution297.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution297.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="896" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210701/Solution297.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution297.java</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="902" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210701/Solution297.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution297.java</url>
           <line>130</line>
           <properties />
           <option name="timeStamp" value="903" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210701/Solution8.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution8.java</url>
           <line>92</line>
           <properties />
           <option name="timeStamp" value="928" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210703/Solution63.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution63.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="1025" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210703/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="1051" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210703/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution.java</url>
           <line>47</line>
           <properties />
           <option name="timeStamp" value="1052" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210708/Solution1418.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution1418.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="1053" />
         </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210708/Solution90.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution90.java</url>
           <line>45</line>
           <properties />
           <option name="timeStamp" value="1058" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210708/Solution274.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution274.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="1087" />
@@ -1940,8 +1560,8 @@
           <option name="timeStamp" value="1163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210701/Solution679.java</url>
-          <line>30</line>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution679.java</url>
+          <line>28</line>
           <properties />
           <option name="timeStamp" value="1164" />
         </line-breakpoint>
@@ -1958,14 +1578,14 @@
           <option name="timeStamp" value="1181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/src/example/TreeNode.java</url>
+          <url>file://$PROJECT_DIR$/src/common/TreeNode.java</url>
           <line>52</line>
           <properties />
           <option name="timeStamp" value="1187" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/p2021m07/Solution671II.java</url>
-          <line>45</line>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="1195" />
         </line-breakpoint>
@@ -2223,7 +1843,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution99.java</url>
-          <line>60</line>
+          <line>59</line>
           <properties />
           <option name="timeStamp" value="1640" />
         </line-breakpoint>
@@ -2420,7 +2040,7 @@
           <option name="timeStamp" value="474" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/leetcode/p20210626/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java</url>
           <line>120</line>
           <properties method="apply">
             <option name="EMULATED" value="true" />
@@ -2451,15 +2071,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution173.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/BSTIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution348.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution59.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -2627,14 +2238,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/example/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/common/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/example/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/common/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="48" column="7" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="48" selection-end-column="7" />
@@ -2801,8 +2412,8 @@
         <state relative-caret-position="1140">
           <caret line="62" column="5" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
           <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2819,9 +2430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="854">
           <caret line="48" column="5" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2838,18 +2446,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode-Practice.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/completition/Solution1790.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution269.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution202.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>

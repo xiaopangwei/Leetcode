@@ -1,6 +1,6 @@
 package demo.test20210120;
 
-import example.ListNode;
+import common.ListNode;
 
 /**
  * <p>Description: </p>

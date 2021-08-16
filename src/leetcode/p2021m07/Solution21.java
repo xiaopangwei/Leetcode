@@ -1,6 +1,6 @@
 package leetcode.p2021m07;
 
-import example.ListNode;
+import common.ListNode;
 
 /**
  * <p>Description: </p>
