@@ -1,7 +1,5 @@
 package leetcode.p2021m09;
 
-import java.util.*;
-
 /**
  * <p>Description: </p>
  * <p>Company: Harbin Institute of Technology</p>
@@ -11,81 +9,51 @@ import java.util.*;
  * @time 10:34 AM
  */
 public class Solution678 {
-    private Map<Integer, Boolean> cached = new HashMap<>();
+
 
     public boolean checkValidString(String s) {
+        int         len = s.length();
+        boolean[][] dp  = new boolean[len][len];
 
-        return dfs(s, 0, new ArrayList<>());
-    }
-
-    private boolean dfs(String s, int index, List<Character> list) {
-
-
-        if (cached.containsKey(index)) {
-            return cached.get(index);
-        }
-        if (index >= s.length()) {
-            System.out.println(list);
-            return isValid(list);
+        for (int i = 0; i < len; i++) {
+            if (s.charAt(i) == '*') {
+                dp[i][i] = true;
+            }
         }
 
-        if (s.charAt(index) != '*') {
-            list.add(s.charAt(index));
-            boolean flag = dfs(s, index + 1, list);
-            list.remove(list.size() - 1);
-            if (flag) {
-                cached.put(index, flag);
+        for (int i = 0; i < len - 1; i++) {
+            if ((s.charAt(i) == '(' || s.charAt(i) == '*') &&
+                    (s.charAt(i + 1) == ')' || s.charAt(i + 1) == '*')) {
+                dp[i][i+1] = true;
             }
-            return flag;
-        } else {
-            boolean flag1 = dfs(s, index + 1, list);
-            if (flag1) {
-                cached.put(index, true);
-                return true;
-            }
-
-            list.add('(');
-            boolean flag2 = dfs(s, index + 1, list);
-            list.remove(list.size() - 1);
-            if (flag2) {
-                cached.put(index, true);
-                return true;
-            }
-
-
-            list.add(')');
-            boolean flag3 = dfs(s, index + 1, list);
-            list.remove(list.size() - 1);
-            if (flag3) {
-                cached.put(index, true);
-                return true;
-            }
-
-            return false;
         }
-    }
 
-    private boolean isValid(List<Character> data) {
-        Stack<Character> stack = new Stack<>();
-        for (char ch : data) {
-            if (ch == '(') {
-                stack.push('(');
-            } else {
-                if (!stack.isEmpty()) {
-                    char top = stack.peek();
-                    if (top == '(') {
-                        stack.pop();
-                    } else {
-                        return false;
-                    }
-                } else {
-                    return false;
+        for (int k = 3; k <= len; k++) {
+            for (int i = 0; i < len; i++) {
+                int j = i + k - 1;
+                if (j >= len) {
+                    continue;
                 }
+                if ((s.charAt(i) == '(' || s.charAt(i) == '*') &&
+                        (s.charAt(j) == ')' || s.charAt(j) == '*')) {
+                    if (dp[i + 1][j - 1]) {
+                        dp[i][j] = true;
+                    }
+                }
+                if (!dp[i][j]) {
+                    for (int idx = i; idx <= j; idx++) {
+                        if (dp[i][idx] && dp[idx + 1][j]) {
+                            dp[i][j] = true;
+                            break;
+                        }
+                    }
+                }
+
             }
         }
-
-        return stack.isEmpty();
+        return dp[0][len - 1];
     }
+
 
     public static void main(String[] args) {
         Solution678 solution678 = new Solution678();
