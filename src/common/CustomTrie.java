@@ -23,6 +23,8 @@ public class CustomTrie {
 
     public int weight = 0;
 
+    public CustomTrie parent = null;
+
     public CustomTrie(String value) {
         this.prefix = value;
         nextNodeMap = new TreeMap<>();
@@ -47,6 +49,7 @@ public class CustomTrie {
                     newTrie.weight = weight;
                 }
                 temp.nextNodeMap.put(ch, newTrie);
+                newTrie.parent = temp;
                 temp = newTrie;
             } else {
                 temp = temp.nextNodeMap.get(ch);

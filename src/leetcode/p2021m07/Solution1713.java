@@ -77,7 +77,7 @@ public class Solution1713 {
 
     public static void main(String[] args){
         Solution1713 solution1713=new Solution1713();
-//        int[] target=new int[]{5,1,3};
+//        int[] currentSum=new int[]{5,1,3};
 //        int[] arr=new int[]{9,4,2,3,4};
 //
         int[] target=new int[]{1,3,8};

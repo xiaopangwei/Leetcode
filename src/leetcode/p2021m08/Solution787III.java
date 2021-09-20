@@ -31,7 +31,7 @@ public class Solution787III {
                 int weight = flights[i][2];
 
                 dp[k][target] = Math.min(dp[k][target], dp[k - 1][source] + weight);
-                System.out.println("k:" + k + " source:" + source + " target:" + target + " " + dp[k][target]);
+                System.out.println("k:" + k + " source:" + source + " currentSum:" + target + " " + dp[k][target]);
             }
         }
 
