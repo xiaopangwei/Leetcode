@@ -12,17 +12,20 @@ public class Solution223 {
     public int computeArea(int ax1, int ay1, int ax2, int ay2,
                            int bx1, int by1, int bx2, int by2) {
 
-        if (In(by2,ay1,ay2) && In(bx1,ax1,ax2)){
 
-        }else if(In(ay2,by1,by2) && In(bx1,ax1,ax2)) {
+        int overlapWidth  = Math.min(ax2, bx2) - Math.max(ax1, bx1);
+        int overlapHeight = Math.min(ay2, by2) - Math.max(ay1, by1);
 
+        int a = (ax2 - ax1) * (ay2 - ay1);
+        int b = (bx2 - bx1) * (by2 - by1);
+
+        int temp = a + b - Math.max(overlapHeight, 0) * Math.max(overlapWidth, 0);
+        if (temp < 0) {
+            return 0;
+        } else {
+            return temp;
         }
 
-        return 0;
-
     }
 
-    private boolean In(int v1,int start,int end){
-        return start<=v1 && end>=v1;
-    }
 }
