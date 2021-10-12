@@ -15,37 +15,41 @@ public class Solution644 {
     public double findMaxAverage(int[] nums, int k) {
 
 
-        int[] prefixSum = new int[nums.length + 1];
-        prefixSum[0] = 0;
         int maxVal = Integer.MIN_VALUE;
         int minVal = Integer.MAX_VALUE;
-        for (int i = 1; i < prefixSum.length; i++) {
-            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
-            maxVal = Math.max(maxVal, nums[i - 1]);
-            minVal = Math.min(minVal, nums[i - 1]);
+        for (int i = 0; i < nums.length; i++) {
+
+            maxVal = Math.max(maxVal, nums[i]);
+            minVal = Math.min(minVal, nums[i]);
         }
         double left  = minVal;
         double right = maxVal;
 
         while (left + exp <= right) {
-            double mid = (left + right)*1.0 / 2;
-            System.out.println(mid);
+            double  mid  = (left + right) * 1.0 / 2;
             boolean isOk = false;
-            for (int len = k; len <= nums.length; len++) {
-                for (int i = 0; i < nums.length; i++) {
-                    int j = len + i - 1;
-                    if (j >= nums.length) {
-                        continue;
+
+            double prefixSum    = 0;
+            double prev         = 0;
+            double minPrefixSum = 0;
+            for (int i = 0; i < k; i++) {
+                prefixSum += nums[i] - mid;
+            }
+            if (prefixSum >= 0) {
+                isOk = true;
+            } else {
+                for (int i = k; i < nums.length; i++) {
+                    prefixSum += nums[i] - mid;
+                    prev += nums[i - k] - mid;
+                    if (prev < minPrefixSum) {
+                        minPrefixSum = prev;
                     }
-                    double sum = prefixSum[j + 1] - prefixSum[i];
-                    if (sum >= len * mid) {
+                    if (prefixSum - minPrefixSum >= 0) {
                         isOk = true;
                         break;
                     }
                 }
             }
-
-//            System.out.println(mid + " " + isOk);
             if (isOk) {
                 left = mid;
             } else {
