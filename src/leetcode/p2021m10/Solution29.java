@@ -9,8 +9,14 @@ package leetcode.p2021m10;
  * @time 4:58 PM
  */
 public class Solution29 {
-    public int divide(int dividend, int divisor) {
+    public int divide(int a, int b) {
 
+
+        if (a == Integer.MIN_VALUE && b == -1) {
+            return Integer.MAX_VALUE;
+        }
+        long dividend = (long) a;
+        long divisor  = (long) b;
         if (dividend == 0) {
             return 0;
         }
@@ -23,19 +29,31 @@ public class Solution29 {
             flag = false;
         }
 
-        dividend = Math.abs(dividend);
-        divisor = Math.abs(divisor);
+        if (dividend < 0) {
+            dividend = -dividend;
+        }
+        if (divisor < 0) {
+            divisor = -divisor;
+        }
 
-        int left  = 0;
-        int right = dividend;
+
+        if (divisor == 1) {
+            if (flag) {
+                return (int) dividend;
+            } else {
+                return (int) -dividend;
+            }
+        }
+
+        long left  = 0;
+        long right = dividend;
 
 
-        int positiveValue = 0;
+        long positiveValue = 0;
         while (left <= right) {
-            int mid  = (left + right) / 2;
+            long mid = (left + right) / 2;
 
-//            System.out.println(mid);
-            int temp = multiply(mid, divisor);
+            long temp = multiply(mid, divisor);
 
             if (temp <= dividend) {
                 if (multiply(mid + 1, divisor) > dividend) {
@@ -49,31 +67,36 @@ public class Solution29 {
             }
         }
 
+        if (positiveValue > Integer.MAX_VALUE) {
+            positiveValue = Integer.MAX_VALUE;
+        }
         if (flag) {
-            return positiveValue;
+            return (int) positiveValue;
         } else {
-            return -positiveValue;
+            return (int) -positiveValue;
         }
     }
 
-    private int multiply(int a, int b) {
+    private long multiply(long a, long b) {
 
-        int res = 0;
+        long res = 0;
         while (b != 1) {
-            int t = b & 1;
+            long t = b & 1;
             if (t == 1) {
                 res += a;
             }
             a += a;
             b = b >> 1;
         }
-        return res+a;
+        return (res + a);
     }
 
     public static void main(String[] args) {
         Solution29 solution29 = new Solution29();
-//        int        ans        = solution29.multiply(3, 1);
-        int        ans        = solution29.divide(7, -3);
+        System.out.println(solution29.multiply(11, 11));
+        System.out.println(solution29.multiply(11, 12));
+        System.out.println(solution29.multiply(12, 12));
+        int ans = solution29.divide(2147483647, 2);
         System.out.println(ans);
     }
 }
