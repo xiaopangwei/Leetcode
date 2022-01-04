@@ -50,7 +50,7 @@ public class Solution157 extends Reader4{
     }
 
     @Override
-    int read4(char[] buf4) {
+    public int read4(char[] buf4) {
         buf4[0]='A';
         buf4[1]='B';
         buf4[2]='C';
