@@ -1,6 +1,7 @@
 package leetcode.p2021m08;
 
 import common.TreeNode;
+import common.TreeNodeBuilder;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -61,7 +62,7 @@ public class TreeCodec {
 
     public static void main(String[] args) {
         TreeCodec treeCodec = new TreeCodec();
-        TreeNode  root      = TreeNode.ofArray("[1,2,3,null,null,4,5]");
+        TreeNode  root      = TreeNodeBuilder.build("[1,null,2,3,4]");
 //        TreeNode root = null;
         String   res  = treeCodec.serialize(root);
         System.out.println(res);

@@ -12,43 +12,32 @@ import common.TreeNode;
  */
 public class Solution114 {
     public void flatten(TreeNode root) {
-
         if (root == null) {
             return;
         }
 
-        System.out.println(root.val);
-        TreeNode lTree = root.left;
+        TreeNode left  = root.left;
+        TreeNode right = root.right;
         flatten(root.left);
+        flatten(root.right);
 
-
-        TreeNode p = lTree;
-        while (p != null && p.right != null) {
+        root.right = left;
+        root.left = null;
+        TreeNode p = root;
+        while (p.right != null) {
             p = p.right;
         }
 
-        TreeNode rTree = root.right;
-        flatten(root.right);
+        p.right = right;
 
-
-        root.left = null;
-        if (lTree != null) {
-            root.right = lTree;
-        } else {
-            root.right = rTree;
-        }
-
-        if (lTree != null && p != null) {
-            p.right = rTree;
-        }
 
     }
 
     public static void main(String[] args) {
 
         Solution114 solution114 = new Solution114();
-        TreeNode    root        = TreeNode.ofArray("[0]");
-        solution114.flatten(null);
+        TreeNode    root        = TreeNode.ofArray("[1,2,5,3,4,null,6]");
+        solution114.flatten(root);
         System.out.println(root);
     }
 }

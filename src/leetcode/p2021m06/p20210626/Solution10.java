@@ -1,7 +1,5 @@
 package leetcode.p2021m06.p20210626;
 
-import java.util.Arrays;
-
 /**
  * <p>Description: </p>
  * <p>Company: Harbin Institute of Technology</p>
@@ -12,66 +10,50 @@ import java.util.Arrays;
  */
 public class Solution10 {
     public boolean isMatch(String s, String p) {
+        return dfs(s, p);
+    }
 
-        if (s == null || p == null) {
-            if (s == null && p == null) {
+
+    private boolean dfs(String src, String pattern) {
+        if (pattern.isEmpty()) {
+            return src.isEmpty();
+        }
+
+        //是否第一个字符匹配
+        boolean t1 = src.length() > 0 && pattern.length() > 0 &&
+                (src.charAt(0) == pattern.charAt(0) || pattern.charAt(0) == '.');
+
+        //pattern是否后面含有跟一个*
+        boolean t2 = pattern.length() > 1 && pattern.charAt(1) == '*';
+
+
+        if (t1) {
+            boolean b1 = dfs(src.substring(1), pattern.substring(1));
+            if (b1) {
                 return true;
-            }
-            return false;
-        }
-        if (s.length()==0 && p.length()==0){
-            return true;
-        }else if (s.length()>0 && p.length()==0){
-            return false;
-        }
-        boolean[][] dp = new boolean[s.length() + 1][p.length() + 1];
-
-//        System.out.println(s + " " + p);
-
-        //c*a*b
-        dp[0][0] = true;
-        for (int i = 1; i < p.length(); i++) {
-            if (p.charAt(i) == '*') {
-                dp[0][i + 1] = dp[0][i - 1];
-            }
-        }
-
-        for (int i = 0; i < s.length(); i++) {
-            for (int j = 0; j < p.length(); j++) {
-                //a-z
-//                System.out.println(i + " " + j);
-                if (p.charAt(j) >= 'a' && p.charAt(j) <= 'z') {
-                    if (p.charAt(j) == s.charAt(i)) {
-                        dp[i + 1][j + 1] = dp[i][j];
-                    }
-                } else if (p.charAt(j) == '*') {
-                    if (j > 0) {
-                        if (p.charAt(j - 1) == s.charAt(i)) {
-                            dp[i + 1][j + 1] = dp[i][j + 1] || dp[i + 1][j - 1];
-                        } else if (p.charAt(j - 1) == '.') {
-                            dp[i + 1][j + 1] = dp[i + 1][j - 1] || dp[i][j + 1];
-                        } else {
-                            dp[i + 1][j + 1] = dp[i + 1][j - 1];
-                        }
-                    }
+            } else {
+                if (t2) {
+                    return dfs(src, pattern.substring(2)) || dfs(src.substring(1), pattern);
                 } else {
-                    dp[i + 1][j + 1] = dp[i][j];
+                    return false;
                 }
             }
+        } else {
+            if (t2) {
+                return dfs(src, pattern.substring(2));
+            } else {
+                return false;
+            }
         }
 
-
-        for (int i = 0; i < dp.length; i++) {
-            System.out.println(Arrays.toString(dp[i]));
-        }
-        return dp[s.length()][p.length()];
     }
-//
-//    "aaa"
-//    "ab*a*c*a"
+
     public static void main(String[] args) {
         Solution10 solution10 = new Solution10();
-        boolean    ans        = solution10.isMatch("aaa", "ab*a*c*a");
+
+
+
+        boolean    ans        = solution10.isMatch("aaa", "a*");
         System.out.println(ans);
     }
 }

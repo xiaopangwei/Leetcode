@@ -13,67 +13,61 @@ import common.TreeNode;
  */
 public class Solution109 {
     public TreeNode sortedListToBST(ListNode head) {
-
-
         if (head == null) {
             return null;
         }
-        else if (head.next==null){
+        if (head.next==null){
             return new TreeNode(head.val);
         }
 
-        ListNode middle = findMiddle(head);
+        ListNode[] arr = findMiddle(head);
 
+        ListNode prev   = arr[0];
+        ListNode middle = arr[1];
 
-        if (middle != null) {
-            TreeNode root = new TreeNode(middle.val);
-            ListNode q=head;
-            while (q.next!=middle){
-                q=q.next;
-            }
-            q.next=null;
-//            System.out.println("middle value:" + middle.val);
-            ListNode nextMiddle = middle.next;
-            root.left = sortedListToBST(head);
-            root.right = sortedListToBST(nextMiddle);
-            return root;
+        TreeNode root = new TreeNode(middle.val);
+
+        ListNode nextP = middle.next;
+        if (prev != null) {
+            prev.next = null;
         }
+        root.left = sortedListToBST(head);
+
+        root.right = sortedListToBST(nextP);
 
 
-        return null;
-
+        return root;
     }
 
-    private void print(ListNode head){
-        ListNode p=head;
-        while (p!=null){
-            System.out.print(p.val+" ");
-            p=p.next;
-        }
-        System.out.println("END");
-    }
 
-    private ListNode findMiddle(ListNode head) {
-        if (head == null || head.next == null) {
-            return null;
-        }
-        ListNode slow = head;
-        ListNode fast = head;
+    public ListNode[] findMiddle(ListNode head) {
+        ListNode   slow = head;
+        ListNode   fast = head;
+        ListNode   prev = null;
+        ListNode[] res  = new ListNode[2];
 
-        while (true) {
-            if (fast == null || fast.next == null) {
-                return slow;
+        while (fast != null) {
+            if (fast.next != null) {
+                fast = fast.next.next;
+            } else {
+                break;
             }
-//            prev=slow;
+
+            prev = slow;
             slow = slow.next;
-            fast = fast.next.next;
         }
+
+        res[0] = prev;
+        res[1] = slow;
+        return res;
     }
 
     public static void main(String[] args) {
         Solution109 solution109 = new Solution109();
-        ListNode    head        = ListNode.ofArray("[-10,-3,9]");
-        TreeNode root = solution109.sortedListToBST(head);
+        ListNode    temp        = ListNode.ofArray("[-10, -3, 0, 5, 9]");
+        TreeNode    root        = solution109.sortedListToBST(temp);
+//        ListNode    head        = ListNode.ofArray("[-10,-3,9]");
+//        TreeNode    root        = solution109.sortedListToBST(head);
         System.out.println(root);
     }
 }
