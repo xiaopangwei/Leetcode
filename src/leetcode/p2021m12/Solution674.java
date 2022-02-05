@@ -10,23 +10,24 @@ package leetcode.p2021m12;
  */
 public class Solution674 {
     public int findLengthOfLCIS(int[] nums) {
-        int[] dp  = new int[nums.length];
-        int   max = 0;
-        dp[0]=1;
-        for (int i = 1; i < dp.length; i++) {
-            if (nums[i] > nums[i - 1]) {
-                dp[i] = dp[i - 1] + 1;
+        if (nums.length < 1) {
+            return 0;
+        }
+        int max   = 1;
+        int index = 0;
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i - 1] >= nums[i]) {
+                index = i;
             } else {
-                dp[i] = 1;
+                max = Math.max(max, i - index + 1);
             }
-            max = Math.max(max, dp[i]);
         }
         return max;
     }
 
-    public static void main(String[] args){
-        Solution674 solution674=new Solution674();
-        int len=solution674.findLengthOfLCIS(new int[]{2,2,2,2,2});
+    public static void main(String[] args) {
+        Solution674 solution674 = new Solution674();
+        int         len         = solution674.findLengthOfLCIS(new int[]{1,3,5,4,7});
         System.out.println(len);
     }
 }

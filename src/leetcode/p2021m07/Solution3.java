@@ -14,39 +14,43 @@ import java.util.Set;
 public class Solution3 {
     public int lengthOfLongestSubstring(String s) {
 
-        if (s.length()==0){
+        if (s.length() == 0) {
             return 0;
         }
-        int totalLen=s.length();
+        int totalLen = s.length();
 
-        int left=0;
-        int right=0;
+        int left  = 0;
+        int right = 0;
 
-        int ans=-1;
-        Set<Character> sets=new HashSet<>();
+        int ans = 0;
 
+        Set<Character> sets = new HashSet<>();
 
-        while (right<totalLen){
-                char ch=s.charAt(right);
+        while (right < totalLen) {
+            char ch = s.charAt(right);
 
-                while (sets.contains(ch)){
-                    sets.remove(s.charAt(left));
-                    left++;
+            if (sets.contains(ch)) {
+
+                while (left < right && s.charAt(left) != ch) {
+
+                    sets.remove(s.charAt(left++));
                 }
-
-                int width=right-left+1;
-                ans=Math.max(ans,width);
+                left++;
+            } else {
                 sets.add(ch);
-                right++;
+            }
+            ans = Math.max(ans, right - left + 1);
+
+            right++;
         }
 
         return ans;
 
     }
 
-    public static void main(String[] args){
-        Solution3 solution3=new Solution3();
-        int ans=solution3.lengthOfLongestSubstring("abcabcbb");
+    public static void main(String[] args) {
+        Solution3 solution3 = new Solution3();
+        int       ans       = solution3.lengthOfLongestSubstring("pwwkew");
         System.out.println(ans);
     }
 

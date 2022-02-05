@@ -23,7 +23,7 @@ public class SelfDefinedHeap {
 
     }
 
-    public int  remove(){
+    public int remove(){
         int ans=heap.get(0);
 
         int lastOne=heap.get(heap.size()-1);

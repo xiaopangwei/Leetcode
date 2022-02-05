@@ -109,7 +109,6 @@ public class Solution772 {
         } else {
             return -1;
         }
-
     }
 
     public static void main(String[] args) {

@@ -1,6 +1,12 @@
 package leetcode.p2021m08;
 
 import common.TreeNode;
+import common.TreeNodeBuilder;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * <p>Description: </p>
@@ -12,6 +18,7 @@ import common.TreeNode;
  */
 public class Solution543 {
     private int maxVal = -1;
+    Map<TreeNode, List<Integer>> map = new HashMap<>();
 
     public int diameterOfBinaryTree(TreeNode root) {
 
@@ -28,10 +35,21 @@ public class Solution543 {
 
         int left  = dfs(root.left);
         int right = dfs(root.right);
-        maxVal = Math.max(maxVal, left + right + 1);
-        int temp = Math.max(left, right) + 1;
-
-        return temp;
+        if (!map.containsKey(root)) {
+            map.put(root, new ArrayList<>());
+        }
+        map.get(root).add(left);
+        map.get(root).add(right);
+        map.get(root).add(left + right);
+        maxVal = Math.max(maxVal, left + right);
+        return Math.max(left, right) + 1;
     }
 
+
+    public static void main(String[] args){
+        TreeNode root=TreeNodeBuilder.build("[1,2,3,4,5]");
+        Solution543 solution543=new Solution543();
+        int ans=solution543.diameterOfBinaryTree(root);
+        System.out.println(ans);
+    }
 }

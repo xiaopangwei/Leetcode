@@ -13,64 +13,53 @@ import java.util.*;
 public class Solution210 {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
 
-        int[] inDigree=new int[numCourses];
-        Map<Integer,List<Integer>> outDegreeMap=new HashMap<>();
-        for(int i=0;i<prerequisites.length;i++){
-                inDigree[prerequisites[i][0]]++;
-                if (!outDegreeMap.containsKey(prerequisites[i][1])){
-                    outDegreeMap.put(prerequisites[i][1],new ArrayList<>());
-                }
-                outDegreeMap.get(prerequisites[i][1]).add(prerequisites[i][0]);
+        int[]               ans     = new int[numCourses];
+        int                 index   = 0;
+        int[]               degree  = new int[numCourses];
+        List<List<Integer>> adjList = new ArrayList<>(numCourses);
+        for (int i = 0; i < numCourses; i++) {
+            adjList.add(new ArrayList<>());
         }
-
-        int[] ans=new int[numCourses];
-        int index=0;
-
-        boolean flag=false;
-        for (int item:inDigree){
-            if (item==0){
-                flag=true;
-                break;
+        if (prerequisites!=null && prerequisites.length>0) {
+            for (int[] item : prerequisites) {
+                degree[item[0]]++;
+                adjList.get(item[1]).add(item[0]);
             }
         }
 
-        if (!flag){
-            return new int[]{};
+        Queue<Integer> queue = new LinkedList<>();
+        int count=0;
+        for (int i = 0; i < numCourses; i++) {
+            if (degree[i] == 0) {
+                queue.add(i);
+            }
         }
-        boolean[] visited=new boolean[numCourses];
-        for (int i=0;i<numCourses;i++)
-        {
-            boolean loopFlag=false;
-            for (int k=0;k<inDigree.length;k++) {
-                if (inDigree[k] == 0) {
-                    if (!visited[k]) {
-                        visited[k] = true;
-                        ans[index] = k;
-                        loopFlag=true;
-                        index++;
-                        if (outDegreeMap.containsKey(k)) {
-                            List<Integer> nextList = outDegreeMap.get(k);
-                            for (int item : nextList) {
-                                inDigree[item] -= 1;
-                            }
-                        }
-                        break;
+
+
+        while (!queue.isEmpty()) {
+            int t = queue.poll();
+            ans[index++] = t;
+            count++;
+            List<Integer> nextCourses = adjList.get(t);
+            if (nextCourses != null) {
+                for (int next : nextCourses) {
+                    degree[next]--;
+                    if (degree[next] == 0) {
+                        queue.add(next);
                     }
                 }
             }
-            if (!loopFlag){
-                return new int[]{};
-            }
-       }
-
-
-        return ans;
+        }
+        if (count==numCourses){
+            return ans;
+        }
+        return new int[]{};
     }
 
 
-    public static void main(String[] args){
-        Solution210 solution210=new Solution210();
-        int[] ans=solution210.findOrder(3,new int[][]{{1,0},{1,2},{0,1}});
+    public static void main(String[] args) {
+        Solution210 solution210 = new Solution210();
+        int[]       ans         = solution210.findOrder(1, new int[][]{{}});
         System.out.println(Arrays.toString(ans));
     }
 }

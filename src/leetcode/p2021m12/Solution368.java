@@ -19,44 +19,42 @@ public class Solution368 {
         //2,3,4,8,9
         List<Integer>[] dp = new ArrayList[nums.length];
 
-        int tIndex     = -1;
-        int longestLen = 0;
+        int pIndex  = 0;
+        int largest = 1;
         for (int i = 0; i < nums.length; i++) {
-            int maxLen        = -1;
-            int indexOfMaxLen = 0;
             dp[i] = new ArrayList<>();
+        }
+
+        for (int i = 0; i < nums.length; i++) {
+            int maxLen = 0;
+            int index  = 0;
             for (int j = 0; j < i; j++) {
                 if (nums[i] % nums[j] == 0) {
-                    if (dp[j].size() > maxLen && dp[j].size() != 0) {
-                        indexOfMaxLen = j;
+                    if (dp[j].size() > maxLen) {
                         maxLen = dp[j].size();
+                        index = j;
                     }
                 }
             }
 
-//            System.out.println(i+" "+nums[i]+" "+indexOfMaxLen+" "+maxLen);
-            if (maxLen > 0) {
-                List<Integer> t = dp[indexOfMaxLen];
-                dp[i].addAll(t);
+            if (maxLen>0) {
+                dp[i].addAll(dp[index]);
             }
+
             dp[i].add(nums[i]);
-
-//            System.out.println(dp[i]);
-            if (dp[i].size() > longestLen) {
-                longestLen = dp[i].size();
-                tIndex = i;
+            if (dp[i].size() > largest) {
+                largest = dp[i].size();
+                pIndex = i;
             }
-
         }
 
-
-        return dp[tIndex];
+        return dp[pIndex];
     }
 
     public static void main(String[] args) {
         Solution368 solution368 = new Solution368();
         //2,3,4,9,8
-        List<Integer> ans = solution368.largestDivisibleSubset(new int[]{3,17});
+        List<Integer> ans = solution368.largestDivisibleSubset(new int[]{1,2,3});
         System.out.println(ans);
     }
 }

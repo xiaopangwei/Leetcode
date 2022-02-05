@@ -15,58 +15,52 @@ import java.util.List;
  * @time 9:56 PM
  */
 public class TreeCodec {
-    //  a
-    //b   c
     public String serialize(TreeNode root) {
-
-        List<String> data = new ArrayList<>();
-        serialize(root, data);
-        return "[" + String.join(",", data) + "]";
-
+        List<String> ans = new ArrayList<>();
+        serialize(root, ans);
+        return "[" + String.join(",", ans) + "]";
     }
 
-    public void serialize(TreeNode root, List<String> data) {
+    private void serialize(TreeNode root, List<String> list) {
         if (root == null) {
-            data.add("null");
+            list.add("null");
             return;
         }
-        data.add(String.valueOf(root.val));
-        serialize(root.left, data);
-        serialize(root.right, data);
+        list.add(String.valueOf(root.val));
+        serialize(root.left, list);
+        serialize(root.right, list);
     }
 
     public TreeNode deserialize(String data) {
-
-        String       sub  = data.substring(1, data.length() - 1);
-        String[]     arr  = sub.split(",");
-        List<String> list = new ArrayList<>();
-        for (String item : arr) {
+        String[]     array = data.substring(1, data.length() - 1).split(",");
+        List<String> list  = new ArrayList<>();
+        for (String item : array) {
             list.add(item);
         }
-        return deserialize(list);
+        return deserialize1(list);
     }
 
-    public TreeNode deserialize(List<String> data) {
-
-        String val = data.get(0);
-        data.remove(0);
-        if ("null".equals(val)) {
+    private TreeNode deserialize1(List<String> list) {
+        if (list.isEmpty()) {
             return null;
-        } else {
-            TreeNode root = new TreeNode(Integer.parseInt(val));
-            root.left = deserialize(data);
-            root.right = deserialize(data);
-            return root;
         }
+        String rootVal = list.remove(0);
+        if ("null".equals(rootVal)) {
+            return null;
+        }
+        TreeNode root = new TreeNode(Integer.parseInt(rootVal));
+        root.left = deserialize1(list);
+        root.right = deserialize1(list);
+        return root;
     }
 
     public static void main(String[] args) {
         TreeCodec treeCodec = new TreeCodec();
         TreeNode  root      = TreeNodeBuilder.build("[1,null,2,3,4]");
 //        TreeNode root = null;
-        String   res  = treeCodec.serialize(root);
+        String res = treeCodec.serialize(root);
         System.out.println(res);
-        TreeNode ans=treeCodec.deserialize(res);
+        TreeNode ans = treeCodec.deserialize(res);
         System.out.println(ans);
     }
 }

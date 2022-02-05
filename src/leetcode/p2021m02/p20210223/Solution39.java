@@ -15,55 +15,41 @@ import java.util.List;
  */
 public class Solution39 {
 
-    private List<List<Integer>> res=new ArrayList<>();
+    private List<List<Integer>> res = new ArrayList<>();
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
 
 
-        List<Integer> dataList=new ArrayList<>();
-        dfs(dataList,candidates,target,0);
+        List<Integer> dataList = new ArrayList<>();
+        dfs(dataList, candidates, target, 0, 0);
         System.out.println(res.size());
         return res;
     }
 
-    private int sum(List<Integer> dataList){
-        int sum=0;
-        for (Integer i:dataList){
-            sum+=i;
-        }
-        return sum;
-    }
 
-
-    public void dfs(List<Integer> dataList,final int[] candidates, final int target,int begin)
-    {
-        int sum=sum(dataList);
-
-        if (sum==target)
-        {
-            res.add(new ArrayList<>(dataList));
+    private void dfs(List<Integer> list, int[] candidates, final int target, int currentSum, int start) {
+        if (currentSum > target) {
             return;
         }
-        for (int i=begin;i<candidates.length;i++){
-            int item=candidates[i];
-            if (item+sum<=target) {
-                dataList.add(item);
-                System.out.println("Before:"+dataList);
-                dfs(dataList, candidates, target,i);
-                dataList.remove(Integer.valueOf(item));
-                System.out.println("After:"+dataList);
-            }
-            else{
+        if (currentSum == target) {
+            res.add(new ArrayList<>(list));
+            return;
+        }
+        for (int i = start; i < candidates.length; i++) {
+            if (candidates[i] + currentSum > target) {
                 break;
             }
+            list.add(candidates[i]);
+            dfs(list, candidates, target, currentSum + candidates[i], i);
+            list.remove(list.size() - 1);
         }
-
-
     }
-    public static void main(String[] args){
-        Solution39          solution77 =new Solution39();
-        int[] array=new int[]{2,3,5};
+
+    public static void main(String[] args) {
+        Solution39 solution77 = new Solution39();
+        int[]      array      = new int[]{2,3,6,7};
         Arrays.sort(array);
-        List<List<Integer>> ans        =solution77.combinationSum(array,8);
+        List<List<Integer>> ans = solution77.combinationSum(array, 7);
         System.out.println(ans);
 
     }
