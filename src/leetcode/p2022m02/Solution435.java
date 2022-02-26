@@ -16,8 +16,7 @@ public class Solution435 {
         Arrays.sort(intervals, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
-                return o1[0] - o2[0];
-
+                return o1[1] - o2[1];
             }
         });
 
@@ -28,11 +27,9 @@ public class Solution435 {
         for (int i = 1; i < intervals.length; i++) {
             if (end <= intervals[i][0]) {
                 end = intervals[i][1];
-            } else {
                 count++;
-                end=Math.min(end,intervals[i][1]);
             }
         }
-        return count;
+        return intervals.length-count;
     }
 }
