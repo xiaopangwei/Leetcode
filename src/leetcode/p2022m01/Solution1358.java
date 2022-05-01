@@ -18,7 +18,7 @@ public class Solution1358 {
             int temp = s.charAt(right) - 'a';
             freq[temp]++;
             while (freq[0] > 0 && freq[1] > 0 && freq[2] > 0) {
-                ans += (s.length() - right);
+                ans += (right - left + 1);
                 int a = s.charAt(left) - 'a';
                 freq[a]--;
                 left++;

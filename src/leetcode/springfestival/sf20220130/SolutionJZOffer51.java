@@ -13,7 +13,7 @@ public class SolutionJZOffer51 {
 
     public int reversePairs(int[] nums) {
 
-        if (nums.length<=1){
+        if (nums.length <= 1) {
             return 0;
         }
         mergeSort(nums, 0, nums.length - 1);
@@ -37,13 +37,16 @@ public class SolutionJZOffer51 {
         int   idx  = 0;
 
         while (i <= e1 && j <= e2) {
-            if (nums1[i] == nums1[j]) {
-                temp[idx++] = nums1[i++];
-//                temp[idx++] = nums1[j++];
-            } else if (nums1[i] < nums1[j]) {
+            if (nums1[i] <= nums1[j]) {
                 temp[idx++] = nums1[i++];
             } else {
+                //有多少个i跟nums[j]构成逆序数
+
                 ans += (e1 - i + 1);
+                //有多少个j能跟nums[i]构成逆序数
+
+                ans += j + 1;
+
                 temp[idx++] = nums1[j++];
             }
         }
@@ -65,7 +68,7 @@ public class SolutionJZOffer51 {
 
     public static void main(String[] args) {
         SolutionJZOffer51 solutionJZOffer51 = new SolutionJZOffer51();
-        int               ans               = solutionJZOffer51.reversePairs(new int[]{1,3,2,3,1});
+        int               ans               = solutionJZOffer51.reversePairs(new int[]{1, 3, 2, 3, 1});
         System.out.println(ans);
     }
 }

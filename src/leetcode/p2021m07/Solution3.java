@@ -25,27 +25,16 @@ public class Solution3 {
         int ans = 0;
 
         Set<Character> sets = new HashSet<>();
-
         while (right < totalLen) {
             char ch = s.charAt(right);
-
-            if (sets.contains(ch)) {
-
-                while (left < right && s.charAt(left) != ch) {
-
-                    sets.remove(s.charAt(left++));
-                }
-                left++;
-            } else {
-                sets.add(ch);
+            while (left < right && sets.contains(ch)) {
+                sets.remove(s.charAt(left++));
             }
+            sets.add(ch);
             ans = Math.max(ans, right - left + 1);
-
             right++;
         }
-
         return ans;
-
     }
 
     public static void main(String[] args) {

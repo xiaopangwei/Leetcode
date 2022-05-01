@@ -17,8 +17,8 @@ public class NSum {
 
     public List<List<Integer>> nsum(int[] nums, int target, int n) {
         Arrays.sort(nums);
-
-        return dfs(nums, 0, target, 4);
+        System.out.println(Arrays.toString(nums));
+        return dfs(nums, 0, target, n);
     }
 
     private List<List<Integer>> dfs(int[] nums, int start, int target, int index) {
@@ -27,6 +27,7 @@ public class NSum {
             int i = start;
             int j = nums.length - 1;
             while (i < j) {
+                System.out.println(i + " " + j);
                 int s = nums[i] + nums[j];
                 if (s == target) {
                     LinkedList<Integer> t = new LinkedList<>();
@@ -74,9 +75,9 @@ public class NSum {
             }
 
             int j = i + 1;
-            while (j < nums.length && nums[j] == nums[i]) {
-                j++;
-            }
+//            while (j < nums.length && nums[j] == nums[i]) {
+//                j++;
+//            }
             i = j;
         }
         return result;
@@ -84,7 +85,7 @@ public class NSum {
 
     public static void main(String[] args) {
         NSum                nSum = new NSum();
-        List<List<Integer>> list = nSum.nsum(new int[]{1,0,-1,0,-2,2}, 0, 4);
+        List<List<Integer>> list = nSum.nsum(new int[]{-1,0,1,2,-1,-4}, 0, 3);
         System.out.println(list);
     }
 }

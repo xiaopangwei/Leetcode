@@ -19,32 +19,30 @@ public class Solution79 {
         visited = new boolean[board.length][board[0].length];
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[i].length; j++) {
-                char ch = board[i][j];
 
-                if (ch == word.charAt(index)) {
-                    boolean flag = dfs(index, i, j, word);
-                    if (flag) {
-                        return true;
-                    }
+                boolean flag = dfs(index, i, j, word);
+                if (flag) {
+                    return true;
                 }
+
             }
         }
         return false;
     }
 
     private boolean dfs(int index, int x, int y, final String word) {
-
-        if (index == word.length() - 1) {
+        if (board[x][y] != word.charAt(index)) {
+            return false;
+        }
+        if (index >= word.length()-1) {
             return true;
         }
-
         visited[x][y] = true;
         for (int i = 0; i < directions.length; i++) {
             int newX = x + directions[i][0];
             int newY = y + directions[i][1];
             if (isValid(board, newX, newY) &&
-                    !visited[newX][newY] &&
-                    board[newX][newY] == word.charAt(index + 1)) {
+                    !visited[newX][newY]) {
                 if (dfs(index + 1, newX, newY, word)) {
                     return true;
                 }
@@ -63,8 +61,8 @@ public class Solution79 {
 
     public static void main(String[] args) {
         Solution79 solution79 = new Solution79();
-        boolean flag = solution79.exist(new char[][]{{'A', 'B', 'C', 'E'},
-                {'S', 'F', 'C', 'S'}, {'A', 'D', 'E', 'E'}}, "ABCB");
+        boolean flag = solution79.exist(new char[][]{{'A'},
+                }, "A");
         System.out.println(flag);
     }
 }

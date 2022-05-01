@@ -37,12 +37,13 @@ public class Solution60 {
             ans = String.join("", list);
             return;
         }
+        System.out.println(index + " " + list + " " + k);
 
         for (int i = 1; i <= n; i++) {
             if (visited[i]) {
                 continue;
             }
-            int count = permutation[n -1-index];
+            int count = permutation[n - 1 - index];
             if (count < k) {
                 k -= count;
                 continue;
@@ -55,7 +56,7 @@ public class Solution60 {
 
     public static void main(String[] args) {
         Solution60 solution60 = new Solution60();
-        String     ans        = solution60.getPermutation(3, 1);
+        String     ans        = solution60.getPermutation(4, 9);
         System.out.println(ans);
     }
 }

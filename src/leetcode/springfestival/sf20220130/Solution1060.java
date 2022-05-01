@@ -34,13 +34,15 @@ public class Solution1060 {
             }
         }
 
+        System.out.println(left+" "+right);
+
         return nums[right] + k - prefix[right];
     }
 
     public static void main(String[] args) {
         Solution1060 solution1060 = new Solution1060();
         int ans =
-                solution1060.missingElement(new int[]{1,2,4}, 3);
+                solution1060.missingElement(new int[]{4,7,9,10}, 3);
         System.out.println(ans);
     }
 

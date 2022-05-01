@@ -31,7 +31,9 @@ public class Solution89 {
         visited[val] = true;
         for (int i = 0; i < n; i++) {
             int t    = 1 << i;
+
             int newT = t ^ val;
+            System.out.println(t+" "+val+" "+newT);
             if (!visited[newT]) {
                 dfs(list, visited, newT, n);
             }

@@ -16,49 +16,48 @@ public class Solution25 {
             return null;
         }
 
-        ListNode p     = head;
+
         ListNode q     = head;
-        ListNode prev  = null;
-        int      count = 0;
-        for (int i = 0; i < k; i++) {
-            prev = q;
-            if (q == null) {
+        ListNode p     = head;
+        int      count = 1;
+        for (int i = 1; i < k; i++) {
+            if (p == null) {
                 break;
             }
-            q = q.next;
+            p = p.next;
             count++;
         }
+        ListNode newHead = p;
 
-        if (count < k) {
-            return p;
+        if (count < k || p == null) {
+            return q;
         } else {
-            if (prev != null) {
-                prev.next = null;
-            }
-            ListNode[] array = reverse(p);
-            array[1].next = reverseKGroup(q, k);
-            return array[0];
+            ListNode nextP = p.next;
+            p.next = null;
+            ListNode[] temp = reverse(q);
+            temp[1].next = reverseKGroup(nextP, k);
         }
+        return newHead;
+
     }
 
     private ListNode[] reverse(ListNode start) {
-        ListNode[] ans  = new ListNode[2];
-        ListNode   prev = null;
-        ListNode   p    = start;
+        ListNode last = start;
+        ListNode prev = null;
+        ListNode p    = start;
         while (p != null) {
             ListNode nextP = p.next;
             p.next = prev;
             prev = p;
             p = nextP;
         }
-        ans[0] = prev;
-        ans[1] = start;
-        return ans;
+        return new ListNode[]{prev, last};
     }
+
 
     public static void main(String[] args) {
         Solution25 solution25 = new Solution25();
-        ListNode   head       = solution25.reverseKGroup(ListNode.ofArray("[1,2]"), 2);
+        ListNode   head       = solution25.reverseKGroup(ListNode.ofArray("[1,2,3,4,5,6,7,8]"), 3);
         System.out.println(head);
 
     }

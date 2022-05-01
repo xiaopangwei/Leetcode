@@ -18,37 +18,37 @@ public class Solution328 {
         ListNode headOdd  = head;
         ListNode headEven = head.next;
 
-        ListNode p    = headOdd;
-        ListNode q    = headEven;
-        ListNode prev = null;
+        ListNode p = headOdd;
+        ListNode q = headEven;
 
-        while (true) {
-            if (q == null) {
-                break;
-            }
+        ListNode last = p;
+
+        while (p != null && q != null) {
+            last = p;
             p.next = q.next;
-            prev = p;
             p = q.next;
-
-            if (p == null) {
+            if (p != null && q != null) {
+                q.next = p.next;
+                q = p.next;
+            } else {
                 break;
             }
-            q.next = p.next;
-            q = p.next;
         }
 
-        if (p == null) {
-            prev.next = headEven;
-        } else {
-            p.next = headEven;
+        if (p != null) {
+            last.next = p;
+            last = p;
         }
+        last.next = headEven;
+
+        System.out.println(last.val);
         return headOdd;
     }
 
-    public static void main(String[] args){
-        ListNode head=ListNode.ofArray("[1,2]");
-        Solution328 solution328=new Solution328();
-        ListNode newHead=solution328.oddEvenList(head);
+    public static void main(String[] args) {
+        ListNode    head        = ListNode.ofArray("[1,2,3,4,5,6,7]");
+        Solution328 solution328 = new Solution328();
+        ListNode    newHead     = solution328.oddEvenList(head);
         System.out.println(newHead);
     }
 }

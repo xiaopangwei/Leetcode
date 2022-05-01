@@ -46,9 +46,9 @@ public class Solution46 {
     public static void main(String[] args){
         Solution46 solution46=new Solution46();
         System.out.println(solution46.getTotalKinds("506"));
-//        System.out.println(Solution46.convert(100));
-//        System.out.println(Solution46.convert(0));
-//        System.out.println(Solution46.convert(5));
-//        System.out.println(Solution46.convert(25));
+//        System.out.println(SolutionJZ46.convert(100));
+//        System.out.println(SolutionJZ46.convert(0));
+//        System.out.println(SolutionJZ46.convert(5));
+//        System.out.println(SolutionJZ46.convert(25));
     }
 }

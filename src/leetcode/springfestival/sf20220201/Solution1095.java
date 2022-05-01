@@ -33,15 +33,15 @@ public class Solution1095 {
     //3, 5, 3, 2, 0
 
     private int findPeek(MountainArray mountainArr) {
-        int left  = 0;
-        int right = mountainArr.length() - 1;
+        int left  = 1;
+        int right = mountainArr.length() - 2;
         while (left <= right) {
 
             int mid    = left + (right - left) / 2;
             int midVal = mountainArr.get(mid);
             if (isPeek(mountainArr, mid)) {
                 return mid;
-            } else if (mid + 1 < mountainArr.length() && mountainArr.get(mid + 1) < midVal) {
+            } else if (mountainArr.get(mid + 1) < midVal) {
                 right = mid - 1;
             } else {
                 left = mid + 1;
@@ -52,9 +52,7 @@ public class Solution1095 {
 
     private boolean isPeek(MountainArray mountainArray, int index) {
         int val = mountainArray.get(index);
-        return index + 1 < mountainArray.length()
-                && index - 1 >= 0
-                && mountainArray.get(index + 1) < val
+        return mountainArray.get(index + 1) < val
                 && mountainArray.get(index - 1) < val;
     }
 

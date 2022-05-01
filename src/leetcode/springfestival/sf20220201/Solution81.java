@@ -40,7 +40,7 @@ public class Solution81 {
 
     public static void main(String[] args) {
         Solution81 solution33 = new Solution81();
-        boolean    ans        = solution33.search(new int[]{5,1,3}, 3);
+        boolean    ans        = solution33.search(new int[]{5,1,1,3,3}, 3);
         System.out.println(ans);
     }
 }

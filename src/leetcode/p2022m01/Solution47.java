@@ -26,37 +26,34 @@ public class Solution47 {
         return ans;
     }
 
-    private void dfs(int[] nums, int index, List<Integer> temp) {
+    private void dfs(int[] nums, int depth, List<Integer> temp) {
 
-        if (index == nums.length) {
+        if (depth == nums.length) {
+            System.out.println(temp);
             ans.add(new ArrayList<>(temp));
             return;
         }
 
-        int i = 0;
-
-        while (i < nums.length) {
+        for (int i = 0; i < nums.length; i++) {
             if (visited[i]) {
-                i++;
                 continue;
             }
 
-            visited[i] = true;
+            if (i >= 1 && nums[i] == nums[i - 1] && !visited[i - 1]) {
+                continue;
+            }
+
             temp.add(nums[i]);
-            dfs(nums, index + 1, temp);
+            visited[i] = true;
+            dfs(nums, depth+1, temp);
             temp.remove(temp.size() - 1);
             visited[i] = false;
-
-            int j = i + 1;
-            while (j < nums.length && nums[j] == nums[i]) {
-                j++;
-            }
-            i = j;
         }
+
     }
 
-    public static void main(String[] args){
-        Solution47 solution47=new Solution47();
-        System.out.println(solution47.permuteUnique(new int[]{1,2,1}));
+    public static void main(String[] args) {
+        Solution47 solution47 = new Solution47();
+        System.out.println(solution47.permuteUnique(new int[]{1, 2, 1}));
     }
 }

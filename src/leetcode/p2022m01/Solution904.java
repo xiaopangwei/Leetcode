@@ -22,35 +22,25 @@ public class Solution904 {
         Map<Integer, Integer> freq   = new HashMap<>();
         int                   maxVal = 0;
         while (right < fruits.length) {
-            if (freq.containsKey(fruits[right])) {
-                freq.put(fruits[right], freq.get(fruits[right]) + 1);
-                right++;
-            } else {
-                if (freq.keySet().size() >= 2) {
-                    while (left < right && freq.keySet().size() >= 2) {
-                        int t = freq.getOrDefault(fruits[left], 0);
-                        if (t > 1) {
-                            freq.put(fruits[left], t - 1);
-                        } else {
-                            freq.remove(fruits[left]);
-                        }
-                        left++;
-                    }
-
+            freq.put(fruits[right], freq.getOrDefault(fruits[right],0) + 1);
+            while (left < right && freq.keySet().size() > 2) {
+                int t = freq.get(fruits[left]) - 1;
+                if (t <= 0) {
+                    freq.remove(fruits[left]);
+                } else {
+                    freq.put(fruits[left], t);
                 }
-                int t = freq.getOrDefault(fruits[right], 0) + 1;
-                freq.put(fruits[right], t);
-                right++;
-
+                left++;
             }
-            maxVal = Math.max(right - left, maxVal);
+            maxVal = Math.max(right - left + 1, maxVal);
+            right++;
         }
         return maxVal;
     }
 
     public static void main(String[] args) {
         Solution904 solution904 = new Solution904();
-        int         ans         = solution904.totalFruit(new int[]{1, 2, 3, 2, 2});
+        int         ans         = solution904.totalFruit(new int[]{1,2,1});
         System.out.println(ans);
     }
 }

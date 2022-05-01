@@ -16,36 +16,41 @@ public class Solution153 {
 
         int left  = 0;
         int right = nums.length - 1;
-        while (left < right) {
-            int mid = (left + right) / 2;
+        while (left <= right) {
             if (nums[left] <= nums[right]) {
                 return nums[left];
-            } else if (nums[mid] == nums[left]) {
-                left++;
-                continue;
-            } else if (nums[mid] > nums[left]) {
+            }
+            int mid = left + (right - left) / 2;
+            if (nums[mid] >= nums[left]) {
                 left = mid + 1;
             } else {
                 right = mid;
             }
         }
-        return nums[left];
+        return -1;
     }
 
-    private boolean isBottom(int[] nums, int index) {
-        if (index == 0) {
-            return nums[index] < nums[index + 1];
-        } else if (index == nums.length - 1) {
-            return nums[index] < nums[index - 1];
-        } else {
-            return nums[index] < nums[index + 1] && nums[index] < nums[index - 1];
+    public int findMax(int[] nums) {
+        int left  = 0;
+        int right = nums.length - 1;
+        while (left <= right) {
+            if (nums[left] <= nums[right]) {
+                return nums[right];
+            }
+            int mid = left + (right - left) / 2;
+            if (nums[mid] >= nums[left]) {
+                left = mid;
+            } else {
+                right = mid-1;
+            }
         }
+        return -1;
     }
 
 
     public static void main(String[] args) {
         Solution153 solution153 = new Solution153();
-        int         ans         = solution153.findMin(new int[]{3, 1, 2});
+        int         ans         = solution153.findMax(new int[]{4,5,6,7,0,1,2});
         System.out.println(ans);
     }
 }

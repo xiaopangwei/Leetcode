@@ -11,22 +11,22 @@ package leetcode.p2021m08;
 public class Solution287 {
     public int findDuplicate(int[] nums) {
 
-        int slow = nums[0];
-        int fast = nums[slow];
+        int slow = 0;
+        int fast = 0;
 
+        slow=nums[slow];
+        fast=nums[nums[fast]];
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[nums[fast]];
         }
-
-        int p1 = 0;
-        int p2 = slow;
-
-        while (p1 != p2) {
-            p1 = nums[p1];
-            p2 = nums[p2];
+        int idx1 = 0;
+        int idx2 = slow;
+        while (idx1 != idx2) {
+            idx1 = nums[idx1];
+            idx2 = nums[idx2];
         }
-        return p1;
+        return idx1;
     }
 
     public static void main(String[] args) {

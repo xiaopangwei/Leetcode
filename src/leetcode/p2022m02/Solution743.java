@@ -37,6 +37,7 @@ public class Solution743 {
                     int newDist  = times[i][2] + dist;
                     if (distanceArray[nextNode] > newDist) {
                         distanceArray[nextNode] = newDist;
+                        System.out.println(nextNode+" => "+newDist);
                         pq.add(new int[]{newDist, nextNode});
                     }
                 }
@@ -57,7 +58,7 @@ public class Solution743 {
 
     public static void main(String[] args) {
         Solution743 solution743 = new Solution743();
-        int         ans         = solution743.networkDelayTime(new int[][]{{2, 1, 1}, {2, 3, 1}, {3, 4, 1}}, 4, 2);
+        int         ans         = solution743.networkDelayTime(new int[][]{{1, 2, 1}, {1, 3, 4}, {2,4,7},{3,4,1}}, 4, 1);
         System.out.println(ans);
     }
 }

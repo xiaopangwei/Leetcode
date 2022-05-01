@@ -17,17 +17,13 @@ public class Solution713 {
         int product = 1;
         while (right < nums.length) {
             int temp = nums[right] * product;
-            if (temp < k) {
-                product = temp;
-                ans += (right - left + 1);
 
-            } else {
-                while (left <= right && temp >= k) {
-                    temp /= nums[left++];
-                }
-                product = temp;
-                ans += (right - left + 1);
+            while (left <= right && temp >= k) {
+                temp /= nums[left++];
             }
+            product = temp;
+            ans += (right - left + 1);
+
             right++;
         }
         return ans;

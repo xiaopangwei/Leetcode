@@ -26,10 +26,6 @@ public class Solution179 {
         public int compare(String o1, String o2) {
             String a=o1+o2;
             String b=o2+o1;
-            //o1="9"
-            //o2="98"
-            //a="998"
-            //b="989"
             return b.compareTo(a);
         }
     }
@@ -38,21 +34,21 @@ public class Solution179 {
     public static void main(String[] args) throws Exception{
         Solution179 solution134 =new Solution179();
 
-        System.out.println("123".compareTo("345"));
-        System.out.println("123".compareTo("045"));
+        System.out.println("123".compareTo("345")<0);
+        System.out.println("123".compareTo("045")>0);
 
-        String[] a1=new String[]{"10","0123","956","499"};
-        Arrays.sort(a1, new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-
-                int result= o1.compareTo(o2);
-                System.out.println("o1:"+o1+" o2:"+o2+". result:"+result);
-                return result;
-            }
-        });
-
-        System.out.println(Arrays.toString(a1));
+//        String[] a1=new String[]{"10","0123","956","499"};
+//        Arrays.sort(a1, new Comparator<String>() {
+//            @Override
+//            public int compare(String o1, String o2) {
+//
+//                int result= o1.compareTo(o2);
+//                System.out.println("o1:"+o1+" o2:"+o2+". result:"+result);
+//                return result;
+//            }
+//        });
+//
+//        System.out.println(Arrays.toString(a1));
 
 
 

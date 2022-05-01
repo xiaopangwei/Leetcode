@@ -1,7 +1,7 @@
 package leetcode.p2021m09;
 
+import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
 
 /**
  * <p>Description: </p>
@@ -12,42 +12,30 @@ import java.util.LinkedList;
  * @time 11:39 PM
  */
 public class Solution862 {
-    public int shortestSubarray(int[] nums, int k) {
-
-        int[]          prefixSum = new int[nums.length + 1];
-        Deque<Integer> deque     = new LinkedList<>();
-
-        int ans = Integer.MAX_VALUE;
-        prefixSum[0] = 0;
-        for (int i = 1; i < prefixSum.length; i++) {
-            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
+    public int shortestSubarray(int[] A, int K) {
+        int            ans       = Integer.MAX_VALUE;
+        Deque<Integer> deque     = new ArrayDeque<>();
+        long[]         prefixSum = new long[A.length+1];
+        for (int i = 1; i < A.length; i++) {
+            prefixSum[i] = prefixSum[i - 1] + (long) A[i];
         }
 
         for (int i = 0; i < prefixSum.length; i++) {
-            while (!deque.isEmpty() && prefixSum[deque.peekLast()] >= prefixSum[i]) {
+            while (!deque.isEmpty() && prefixSum[deque.peekLast()] > prefixSum[i]) {
                 deque.removeLast();
             }
 
-            while (!deque.isEmpty() && prefixSum[i] - prefixSum[deque.peekFirst()] >= k) {
-                int len = i - deque.peekFirst();
-                ans = Math.min(ans, len);
-                deque.removeFirst();
+            while (!deque.isEmpty() && prefixSum[deque.peekFirst()] + K <= prefixSum[i]) {
+                ans = Math.min(ans, i - deque.pollFirst());
             }
-
             deque.addLast(i);
         }
-
-        if (ans == Integer.MAX_VALUE) {
-            return -1;
-        } else {
-            return ans;
-        }
-
+        return ans != Integer.MAX_VALUE ? ans : -1;
     }
 
     public static void main(String[] args) {
         Solution862 solution862 = new Solution862();
-        System.out.println(solution862.shortestSubarray(new int[]{1}, 1));
+        System.out.println(solution862.shortestSubarray(new int[]{84, -37, 32, 40, 96}, 167));
     }
 
 }
