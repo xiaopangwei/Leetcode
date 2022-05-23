@@ -14,7 +14,6 @@ import common.TreeNodeBuilder;
 public class Solution1448 {
     int ans = 0;
 
-    //从根到该节点 X 所经过的节点中，没有任何节点的值大于 X 的值
     public int goodNodes(TreeNode root) {
         dfs(root,Integer.MIN_VALUE);
         return ans;

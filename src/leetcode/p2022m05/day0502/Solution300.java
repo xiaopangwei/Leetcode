@@ -21,7 +21,6 @@ public class Solution300 {
                 }
             }
         }
-
         int max = 1;
         for (int i = 0; i < dp.length; i++) {
             dp[i] = Math.max(dp[i], max);

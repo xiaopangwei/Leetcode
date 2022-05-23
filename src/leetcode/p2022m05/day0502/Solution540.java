@@ -9,6 +9,7 @@ package leetcode.p2022m05.day0502;
  * @time 5:24 PM
  */
 public class Solution540 {
+
     public int singleNonDuplicate(int[] nums) {
         if (nums.length == 1) {
             return nums[0];
@@ -41,7 +42,6 @@ public class Solution540 {
         }
         return nums[left];
     }
-
     public static void main(String[] args) {
         int[]       array       = new int[]{1,1,2};
         Solution540 solution540 = new Solution540();

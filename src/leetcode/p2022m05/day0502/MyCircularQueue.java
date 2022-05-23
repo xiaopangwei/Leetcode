@@ -8,6 +8,7 @@ package leetcode.p2022m05.day0502;
  * @date 2022/5/2
  * @time 11:07 AM
  */
+//LC 622
 public class MyCircularQueue {
     int[] data;
     int     firstIndex = 0;

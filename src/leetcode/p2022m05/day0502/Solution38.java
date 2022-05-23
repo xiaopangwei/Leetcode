@@ -13,7 +13,6 @@ import java.util.Map;
  */
 public class Solution38 {
 
-
     public String countAndSay(int n) {
         if (n == 1) {
             return "1";

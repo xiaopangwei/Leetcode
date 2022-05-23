@@ -33,9 +33,7 @@ public class Solution378 {
 
             }
         }
-
         return pq.poll()[2];
-
     }
 
     public static void main(String[] args) {
