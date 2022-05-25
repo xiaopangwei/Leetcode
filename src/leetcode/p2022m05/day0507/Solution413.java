@@ -23,11 +23,6 @@ public class Solution413 {
             }
             cnt += t;
         }
-
-//        for (int i = 0; i < dp.length; i++) {
-//            cnt += dp[i];
-//        }
-//        System.out.println(Arrays.toString(dp));
         return cnt;
     }
 

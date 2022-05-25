@@ -1,5 +1,7 @@
 package leetcode.p2022m05.day0507;
 
+import java.util.Arrays;
+
 /**
  * <p>Description: </p>
  * <p>Company: Harbin Institute of Technology</p>
@@ -10,34 +12,51 @@ package leetcode.p2022m05.day0507;
  */
 public class Solution581 {
     public int findUnsortedSubarray(int[] nums) {
-        // 无序区间的右边界，实际上就是不满足从左到右递增的最后一个位置
-        // 无序区间的左边界，实际上就是不满足从右到左递减的最前一个位置
-        //从左往右找最后一个不满足单调递增的位置，它是无序区间的右边界
-        int maxVal = Integer.MIN_VALUE;
-        int to = -1;
-        for(int i = 0;i < nums.length; ++i){
-            if(nums[i] < maxVal) {to = i;System.out.println("left to:"+i+" "+nums[i]);}
-            maxVal = Math.max(nums[i], maxVal);
-            System.out.println(maxVal+" "+nums[i]);
+        int[] left = new int[nums.length];
+        left[0] = nums[0];
+
+        int[] right = new int[nums.length];
+        right[nums.length - 1] = nums[nums.length - 1];
+
+        for (int i = 1; i < nums.length; i++) {
+            left[i] = Math.max(left[i - 1], nums[i]);
         }
 
-        //从右往左找最前一个不满足单调递减的位置，它是无序区间的左边界
-        int minVal = Integer.MAX_VALUE;
-        int from = nums.length;
-        for(int i = nums.length - 1; i >= 0; --i){
-            if(nums[i] > minVal) {from = i;System.out.println("right to:"+i+" "+nums[i]);}
-            minVal = Math.min(nums[i], minVal);
+        for (int i = nums.length - 2; i >= 0; i--) {
+            right[i] = Math.min(right[i + 1], nums[i]);
         }
 
-        System.out.println("res:"+from+" "+to);
-        //如果完全有序
-        if(to == -1) return 0;
-        return to - from + 1;
+//        System.out.println(Arrays.toString(nums));
+//        System.out.println(Arrays.toString(left));
+//        System.out.println(Arrays.toString(right));
+
+        int end = -1;
+        for (int i = 0; i < nums.length; i++) {
+            if (left[i] != nums[i]) {
+                end = i;
+            }
+        }
+
+        int start = -1;
+
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (right[i] != nums[i]) {
+                start = i;
+            }
+        }
+
+
+        if (start == -1 || end == -1) {
+            return 0;
+        } else {
+            return end - start + 1;
+        }
+
     }
 
-    public static void main(String[] args){
-        Solution581 solution581=new Solution581();
-        int ans=solution581.findUnsortedSubarray(new int[]{1,2,3,4,5});
+    public static void main(String[] args) {
+        Solution581 solution581 = new Solution581();
+        int         ans         = solution581.findUnsortedSubarray(new int[]{1,2,3,4});
         System.out.println(ans);
     }
 }

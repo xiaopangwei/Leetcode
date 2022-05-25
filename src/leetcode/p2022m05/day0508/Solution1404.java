@@ -48,7 +48,7 @@ public class Solution1404 {
         }
     }
 
-    public static String trimLeftZero(String s, int start, int end) {
+    public  String trimLeftZero(String s, int start, int end) {
         StringBuilder builder = new StringBuilder();
         int           i       = start;
         while (i < end && s.charAt(i) == '0') {
@@ -64,7 +64,7 @@ public class Solution1404 {
 
     public static void main(String[] args) {
         Solution1404 solution1404 = new Solution1404();
-        int          ans          = solution1404.numSteps("1101");
+        String          ans          = solution1404.trimLeftZero("1101",0,2);
         System.out.println(ans);
     }
 

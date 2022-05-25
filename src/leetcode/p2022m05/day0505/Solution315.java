@@ -65,9 +65,7 @@ public class Solution315 {
                 temp[index++] = biArray[j++];
             }
         }
-
         while (i <= end1) {
-
             temp[index++] = biArray[i];
             int t = ans.get(biArray[i][0]) + j - start2;
             ans.set(biArray[i][0], t);
