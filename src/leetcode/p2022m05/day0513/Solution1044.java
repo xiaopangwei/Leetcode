@@ -63,18 +63,18 @@ public class Solution1044 {
 //        String       ans          = solution1044.longestDupSubstring("aa");
 
 
-        String temp = "ababa";
+        String temp = "bae";
 
-        int t = 31 * 31 * 31;
-        int h = 0;
-        for (int i = 0; i < 3; i++) {
-            h = h * 31 + (temp.charAt(i));
+        int  i      = 0;
+        long h      = 0;
+        long base   = 1;
+        int  factor = 31;
+        while (i < temp.length()) {
+            h = h * factor + temp.charAt(i);
+            base *= factor;
+            i++;
         }
-        System.out.println("init " + h);
-        for (int i = 3; i < temp.length(); i++) {
-
-            h = h * 31 + temp.charAt(i) - temp.charAt(i - 3) * t;
-            System.out.println(i + " hash " + h);
-        }
+        System.out.println(h);
+        System.out.println(base);
     }
 }

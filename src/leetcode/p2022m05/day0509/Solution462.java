@@ -1,7 +1,5 @@
 package leetcode.p2022m05.day0509;
 
-import java.util.Arrays;
-
 /**
  * <p>Description: </p>
  * <p>Company: Harbin Institute of Technology</p>
@@ -12,22 +10,14 @@ import java.util.Arrays;
  */
 public class Solution462 {
     public int minMoves2(int[] nums) {
-        if (nums.length <= 1) {
-            return 0;
+        int i   = 0;
+        int j   = nums.length - 1;
+        int ans = 0;
+        while (i < j) {
+            ans += nums[j] - nums[i];
+            j--;
+            i++;
         }
-        Arrays.sort(nums);
-        int mid = 0;
-        if (nums.length % 2 != 0) {
-            mid = nums[nums.length / 2];
-        } else {
-            mid = nums[nums.length / 2] + nums[(nums.length - 1) / 2];
-        }
-
-        int sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            sum += Math.abs(nums[i] - mid);
-        }
-        return sum;
-
+        return ans;
     }
 }

@@ -1,5 +1,7 @@
 package leetcode.p2022m05.day0514;
 
+import java.util.Arrays;
+
 /**
  * <p>Description: </p>
  * <p>Company: Harbin Institute of Technology</p>
@@ -25,6 +27,7 @@ public class Solution319 {
             }
         }
 
+        System.out.println(Arrays.toString(flag));
         int ans = 0;
         for (int i = 1; i < flag.length; i++) {
             ans += flag[i] ? 1 : 0;
@@ -34,7 +37,7 @@ public class Solution319 {
 
     public static void main(String[] args) {
         Solution319 solution319 = new Solution319();
-        for (int i = 2; i <= 50; i++) {
+        for (int i = 6; i <= 6; i++) {
             int ans = solution319.bulbSwitch(i);
             System.out.println(i + " " + ans);
         }

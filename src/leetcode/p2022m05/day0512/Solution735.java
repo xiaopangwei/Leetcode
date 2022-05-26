@@ -17,24 +17,13 @@ public class Solution735 {
         for (int i = 0; i < asteroids.length; i++) {
 
             while (true) {
-                if (stack.isEmpty()) {
+                if (stack.isEmpty() || (stack.peek() * asteroids[i] > 0) || (stack.peek() < 0 && asteroids[i] > 0)) {
                     stack.push(asteroids[i]);
                     break;
                 }
-                if (stack.peek() * asteroids[i] > 0) {
-                    stack.push(asteroids[i]);
-                    break;
-                }
-
-                if (stack.peek() < 0 && asteroids[i] > 0) {
-                    stack.push(asteroids[i]);
-                    break;
-                }
-
                 if (stack.peek() > 0 && asteroids[i] < 0) {
                     int v1 = stack.peek();
                     int v2 = Math.abs(asteroids[i]);
-
                     if (v1 == v2) {
                         stack.pop();
                         break;
@@ -64,7 +53,7 @@ public class Solution735 {
 
     public static void main(String[] args) {
         Solution735 solution735 = new Solution735();
-        int[]       ans         = solution735.asteroidCollision(new int[]{8, -8});
+        int[]       ans         = solution735.asteroidCollision(new int[]{5, 10, -5});
         System.out.println(Arrays.toString(ans));
 
 //        Stack<Integer> stack = new Stack<>();
