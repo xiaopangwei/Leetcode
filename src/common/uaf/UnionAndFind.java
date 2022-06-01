@@ -49,7 +49,6 @@ public class UnionAndFind {
         parent[x] = find(parent[x]);
 //        System.out.println(x + " " + parent[x]);
         return parent[x];
-
     }
 
     public void union(int x, int y) {

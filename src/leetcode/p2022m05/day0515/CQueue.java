@@ -10,6 +10,7 @@ import java.util.Stack;
  * @date 2022/5/15
  * @time 9:50 PM
  */
+//剑指offer
 public class CQueue {
     Stack<Integer> inStack;
     Stack<Integer> outStack;
