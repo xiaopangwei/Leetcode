@@ -30,7 +30,10 @@ public class Solution229 {
             } else if (cnt2 == 0) {
                 candVal2 = nums[i];
                 cnt2 = 1;
-            }else {cnt1--;cnt2--;}
+            } else {
+                cnt1--;
+                cnt2--;
+            }
         }
 
 
@@ -57,7 +60,8 @@ public class Solution229 {
 
     public static void main(String[] args) {
         Solution229 solution229 = new Solution229();
-        solution229.majorityElement(new int[]{1, 1});
+        List<Integer> list=solution229.majorityElement(new int[]{3, 5, 3, 5, 3, 5, 1});
+        System.out.println(list);
     }
 
 }

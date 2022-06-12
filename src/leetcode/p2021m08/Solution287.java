@@ -14,8 +14,8 @@ public class Solution287 {
         int slow = 0;
         int fast = 0;
 
-        slow=nums[slow];
-        fast=nums[nums[fast]];
+        slow=nums[0];
+        fast=nums[nums[0]];
         while (slow != fast) {
             slow = nums[slow];
             fast = nums[nums[fast]];
@@ -31,7 +31,7 @@ public class Solution287 {
 
     public static void main(String[] args) {
         Solution287 solution287 = new Solution287();
-        int         ans         = solution287.findDuplicate(new int[]{3, 3, 3, 1, 2, 3, 4});
+        int         ans         = solution287.findDuplicate(new int[]{1,3,4,2,2});
         System.out.println(ans);
     }
 

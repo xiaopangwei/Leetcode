@@ -10,36 +10,36 @@ package leetcode.p2022m03;
  */
 public class Solution400 {
     public int findNthDigit(int n) {
-        if (n < 10) {
-            return n;
-        }
-        if (n < 10) return n;
         long sum   = 0;
         long base  = 9;
         long digit = 1;
-        long m     = (long) n;
-        long prev  = 0;
-        while (true) {
-            prev = sum;
-            sum += digit * base;
-            if (prev <= m && m <= sum) {
-                break;
-            }
+
+        int count = 15;
+        if (n<10){
+            return n;
+        }
+        while (count-- > 0) {
+
+            sum += base * digit;
             base *= 10;
             digit++;
+
+            long newNext = sum + base * digit;
+            if (sum < n && n <= newNext) {
+//                System.out.println(sum + " " + newNext + " " + base + " " + digit);
+                int  minVal = (int) Math.pow(10, digit - 1);
+                long number = minVal + (n - (sum + 1)) / digit;
+                int  temp   = (int) ((n - (sum + 1))) % (int) digit;
+                return String.valueOf(number).charAt(temp) - '0';
+            }
+
         }
-
-        long gap = n - prev;
-        long a   = (gap - 1) / digit;
-        long b   = (gap - 1) % digit;
-
-        long start = (long) Math.pow(10, digit - 1);
-
-        return String.valueOf(start + a).charAt((int) b)-'0';
+        return 0;
     }
 
     public static void main(String[] args) {
         Solution400 solution400 = new Solution400();
-        solution400.findNthDigit(197);
+        int         ans         = solution400.findNthDigit(1000000000);
+        System.out.println(ans);
     }
 }
