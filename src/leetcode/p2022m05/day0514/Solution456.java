@@ -29,7 +29,7 @@ public class Solution456 {
 
     public static void main(String[] argd){
         Solution456 solution456=new Solution456();
-        boolean ans=solution456.find132pattern(new int[]{1,2,3,4});
+        boolean ans=solution456.find132pattern(new int[]{3,1,4,2});
         System.out.println(ans);
     }
 }

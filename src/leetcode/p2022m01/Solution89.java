@@ -31,10 +31,11 @@ public class Solution89 {
         visited[val] = true;
         for (int i = 0; i < n; i++) {
             int t    = 1 << i;
-
+            ////这里改变cur的某一位，用异或
             int newT = t ^ val;
-            System.out.println(t+" "+val+" "+newT);
+
             if (!visited[newT]) {
+                System.out.println(val+" "+"newT "+newT);
                 dfs(list, visited, newT, n);
             }
         }
@@ -50,5 +51,8 @@ public class Solution89 {
 //        System.out.println(6 ^ 4);
         List<Integer> ans = solution89.grayCode(3);
         System.out.println(ans);
+
+
+        System.out.println(3<<2);
     }
 }

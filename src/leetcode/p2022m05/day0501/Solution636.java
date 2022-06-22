@@ -14,33 +14,31 @@ import java.util.Stack;
  */
 public class Solution636 {
     public int[] exclusiveTime(int n, List<String> logs) {
-        Stack<Integer> threadIdStack = new Stack<>();
-        int            prev          = 0;
-        int[]          ans           = new int[n];
-        for (String item : logs) {
-            String[] array    = item.split(":");
-            int      threadId = Integer.parseInt(array[0]);
-            String   flag     = array[1];
-            int      curr     = Integer.parseInt(array[2]);
+        Stack<int[]> threadIdStack = new Stack<>();
+        int[]        ans           = new int[n];
 
-            if ("start".equalsIgnoreCase(flag)) {
-                if (!threadIdStack.isEmpty()) {
-                    ans[threadIdStack.peek()] += (curr - prev);
-                }
-                prev = curr;
-                threadIdStack.push(threadId);
+        for (String log : logs) {
+            String[] array  = log.split(":");
+            int      thread = Integer.parseInt(array[0]);
+            int      time   = Integer.parseInt(array[2]);
+            String   flag   = array[1];
+            if ("start".equals(flag)) {
+                threadIdStack.push(new int[]{thread, time});
             } else {
-                ans[threadIdStack.pop()] += (curr - prev + 1);
-                prev = curr + 1;
+                int[] t   = threadIdStack.pop();
+                int   len = time - t[1] + 1;
+                ans[t[0]] += len;
+                if (!threadIdStack.isEmpty()) {
+                    ans[threadIdStack.peek()[0]] -= len;
+                }
             }
         }
-
         return ans;
     }
 
-    public static void main(String[] args){
-        Solution636 solution636=new Solution636();
-        int[] ans=solution636.exclusiveTime(2, Arrays.asList("0:start:0","1:start:2","1:end:5","0:end:6"));
+    public static void main(String[] args) {
+        Solution636 solution636 = new Solution636();
+        int[]       ans         = solution636.exclusiveTime(2, Arrays.asList("0:start:0", "1:start:2", "1:end:5", "0:end:6"));
         System.out.println(Arrays.toString(ans));
     }
 }
