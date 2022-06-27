@@ -49,10 +49,9 @@ public class MyLFUCache {
     }
 
     public int get(int key) {
-        if (this.capacity<=0){
+        if (this.capacity <= 0) {
             return -1;
-        }
-        else if (map.containsKey(key)) {
+        } else if (map.containsKey(key)) {
             LFUNode lfuNode = map.get(key);
             treeSet.remove(lfuNode);
             lfuNode.cnt++;
@@ -92,10 +91,12 @@ public class MyLFUCache {
 
     public static void main(String[] args) {
         MyLFUCache lfu = new MyLFUCache(0);
-        lfu.put(0, 0);   // cache=[1,_], cnt(1)=1
-        int a = lfu.get(0);
-        System.out.println(a);
-
+        lfu.put(1, 1);
+        lfu.put(2, 2);
+        System.out.println(lfu.get(1));
+        lfu.put(3, 3);
+        System.out.println(lfu.get(2));
+        System.out.println(lfu.get(3));
 
     }
 }

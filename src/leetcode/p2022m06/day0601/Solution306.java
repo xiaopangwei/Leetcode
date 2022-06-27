@@ -19,40 +19,45 @@ public class Solution306 {
 
     private boolean dfs(List<BigInteger> list, int startIndex, String num) {
         if (startIndex >= num.length()) {
-//            System.out.println(list);
-            if (list.size()>2){
-                return true;
-            }
-            return false;
+            return true;
         }
-        for (int len = 1; len <= num.length(); len++) {
-            int endIndex = len + startIndex - 1;
-            if (endIndex >= num.length()) {
+
+        for (int i = 1; i < num.length(); i++) {
+            int j = startIndex + i - 1;
+            if (j >= num.length()) {
                 continue;
             }
-            String sub  = num.substring(startIndex, endIndex + 1);
-            if (num.charAt(startIndex)=='0' && sub.length()>=2){
+            String temp = num.substring(startIndex, j + 1);
+            if (temp.length() >= 2 && temp.charAt(0) == '0') {
                 continue;
             }
-            BigInteger temp=new BigInteger(sub);
-            if (list.size() < 2 || list.get(list.size() - 1).add(list.get(list.size() - 2)).equals(temp)) {
-                list.add(temp);
-                boolean flag = dfs(list, endIndex + 1, num);
-                if (flag) {
+            BigInteger val = new BigInteger(temp);
+            if (list.size() < 2) {
+                list.add(val);
+                if (dfs(list, j + 1, num)) {
                     return true;
                 }
                 list.remove(list.size() - 1);
+            } else {
+                BigInteger v1 = list.get(list.size() - 2);
+                BigInteger v2 = list.get(list.size() - 1);
+                if (v1.add(v2).equals(val)) {
+                    list.add(val);
+                    if (dfs(list, j + 1, num)) {
+                        return true;
+                    }
+                    list.remove(list.size() - 1);
+                }
             }
         }
         return false;
     }
 
     public static void main(String[] args) {
-        String      t           = "11235813213455890144";
+        String      t           = "199100199";
         Solution306 solution306 = new Solution306();
         System.out.println(solution306.isAdditiveNumber(t));
     }
-
 
 
 }
