@@ -20,6 +20,43 @@ public class MedianOfSortedArray {
         return getMedian(0, n - 1, 0, n - 1);
     }
 
+
+    private double getMedia2(int[] num1, int[] num2) {
+        int left1  = 0;
+        int right1 = num1.length - 1;
+        int left2  = 0;
+        int right2 = num2.length - 1;
+        while (left1 < right1) {
+            int len1 = right1 - left1 + 1;
+            int len2 = right2 - left2 + 1;
+            int mid1 = (left1 + right1) / 2;
+            int mid2 = (left2 + right2) / 2;
+
+            boolean flag = (right1 - left1 + 1) % 2 == 0;
+            if (num1[mid1] == num2[mid2]) {
+                return num1[mid1];
+            } else if (num1[mid1] < num2[mid2]) {
+                //偶数
+                if (flag) {
+                    left1 = mid1 + 1;
+                } else {
+                    //奇数
+                    left1 = mid1;
+                }
+                right2 = mid2;
+            } else {
+                if (flag) {
+                    left2 = mid2 + 1;
+                } else {
+                    left2 = mid2;
+                }
+                right1 = mid1;
+            }
+        }
+        System.out.println(num1[left1] + " " + num2[left2]);
+        return Math.min(num1[left1], num2[left2]);
+    }
+
     private int getMedian(int left1, int right1,
                           int left2, int right2) {
 
@@ -46,7 +83,7 @@ public class MedianOfSortedArray {
 
     public static void main(String[] args) {
         MedianOfSortedArray medianOfSortedArray = new MedianOfSortedArray();
-        int                 ans                 = medianOfSortedArray.getMedian(new int[]{1,4,10,15}, new int[]{2,3,4,6});
+        double              ans                 = medianOfSortedArray.getMedia2(new int[]{1, 8, 12}, new int[]{4, 6, 7});
         System.out.println(ans);
     }
 }

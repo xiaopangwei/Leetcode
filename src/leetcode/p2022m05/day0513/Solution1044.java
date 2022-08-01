@@ -58,23 +58,42 @@ public class Solution1044 {
         return null;
     }
 
+
+    public long rehash(String original) {
+        int  i    = 0;
+        long h    = 0;
+        long base = 1;
+        int  len  = original.length();
+        while (i < len) {
+            System.out.println(String.format("%d * %d + %d",h,factor,(int)original.charAt(i)));
+            h = h * factor + original.charAt(i);
+            System.out.println("hash:"+h);
+            base *= factor;
+            i++;
+        }
+        return h;
+    }
+
     public static void main(String[] args) {
 //        Solution1044 solution1044 = new Solution1044();
 //        String       ans          = solution1044.longestDupSubstring("aa");
 
+        Solution1044 solution1044=new Solution1044();
+        solution1044.rehash("abcad");
 
-        String temp = "bae";
-
-        int  i      = 0;
-        long h      = 0;
-        long base   = 1;
-        int  factor = 31;
-        while (i < temp.length()) {
-            h = h * factor + temp.charAt(i);
-            base *= factor;
-            i++;
-        }
-        System.out.println(h);
-        System.out.println(base);
+//
+//        String temp = "bae";
+//
+//        int  i      = 0;
+//        long h      = 0;
+//        long base   = 1;
+//        int  factor = 31;
+//        while (i < temp.length()) {
+//            h = h * factor + temp.charAt(i);
+//            base *= factor;
+//            i++;
+//        }
+//        System.out.println(h);
+//        System.out.println(base);
     }
 }

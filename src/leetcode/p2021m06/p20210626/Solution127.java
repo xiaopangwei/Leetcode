@@ -115,7 +115,8 @@ public class Solution127 {
 //                solution127.getNextWordList("cog",Arrays.asList("hot","dot","dog","lot","log","cog")));
 
 //        System.out.println(solution127.ladderLength("hot","dog",Arrays.asList("hot","dog")));
-        System.out.println(solution127.ladderLength("hit","cog",Arrays.asList("hot","dot","dog","lot","log","cog")));
+
+        System.out.println(solution127.ladderLength("hog","cog",Arrays.asList("cog")));
 
 
     }

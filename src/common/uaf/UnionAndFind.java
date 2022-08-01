@@ -56,13 +56,18 @@ public class UnionAndFind {
         int parentX = find(x);
         int parentY = find(y);
 
+        if(parentX==parentY){
+            return;
+        }
         if (rank[parentX] < rank[parentY]) {
             parent[parentX] = parentY;
+            rank[parentY]+=rank[parentX];
         } else if (rank[parentY] < rank[parentX]) {
             parent[parentY] = parentX;
+            rank[parentX]+=rank[parentY];
         } else {
             parent[parentX] = parentY;
-            rank[parentY]++;
+            rank[parentY]+=rank[parentX];
         }
 
     }
