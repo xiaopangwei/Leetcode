@@ -1,4 +1,4 @@
-package leetcode.p2022m06.p20220625;
+package leetcode.p2022m06.day0625;
 
 import java.util.Arrays;
 

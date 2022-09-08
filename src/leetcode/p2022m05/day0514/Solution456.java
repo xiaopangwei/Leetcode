@@ -1,6 +1,6 @@
 package leetcode.p2022m05.day0514;
 
-import java.util.Stack;
+import java.util.TreeSet;
 
 /**
  * <p>Description: </p>
@@ -12,24 +12,31 @@ import java.util.Stack;
  */
 public class Solution456 {
     public boolean find132pattern(int[] nums) {
-        Stack<Integer> stack  = new Stack<>();
-        //我们从后往前做，维护一个「单调递减」的栈，同时使用 k 记录所有出栈元素的最大值
-        int            maxVal = Integer.MIN_VALUE;
-        for (int i = nums.length - 1; i >= 0; i--) {
-            if (nums[i] < maxVal) {
+        int   n        = nums.length;
+        int[] minArray = new int[n];
+        minArray[0] = nums[0];
+        for (int i = 1; i < n; i++) {
+            minArray[i] = Math.min(minArray[i], nums[i]);
+        }
+
+        TreeSet<Integer> treeSet = new TreeSet<>();
+        treeSet.add(nums[n - 1]);
+        for (int i = n - 2; i >= 0; i--) {
+            treeSet.add(nums[i]);
+            if (minArray[i] >= nums[i]) {
+                continue;
+            }
+            Integer t = treeSet.lower(nums[i]);
+            if (t != null && minArray[i] < t) {
                 return true;
             }
-            while (!stack.isEmpty() && stack.peek() < nums[i]) {
-                maxVal = Math.max(stack.pop(), maxVal);
-            }
-            stack.push(nums[i]);
         }
         return false;
     }
 
-    public static void main(String[] argd){
-        Solution456 solution456=new Solution456();
-        boolean ans=solution456.find132pattern(new int[]{3,1,4,2});
+    public static void main(String[] argd) {
+        Solution456 solution456 = new Solution456();
+        boolean     ans         = solution456.find132pattern(new int[]{3, 1, 4, 2});
         System.out.println(ans);
     }
 }
