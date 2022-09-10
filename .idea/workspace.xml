@@ -2,253 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6855f4be-d962-4b58-81c6-e8916000befe" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/ListNode.java" afterPath="$PROJECT_DIR$/src/common/ListNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/Node.java" afterPath="$PROJECT_DIR$/src/common/Node.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/Solution.java" afterPath="$PROJECT_DIR$/src/common/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/example/TreeNode.java" afterPath="$PROJECT_DIR$/src/common/TreeNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/Solution202.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/Solution202.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/Solution269.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/Solution269.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20200219/RandomTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20200219/RandomTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution148.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution148.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution19.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution19.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution300.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution300.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/Solution54.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/Solution54.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210209/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210209/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/SelfDefinedHeap.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/SelfDefinedHeap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/Solution215.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/Solution215.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210210/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210210/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/IntConsumerTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/IntConsumerTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1114Copy3.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1114Copy3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/Solution1115Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/Solution1115Copy2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210211/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210211/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/BoundedBlockingQueue.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/BoundedBlockingQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/NotifyAndWaitTest.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/NotifyAndWaitTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1116Copy3.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1116Copy3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1117.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1117.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1195.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1195.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/Solution1226.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/Solution1226.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210212/TemplateMain1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210212/TemplateMain1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/SpinLock.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/SpinLock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomic2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomic2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestAtomicStampedRef.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestAtomicStampedRef.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210213/TestBoundedQueue.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210213/TestBoundedQueue.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Father.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Father.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/KmpSolution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/KmpSolution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Solution28.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Solution28.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/Son.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/Son.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210214/TestJavaClass.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210214/TestJavaClass.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/Father.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/Father.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/MyInterface1.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/MyInterface1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/Son.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/Son.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210215/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210215/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution283.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution283.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution329.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution329.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/Solution49.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/Solution49.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210216/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210216/TemplateMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution134.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution134.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution179.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution179.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210217/Solution34.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210217/Solution34.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/DFS.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DFS.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/DeepCopy.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/DeepCopy.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Palindrome.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Palindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/PartitionSort.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/PartitionSort.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Permutation.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution131.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution131.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution207.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution207.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution38.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution38.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Solution91.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Solution91.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/Trie.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/Trie.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210218/WordTranslation.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210218/WordTranslation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210221/NestedIterator.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210221/NestedIterator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210221/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210221/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution131.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution131.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution216.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution216.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution39.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution39.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution698.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution698.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Solution77.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Solution77.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210223/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210223/Template.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210224/QuickSortDemo.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210224/QuickSortDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210224/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210224/Template.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210225/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210225/Template.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210226/Template.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m02/p20210226/Template.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/MinStack.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/MinStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/ReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/ReverseLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution13.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution13.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution14.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution14.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution160.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution160.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1619.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1619.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution171.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution171.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1714.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1714.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution1723.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution1723.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/Solution55.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/Solution55.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210614/SolutionWater.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210614/SolutionWater.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/LRUCache.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/LRUCache.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution124.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution124.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution14I.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution14I.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution14II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution14II.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1626.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1626.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1650.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1650.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution1793.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution1793.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution221.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution221.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution240.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution240.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution51.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution51.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution62.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution62.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution84.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution84.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/Solution85.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/Solution85.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210619/StockSpanner.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210619/StockSpanner.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution10.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution127.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution127.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution223.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution223.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution46.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution46.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution47.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution47.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution57I.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution57I.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution57II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution57II.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution61.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution61.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution752.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution752.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/Solution773.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/Solution773.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210626/StateMachine.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210626/StateMachine.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/DFSExample.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/DFSExample.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution1213.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution1213.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution1712.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution1712.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution393.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution393.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution65.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution65.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution653.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution653.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution71.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution71.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution815.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution815.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/Solution909.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/Solution909.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210627/SolutionLCP06.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210627/SolutionLCP06.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Reader4.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Reader4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution12.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution12.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution157.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution157.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution16.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution16.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution218.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution218.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution351.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution351.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210628/Solution365.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210628/Solution365.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution100.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution100.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution112.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution112.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution34.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution34.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution433.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution433.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution594.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution594.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution6.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/Solution628.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/Solution628.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210629/SolutionLCP22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210629/SolutionLCP22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/MyStack.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/MyStack.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution108.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution108.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution117.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution117.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution13Offer.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution13Offer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution15.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution15.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution1691.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution1691.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution17.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution17.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution1716.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution1716.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution18.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution18.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution225.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution225.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution35.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution35.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution36.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution36.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution37.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution37.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/Solution93.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/Solution93.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210630/TestList.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m06/p20210630/TestList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution169.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution169.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution297.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution297.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution456.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution456.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution679.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution679.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution739.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution739.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution746.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution746.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution8.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution8.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210701/Solution907.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210701/Solution907.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution10.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution10.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution29.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution29.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution4.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution63.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution63.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution645.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution645.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210703/Solution69.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210703/Solution69.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/LCP09.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/LCP09.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/LCP22.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/LCP22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution1418.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution1418.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution1711.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution1711.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution274.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution274.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution275.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution275.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution40.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution40.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution45.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution45.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5808.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5808.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5809.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5809.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5810.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5810.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution5811.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution5811.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/Solution90.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/Solution90.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210708/TimeMap.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210708/TimeMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210714/Solution.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210714/Solution.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/p20210714/Solution1818.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/p20210714/Solution1818.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SearchLeafNodeInBiTree.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SearchLeafNodeInBiTree.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/Solution726.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/Solution726.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionBucket.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionBucket.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionComputeString.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionComputeString.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionReverseLinkedList.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionReverseLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionRomeNumer.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionRomeNumer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/SolutionTransform.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/SolutionTransform.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/leetcode/shopee/TemplateMain.java" afterPath="$PROJECT_DIR$/src/leetcode/unknown/shopee/TemplateMain.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/test20210120/Solution92.java" afterPath="$PROJECT_DIR$/src/demo/test20210120/Solution92.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p20210312/Solution199.java" afterPath="$PROJECT_DIR$/src/leetcode/p20210312/Solution199.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution101.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution101.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution102.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution102.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution103.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution103.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution104.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution104.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution141.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution141.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution142.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution142.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution2.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution206.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution206.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution21.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution21.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution226.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution226.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution234.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution234.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution236.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution236.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution328.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution328.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution617.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution617.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671II.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution671II.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution863.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution863.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution94.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution94.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution98.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution98.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution987.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m07/Solution987.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/BSTIterator.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/BSTIterator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution110.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution110.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution114.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution114.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution133.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution133.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution143.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution143.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution1448.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution1448.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution230.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution230.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution235.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution235.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution24.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution24.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution285.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution285.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution450.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution450.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution543.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution543.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution545.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution545.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution572.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution572.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution61.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution61.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution669.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution669.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution83.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution83.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution86.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution86.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution876.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution876.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution99.java" afterPath="$PROJECT_DIR$/src/leetcode/p2021m08/Solution99.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -335,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution72.java" />
         <option value="$PROJECT_DIR$/src/example/ListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution23.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution168.java" />
@@ -383,9 +137,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution430.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution669.java" />
         <option value="$PROJECT_DIR$/src/leetcode/p2021m08/Solution526.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/leetcode/unknown/Solution269.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -423,8 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -435,12 +188,19 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
@@ -867,7 +627,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1197909000" />
+    <option name="totallyTimeSpent" value="1198345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -879,7 +639,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="38" width="1845" height="1057" extended-state="0" />
+    <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49574015" order="7" side_tool="false" content_ui="tabs" />
@@ -898,27 +658,52 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.4659212" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6144835" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937294" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.4659212" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54419595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19689406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5435606" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1769691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49574015" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5266204" sideWeight="0.52871287" order="15" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.47875354" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18412349" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.48608536" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.49574015" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2512479" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38125667" sideWeight="0.47128713" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28935185" sideWeight="0.48668796" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32161874" sideWeight="0.49574015" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="ASMPlugin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14270501" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39669862" sideWeight="0.41926345" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6144835" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="leetcode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937294" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3226837" sideWeight="0.4659212" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="jclasslib" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6051502" sideWeight="0.5807365" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54419595" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19689406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908458" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32800853" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2071,13 +1856,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution59.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/p2021m08/Solution61.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -2433,11 +2211,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode-Practice.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/completition/Solution1790.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution269.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution202.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -2446,42 +2252,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode-Practice.iml">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="361">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#4645#4649#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
+        <state relative-caret-position="89">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/completition/Solution1790.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution269.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/unknown/Solution202.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding />
         </state>
       </provider>
