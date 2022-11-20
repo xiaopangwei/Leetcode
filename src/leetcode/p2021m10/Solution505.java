@@ -1,6 +1,8 @@
 package leetcode.p2021m10;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * <p>Description: </p>
@@ -23,58 +25,29 @@ public class Solution505 {
         Queue<int[]> queue = new LinkedList<>();
         queue.add(start);
         distance[start[0]][start[1]] = 0;
-
-
         while (!queue.isEmpty()) {
-
             int[] prev = queue.poll();
-            int   x    = prev[0];
-            int   y    = prev[1];
+            for (int i = 0; i < directions.length; i++) {
+                int newX  = prev[0] + directions[i][0];
+                int newY  = prev[1] + directions[i][1];
+                int count = 0;
+                while (isValid(newX, newY, maze) && maze[newX][newY]==0) {
+                    newX += directions[i][0];
+                    newY += directions[i][1];
+                    count++;
+                }
 
-            int         prevDist   = distance[x][y];
-            getCandidates(maze, new int[]{x, y}, prevDist, queue);
-
-        }
-
-        int dist=distance[destination[0]][destination[1]];
-        return dist==Integer.MAX_VALUE?-1:dist;
-    }
-
-
-    private void getCandidates(int[][] maze, int[] current,
-                                      int prevStep, Queue<int[]> queue) {
-
-
-
-        for (int i = 0; i < directions.length; i++) {
-            int     x    = current[0];
-            int     y    = current[1];
-            boolean flag = false;
-            int     temp = 0;
-            while (isValid(x + directions[i][0],
-                    y + directions[i][1], maze) &&
-                    maze[x + directions[i][0]][y + directions[i][1]] == 0) {
-                x += directions[i][0];
-                y += directions[i][1];
-                temp++;
-                flag = true;
-            }
-            if (flag) {
-                if (isValid(x, y, maze)) {
-
-                    int newStep = prevStep + temp;
-                    if (newStep <= distance[x][y]) {
-                        distance[x][y] = newStep;
-                        int[] t = new int[]{x, y};
-
-                        queue.add(t);
-                    }
+                newX -= directions[i][0];
+                newY -= directions[i][1];
+                if (distance[newX][newY] > distance[prev[0]][prev[1]] + count) {
+                    distance[newX][newY] = distance[prev[0]][prev[1]] + count;
+                    queue.add(new int[]{newX, newY});
                 }
             }
-
         }
-
+        return distance[destination[0]][destination[1]] == Integer.MAX_VALUE ? -1 : distance[destination[0]][destination[1]];
     }
+
 
     private boolean isValid(int x, int y, int[][] maze) {
         if (x < 0 || y < 0 || x >= maze.length || y >= maze[0].length) {
